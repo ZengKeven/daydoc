@@ -1,4 +1,12 @@
+import { readdirSync } from 'node:fs'
+import { resolve } from 'node:path'
 import { defineConfig } from 'vitepress'
+
+const reportItems = readdirSync(resolve(process.cwd(), 'docs/reports'), { withFileTypes: true })
+  .filter((entry) => entry.isFile() && /^\d{4}-\d{2}-\d{2}\.md$/.test(entry.name))
+  .map((entry) => entry.name.replace(/\.md$/, ''))
+  .sort((a, b) => b.localeCompare(a))
+  .map((date) => ({ text: date, link: `/reports/${date}` }))
 
 export default defineConfig({
   base: process.env.VITEPRESS_BASE ?? '/',
@@ -36,7 +44,7 @@ export default defineConfig({
         {
           text: '趋势报告',
           collapsed: false,
-          items: [{ text: '全部报告', link: '/reports/' }],
+          items: [{ text: '全部报告', link: '/reports/' }, ...reportItems],
         },
       ],
     },
