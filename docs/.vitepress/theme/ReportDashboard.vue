@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { withBase } from 'vitepress'
 import { computed } from 'vue'
 import { data as reports } from '../../reports.data'
 
@@ -19,7 +20,7 @@ const totalProjects = computed(() => reports.reduce((sum, report) => sum + repor
     </div>
 
     <div v-if="visibleReports.length" class="report-list">
-      <a v-for="report in visibleReports" :key="report.date" class="report-card" :href="report.url">
+      <a v-for="report in visibleReports" :key="report.date" class="report-card" :href="withBase(report.url)">
         <span class="report-date">{{ report.date }}</span>
         <span class="report-meta">新增 {{ report.count }} 个项目 · {{ report.highlights }}</span>
         <span class="report-arrow" aria-hidden="true">→</span>
@@ -27,6 +28,6 @@ const totalProjects = computed(() => reports.reduce((sum, report) => sum + repor
     </div>
     <p v-else>尚未生成报告。</p>
 
-    <a v-if="mode === 'home'" class="archive-link" href="/reports/">查看完整报告归档 →</a>
+    <a v-if="mode === 'home'" class="archive-link" :href="withBase('/reports/')">查看完整报告归档 →</a>
   </section>
 </template>
