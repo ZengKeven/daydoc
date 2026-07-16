@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: process.env.VITEPRESS_BASE ?? '/',
   lang: 'zh-CN',
   title: 'DayDoc',
   titleTemplate: ':title · DayDoc',
