@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-16T12:12:09+08:00",
+  "updated_at": "2026-07-17T08:07:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -12,6 +12,18 @@
     { "canonical_url": "https://github.com/builtbybel/fluentcleaner", "owner_repo": "builtbybel/FluentCleaner", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/appflowy-io/appflowy", "owner_repo": "AppFlowy-IO/AppFlowy", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/localsend/localsend", "owner_repo": "localsend/localsend", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
-    { "canonical_url": "https://github.com/krthirtho/spotube", "owner_repo": "KRTirtho/spotube", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" }
+    { "canonical_url": "https://github.com/krthirtho/spotube", "owner_repo": "KRTirtho/spotube", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
+    { "canonical_url": "https://github.com/nutlope/hallmark", "owner_repo": "Nutlope/hallmark", "first_seen_date": "2026-07-17", "report_file": "outputs/github-trending/2026-07-17.md" },
+    { "canonical_url": "https://github.com/openinterpreter/openinterpreter", "owner_repo": "openinterpreter/openinterpreter", "first_seen_date": "2026-07-17", "report_file": "outputs/github-trending/2026-07-17.md" },
+    { "canonical_url": "https://github.com/nousresearch/hermes-agent", "owner_repo": "NousResearch/hermes-agent", "first_seen_date": "2026-07-17", "report_file": "outputs/github-trending/2026-07-17.md" },
+    { "canonical_url": "https://github.com/anomalyco/opencode", "owner_repo": "anomalyco/opencode", "first_seen_date": "2026-07-17", "report_file": "outputs/github-trending/2026-07-17.md" },
+    { "canonical_url": "https://github.com/callstack/agent-device", "owner_repo": "callstack/agent-device", "first_seen_date": "2026-07-17", "report_file": "outputs/github-trending/2026-07-17.md" },
+    { "canonical_url": "https://github.com/coplaydev/unity-mcp", "owner_repo": "CoplayDev/unity-mcp", "first_seen_date": "2026-07-17", "report_file": "outputs/github-trending/2026-07-17.md" },
+    { "canonical_url": "https://github.com/memstechtips/winhance", "owner_repo": "memstechtips/Winhance", "first_seen_date": "2026-07-17", "report_file": "outputs/github-trending/2026-07-17.md" },
+    { "canonical_url": "https://github.com/algerkong/algermusicplayer", "owner_repo": "algerkong/AlgerMusicPlayer", "first_seen_date": "2026-07-17", "report_file": "outputs/github-trending/2026-07-17.md" },
+    { "canonical_url": "https://github.com/frappe/builder", "owner_repo": "frappe/builder", "first_seen_date": "2026-07-17", "report_file": "outputs/github-trending/2026-07-17.md" },
+    { "canonical_url": "https://github.com/karingx/karing", "owner_repo": "KaringX/karing", "first_seen_date": "2026-07-17", "report_file": "outputs/github-trending/2026-07-17.md" },
+    { "canonical_url": "https://github.com/edde746/plezy", "owner_repo": "edde746/plezy", "first_seen_date": "2026-07-17", "report_file": "outputs/github-trending/2026-07-17.md" },
+    { "canonical_url": "https://github.com/flutter/agent-plugins", "owner_repo": "flutter/agent-plugins", "first_seen_date": "2026-07-17", "report_file": "outputs/github-trending/2026-07-17.md" }
   ]
 }
