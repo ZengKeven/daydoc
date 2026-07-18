@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-17T08:07:00+08:00",
+  "updated_at": "2026-07-18T08:09:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -24,6 +24,18 @@
     { "canonical_url": "https://github.com/frappe/builder", "owner_repo": "frappe/builder", "first_seen_date": "2026-07-17", "report_file": "outputs/github-trending/2026-07-17.md" },
     { "canonical_url": "https://github.com/karingx/karing", "owner_repo": "KaringX/karing", "first_seen_date": "2026-07-17", "report_file": "outputs/github-trending/2026-07-17.md" },
     { "canonical_url": "https://github.com/edde746/plezy", "owner_repo": "edde746/plezy", "first_seen_date": "2026-07-17", "report_file": "outputs/github-trending/2026-07-17.md" },
-    { "canonical_url": "https://github.com/flutter/agent-plugins", "owner_repo": "flutter/agent-plugins", "first_seen_date": "2026-07-17", "report_file": "outputs/github-trending/2026-07-17.md" }
+    { "canonical_url": "https://github.com/flutter/agent-plugins", "owner_repo": "flutter/agent-plugins", "first_seen_date": "2026-07-17", "report_file": "outputs/github-trending/2026-07-17.md" },
+    { "canonical_url": "https://github.com/opencut-app/opencut", "owner_repo": "OpenCut-app/OpenCut", "first_seen_date": "2026-07-18", "report_file": "outputs/github-trending/2026-07-18.md" },
+    { "canonical_url": "https://github.com/hkuds/deeptutor", "owner_repo": "HKUDS/DeepTutor", "first_seen_date": "2026-07-18", "report_file": "outputs/github-trending/2026-07-18.md" },
+    { "canonical_url": "https://github.com/ibelick/ui-skills", "owner_repo": "ibelick/ui-skills", "first_seen_date": "2026-07-18", "report_file": "outputs/github-trending/2026-07-18.md" },
+    { "canonical_url": "https://github.com/ryancodrai/turbovec", "owner_repo": "RyanCodrai/turbovec", "first_seen_date": "2026-07-18", "report_file": "outputs/github-trending/2026-07-18.md" },
+    { "canonical_url": "https://github.com/github/copilot-sdk", "owner_repo": "github/copilot-sdk", "first_seen_date": "2026-07-18", "report_file": "outputs/github-trending/2026-07-18.md" },
+    { "canonical_url": "https://github.com/moeru-ai/airi", "owner_repo": "moeru-ai/airi", "first_seen_date": "2026-07-18", "report_file": "outputs/github-trending/2026-07-18.md" },
+    { "canonical_url": "https://github.com/chen08209/flclash", "owner_repo": "chen08209/FlClash", "first_seen_date": "2026-07-18", "report_file": "outputs/github-trending/2026-07-18.md" },
+    { "canonical_url": "https://github.com/ente/ente", "owner_repo": "ente/ente", "first_seen_date": "2026-07-18", "report_file": "outputs/github-trending/2026-07-18.md" },
+    { "canonical_url": "https://github.com/ayangweb/bongocat", "owner_repo": "ayangweb/BongoCat", "first_seen_date": "2026-07-18", "report_file": "outputs/github-trending/2026-07-18.md" },
+    { "canonical_url": "https://github.com/vbenjs/vue-vben-admin", "owner_repo": "vbenjs/vue-vben-admin", "first_seen_date": "2026-07-18", "report_file": "outputs/github-trending/2026-07-18.md" },
+    { "canonical_url": "https://github.com/technitiumsoftware/dnsserver", "owner_repo": "TechnitiumSoftware/DnsServer", "first_seen_date": "2026-07-18", "report_file": "outputs/github-trending/2026-07-18.md" },
+    { "canonical_url": "https://github.com/kareadita/kavita", "owner_repo": "Kareadita/Kavita", "first_seen_date": "2026-07-18", "report_file": "outputs/github-trending/2026-07-18.md" }
   ]
 }
