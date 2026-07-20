@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-18T08:09:00+08:00",
+  "updated_at": "2026-07-20T10:54:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -36,6 +36,14 @@
     { "canonical_url": "https://github.com/ayangweb/bongocat", "owner_repo": "ayangweb/BongoCat", "first_seen_date": "2026-07-18", "report_file": "outputs/github-trending/2026-07-18.md" },
     { "canonical_url": "https://github.com/vbenjs/vue-vben-admin", "owner_repo": "vbenjs/vue-vben-admin", "first_seen_date": "2026-07-18", "report_file": "outputs/github-trending/2026-07-18.md" },
     { "canonical_url": "https://github.com/technitiumsoftware/dnsserver", "owner_repo": "TechnitiumSoftware/DnsServer", "first_seen_date": "2026-07-18", "report_file": "outputs/github-trending/2026-07-18.md" },
-    { "canonical_url": "https://github.com/kareadita/kavita", "owner_repo": "Kareadita/Kavita", "first_seen_date": "2026-07-18", "report_file": "outputs/github-trending/2026-07-18.md" }
+    { "canonical_url": "https://github.com/kareadita/kavita", "owner_repo": "Kareadita/Kavita", "first_seen_date": "2026-07-18", "report_file": "outputs/github-trending/2026-07-18.md" },
+    { "canonical_url": "https://github.com/thedotmack/claude-mem", "owner_repo": "thedotmack/claude-mem", "first_seen_date": "2026-07-19", "report_file": "outputs/github-trending/2026-07-19.md" },
+    { "canonical_url": "https://github.com/hiddify/hiddify-app", "owner_repo": "hiddify/hiddify-app", "first_seen_date": "2026-07-19", "report_file": "outputs/github-trending/2026-07-19.md" },
+    { "canonical_url": "https://github.com/openwhispr/openwhispr", "owner_repo": "OpenWhispr/openwhispr", "first_seen_date": "2026-07-19", "report_file": "outputs/github-trending/2026-07-19.md" },
+    { "canonical_url": "https://github.com/devolutions/unigetui", "owner_repo": "Devolutions/UniGetUI", "first_seen_date": "2026-07-19", "report_file": "outputs/github-trending/2026-07-19.md" },
+    { "canonical_url": "https://github.com/files-community/files", "owner_repo": "files-community/Files", "first_seen_date": "2026-07-19", "report_file": "outputs/github-trending/2026-07-19.md" },
+    { "canonical_url": "https://github.com/monogame/monogame", "owner_repo": "MonoGame/MonoGame", "first_seen_date": "2026-07-19", "report_file": "outputs/github-trending/2026-07-19.md" },
+    { "canonical_url": "https://github.com/freetubeapp/freetube", "owner_repo": "FreeTubeApp/FreeTube", "first_seen_date": "2026-07-19", "report_file": "outputs/github-trending/2026-07-19.md" },
+    { "canonical_url": "https://github.com/corentinth/it-tools", "owner_repo": "CorentinTh/it-tools", "first_seen_date": "2026-07-19", "report_file": "outputs/github-trending/2026-07-19.md" }
   ]
 }
