@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-20T10:54:00+08:00",
+  "updated_at": "2026-07-20T11:01:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -44,6 +44,14 @@
     { "canonical_url": "https://github.com/files-community/files", "owner_repo": "files-community/Files", "first_seen_date": "2026-07-19", "report_file": "outputs/github-trending/2026-07-19.md" },
     { "canonical_url": "https://github.com/monogame/monogame", "owner_repo": "MonoGame/MonoGame", "first_seen_date": "2026-07-19", "report_file": "outputs/github-trending/2026-07-19.md" },
     { "canonical_url": "https://github.com/freetubeapp/freetube", "owner_repo": "FreeTubeApp/FreeTube", "first_seen_date": "2026-07-19", "report_file": "outputs/github-trending/2026-07-19.md" },
-    { "canonical_url": "https://github.com/corentinth/it-tools", "owner_repo": "CorentinTh/it-tools", "first_seen_date": "2026-07-19", "report_file": "outputs/github-trending/2026-07-19.md" }
+    { "canonical_url": "https://github.com/corentinth/it-tools", "owner_repo": "CorentinTh/it-tools", "first_seen_date": "2026-07-19", "report_file": "outputs/github-trending/2026-07-19.md" },
+    { "canonical_url": "https://github.com/tirth8205/code-review-graph", "owner_repo": "tirth8205/code-review-graph", "first_seen_date": "2026-07-20", "report_file": "outputs/github-trending/2026-07-20.md" },
+    { "canonical_url": "https://github.com/jamiepine/voicebox", "owner_repo": "jamiepine/voicebox", "first_seen_date": "2026-07-20", "report_file": "outputs/github-trending/2026-07-20.md" },
+    { "canonical_url": "https://github.com/moonshotai/kimi-cli", "owner_repo": "MoonshotAI/kimi-cli", "first_seen_date": "2026-07-20", "report_file": "outputs/github-trending/2026-07-20.md" },
+    { "canonical_url": "https://github.com/kvcache-ai/ktransformers", "owner_repo": "kvcache-ai/ktransformers", "first_seen_date": "2026-07-20", "report_file": "outputs/github-trending/2026-07-20.md" },
+    { "canonical_url": "https://github.com/topoteretes/cognee", "owner_repo": "topoteretes/cognee", "first_seen_date": "2026-07-20", "report_file": "outputs/github-trending/2026-07-20.md" },
+    { "canonical_url": "https://github.com/canner/wrenai", "owner_repo": "Canner/WrenAI", "first_seen_date": "2026-07-20", "report_file": "outputs/github-trending/2026-07-20.md" },
+    { "canonical_url": "https://github.com/astrbotdevs/astrbot", "owner_repo": "AstrBotDevs/AstrBot", "first_seen_date": "2026-07-20", "report_file": "outputs/github-trending/2026-07-20.md" },
+    { "canonical_url": "https://github.com/trycua/cua", "owner_repo": "trycua/cua", "first_seen_date": "2026-07-20", "report_file": "outputs/github-trending/2026-07-20.md" }
   ]
 }
