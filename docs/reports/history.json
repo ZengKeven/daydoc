@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-20T11:01:00+08:00",
+  "updated_at": "2026-07-21T08:04:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -52,6 +52,15 @@
     { "canonical_url": "https://github.com/topoteretes/cognee", "owner_repo": "topoteretes/cognee", "first_seen_date": "2026-07-20", "report_file": "outputs/github-trending/2026-07-20.md" },
     { "canonical_url": "https://github.com/canner/wrenai", "owner_repo": "Canner/WrenAI", "first_seen_date": "2026-07-20", "report_file": "outputs/github-trending/2026-07-20.md" },
     { "canonical_url": "https://github.com/astrbotdevs/astrbot", "owner_repo": "AstrBotDevs/AstrBot", "first_seen_date": "2026-07-20", "report_file": "outputs/github-trending/2026-07-20.md" },
-    { "canonical_url": "https://github.com/trycua/cua", "owner_repo": "trycua/cua", "first_seen_date": "2026-07-20", "report_file": "outputs/github-trending/2026-07-20.md" }
+    { "canonical_url": "https://github.com/trycua/cua", "owner_repo": "trycua/cua", "first_seen_date": "2026-07-20", "report_file": "outputs/github-trending/2026-07-20.md" },
+    { "canonical_url": "https://github.com/oblien/openship", "owner_repo": "oblien/openship", "first_seen_date": "2026-07-21", "report_file": "outputs/github-trending/2026-07-21.md" },
+    { "canonical_url": "https://github.com/diegosouzapw/omniroute", "owner_repo": "diegosouzapw/OmniRoute", "first_seen_date": "2026-07-21", "report_file": "outputs/github-trending/2026-07-21.md" },
+    { "canonical_url": "https://github.com/every-app/open-seo", "owner_repo": "every-app/open-seo", "first_seen_date": "2026-07-21", "report_file": "outputs/github-trending/2026-07-21.md" },
+    { "canonical_url": "https://github.com/microsoft/ontology-playground", "owner_repo": "microsoft/Ontology-Playground", "first_seen_date": "2026-07-21", "report_file": "outputs/github-trending/2026-07-21.md" },
+    { "canonical_url": "https://github.com/vercel-labs/deepsec", "owner_repo": "vercel-labs/deepsec", "first_seen_date": "2026-07-21", "report_file": "outputs/github-trending/2026-07-21.md" },
+    { "canonical_url": "https://github.com/prefecthq/fastmcp", "owner_repo": "PrefectHQ/fastmcp", "first_seen_date": "2026-07-21", "report_file": "outputs/github-trending/2026-07-21.md" },
+    { "canonical_url": "https://github.com/wanghongenpin/proxypin", "owner_repo": "wanghongenpin/proxypin", "first_seen_date": "2026-07-21", "report_file": "outputs/github-trending/2026-07-21.md" },
+    { "canonical_url": "https://github.com/lissy93/dashy", "owner_repo": "lissy93/dashy", "first_seen_date": "2026-07-21", "report_file": "outputs/github-trending/2026-07-21.md" },
+    { "canonical_url": "https://github.com/librehardwaremonitor/librehardwaremonitor", "owner_repo": "LibreHardwareMonitor/LibreHardwareMonitor", "first_seen_date": "2026-07-21", "report_file": "outputs/github-trending/2026-07-21.md" }
   ]
 }
