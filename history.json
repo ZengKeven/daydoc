@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-21T08:04:00+08:00",
+  "updated_at": "2026-07-22T08:08:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -61,6 +61,16 @@
     { "canonical_url": "https://github.com/prefecthq/fastmcp", "owner_repo": "PrefectHQ/fastmcp", "first_seen_date": "2026-07-21", "report_file": "outputs/github-trending/2026-07-21.md" },
     { "canonical_url": "https://github.com/wanghongenpin/proxypin", "owner_repo": "wanghongenpin/proxypin", "first_seen_date": "2026-07-21", "report_file": "outputs/github-trending/2026-07-21.md" },
     { "canonical_url": "https://github.com/lissy93/dashy", "owner_repo": "lissy93/dashy", "first_seen_date": "2026-07-21", "report_file": "outputs/github-trending/2026-07-21.md" },
-    { "canonical_url": "https://github.com/librehardwaremonitor/librehardwaremonitor", "owner_repo": "LibreHardwareMonitor/LibreHardwareMonitor", "first_seen_date": "2026-07-21", "report_file": "outputs/github-trending/2026-07-21.md" }
+    { "canonical_url": "https://github.com/librehardwaremonitor/librehardwaremonitor", "owner_repo": "LibreHardwareMonitor/LibreHardwareMonitor", "first_seen_date": "2026-07-21", "report_file": "outputs/github-trending/2026-07-21.md" },
+    { "canonical_url": "https://github.com/bojieli/ai-agent-book", "owner_repo": "bojieli/ai-agent-book", "first_seen_date": "2026-07-22", "report_file": "outputs/github-trending/2026-07-22.md" },
+    { "canonical_url": "https://github.com/stablyai/orca", "owner_repo": "stablyai/orca", "first_seen_date": "2026-07-22", "report_file": "outputs/github-trending/2026-07-22.md" },
+    { "canonical_url": "https://github.com/koala73/worldmonitor", "owner_repo": "koala73/worldmonitor", "first_seen_date": "2026-07-22", "report_file": "outputs/github-trending/2026-07-22.md" },
+    { "canonical_url": "https://github.com/1jehuang/jcode", "owner_repo": "1jehuang/jcode", "first_seen_date": "2026-07-22", "report_file": "outputs/github-trending/2026-07-22.md" },
+    { "canonical_url": "https://github.com/knockoutez/wigolo", "owner_repo": "KnockOutEZ/wigolo", "first_seen_date": "2026-07-22", "report_file": "outputs/github-trending/2026-07-22.md" },
+    { "canonical_url": "https://github.com/earthtojake/text-to-cad", "owner_repo": "earthtojake/text-to-cad", "first_seen_date": "2026-07-22", "report_file": "outputs/github-trending/2026-07-22.md" },
+    { "canonical_url": "https://github.com/agegr/pi-web", "owner_repo": "agegr/pi-web", "first_seen_date": "2026-07-22", "report_file": "outputs/github-trending/2026-07-22.md" },
+    { "canonical_url": "https://github.com/tradesdontlie/tradingview-mcp", "owner_repo": "tradesdontlie/tradingview-mcp", "first_seen_date": "2026-07-22", "report_file": "outputs/github-trending/2026-07-22.md" },
+    { "canonical_url": "https://github.com/itsfatduck/optimizerduck", "owner_repo": "itsfatduck/optimizerDuck", "first_seen_date": "2026-07-22", "report_file": "outputs/github-trending/2026-07-22.md" },
+    { "canonical_url": "https://github.com/hacan359/tonkatsu_box", "owner_repo": "hacan359/tonkatsu_box", "first_seen_date": "2026-07-22", "report_file": "outputs/github-trending/2026-07-22.md" }
   ]
 }
