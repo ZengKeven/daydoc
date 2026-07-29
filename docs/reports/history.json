@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-24T08:12:00+08:00",
+  "updated_at": "2026-07-29T10:50:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -83,6 +83,18 @@
     { "canonical_url": "https://github.com/corebunch/instatic", "owner_repo": "CoreBunch/Instatic", "first_seen_date": "2026-07-24", "report_file": "outputs/github-trending/2026-07-24.md" },
     { "canonical_url": "https://github.com/hefengxian/my-ielts", "owner_repo": "hefengxian/my-ielts", "first_seen_date": "2026-07-24", "report_file": "outputs/github-trending/2026-07-24.md" },
     { "canonical_url": "https://github.com/jellyfin/jellyfin", "owner_repo": "jellyfin/jellyfin", "first_seen_date": "2026-07-24", "report_file": "outputs/github-trending/2026-07-24.md" },
-    { "canonical_url": "https://github.com/basedhardware/omi", "owner_repo": "BasedHardware/omi", "first_seen_date": "2026-07-24", "report_file": "outputs/github-trending/2026-07-24.md" }
+    { "canonical_url": "https://github.com/basedhardware/omi", "owner_repo": "BasedHardware/omi", "first_seen_date": "2026-07-24", "report_file": "outputs/github-trending/2026-07-24.md" },
+    { "canonical_url": "https://github.com/pbakaus/impeccable", "owner_repo": "pbakaus/impeccable", "first_seen_date": "2026-07-29", "report_file": "outputs/github-trending/2026-07-29.md" },
+    { "canonical_url": "https://github.com/agentscope-ai/qwenpaw", "owner_repo": "agentscope-ai/QwenPaw", "first_seen_date": "2026-07-29", "report_file": "outputs/github-trending/2026-07-29.md" },
+    { "canonical_url": "https://github.com/firecrawl/firecrawl", "owner_repo": "firecrawl/firecrawl", "first_seen_date": "2026-07-29", "report_file": "outputs/github-trending/2026-07-29.md" },
+    { "canonical_url": "https://github.com/usestrix/strix", "owner_repo": "usestrix/strix", "first_seen_date": "2026-07-29", "report_file": "outputs/github-trending/2026-07-29.md" },
+    { "canonical_url": "https://github.com/pascalorg/editor", "owner_repo": "pascalorg/editor", "first_seen_date": "2026-07-29", "report_file": "outputs/github-trending/2026-07-29.md" },
+    { "canonical_url": "https://github.com/huggingface/speech-to-speech", "owner_repo": "huggingface/speech-to-speech", "first_seen_date": "2026-07-29", "report_file": "outputs/github-trending/2026-07-29.md" },
+    { "canonical_url": "https://github.com/volcengine/openviking", "owner_repo": "volcengine/OpenViking", "first_seen_date": "2026-07-29", "report_file": "outputs/github-trending/2026-07-29.md" },
+    { "canonical_url": "https://github.com/microsoft/flint-chart", "owner_repo": "microsoft/flint-chart", "first_seen_date": "2026-07-29", "report_file": "outputs/github-trending/2026-07-29.md" },
+    { "canonical_url": "https://github.com/builderio/agent-native", "owner_repo": "BuilderIO/agent-native", "first_seen_date": "2026-07-29", "report_file": "outputs/github-trending/2026-07-29.md" },
+    { "canonical_url": "https://github.com/microsoft/agent-governance-toolkit", "owner_repo": "microsoft/agent-governance-toolkit", "first_seen_date": "2026-07-29", "report_file": "outputs/github-trending/2026-07-29.md" },
+    { "canonical_url": "https://github.com/k1tbyte/wand-enhancer", "owner_repo": "k1tbyte/Wand-Enhancer", "first_seen_date": "2026-07-29", "report_file": "outputs/github-trending/2026-07-29.md" },
+    { "canonical_url": "https://github.com/evan361425/flutter-pos-system", "owner_repo": "evan361425/flutter-pos-system", "first_seen_date": "2026-07-29", "report_file": "outputs/github-trending/2026-07-29.md" }
   ]
 }
