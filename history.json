@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T10:50:00+08:00",
+  "updated_at": "2026-07-30T08:12:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -95,6 +95,18 @@
     { "canonical_url": "https://github.com/builderio/agent-native", "owner_repo": "BuilderIO/agent-native", "first_seen_date": "2026-07-29", "report_file": "outputs/github-trending/2026-07-29.md" },
     { "canonical_url": "https://github.com/microsoft/agent-governance-toolkit", "owner_repo": "microsoft/agent-governance-toolkit", "first_seen_date": "2026-07-29", "report_file": "outputs/github-trending/2026-07-29.md" },
     { "canonical_url": "https://github.com/k1tbyte/wand-enhancer", "owner_repo": "k1tbyte/Wand-Enhancer", "first_seen_date": "2026-07-29", "report_file": "outputs/github-trending/2026-07-29.md" },
-    { "canonical_url": "https://github.com/evan361425/flutter-pos-system", "owner_repo": "evan361425/flutter-pos-system", "first_seen_date": "2026-07-29", "report_file": "outputs/github-trending/2026-07-29.md" }
+    { "canonical_url": "https://github.com/evan361425/flutter-pos-system", "owner_repo": "evan361425/flutter-pos-system", "first_seen_date": "2026-07-29", "report_file": "outputs/github-trending/2026-07-29.md" },
+    { "canonical_url": "https://github.com/microsoft/vibevoice", "owner_repo": "microsoft/VibeVoice", "first_seen_date": "2026-07-30", "report_file": "outputs/github-trending/2026-07-30.md" },
+    { "canonical_url": "https://github.com/different-ai/openwork", "owner_repo": "different-ai/openwork", "first_seen_date": "2026-07-30", "report_file": "outputs/github-trending/2026-07-30.md" },
+    { "canonical_url": "https://github.com/moonshotai/flashkda", "owner_repo": "MoonshotAI/FlashKDA", "first_seen_date": "2026-07-30", "report_file": "outputs/github-trending/2026-07-30.md" },
+    { "canonical_url": "https://github.com/sgl-project/sglang", "owner_repo": "sgl-project/sglang", "first_seen_date": "2026-07-30", "report_file": "outputs/github-trending/2026-07-30.md" },
+    { "canonical_url": "https://github.com/remotion-dev/remotion", "owner_repo": "remotion-dev/remotion", "first_seen_date": "2026-07-30", "report_file": "outputs/github-trending/2026-07-30.md" },
+    { "canonical_url": "https://github.com/pingdotgg/t3code", "owner_repo": "pingdotgg/t3code", "first_seen_date": "2026-07-30", "report_file": "outputs/github-trending/2026-07-30.md" },
+    { "canonical_url": "https://github.com/linkwarden/linkwarden", "owner_repo": "linkwarden/linkwarden", "first_seen_date": "2026-07-30", "report_file": "outputs/github-trending/2026-07-30.md" },
+    { "canonical_url": "https://github.com/pipipi-pikachu/pptist", "owner_repo": "pipipi-pikachu/PPTist", "first_seen_date": "2026-07-30", "report_file": "outputs/github-trending/2026-07-30.md" },
+    { "canonical_url": "https://github.com/unovue/reka-ui", "owner_repo": "unovue/reka-ui", "first_seen_date": "2026-07-30", "report_file": "outputs/github-trending/2026-07-30.md" },
+    { "canonical_url": "https://github.com/2dust/v2rayn", "owner_repo": "2dust/v2rayN", "first_seen_date": "2026-07-30", "report_file": "outputs/github-trending/2026-07-30.md" },
+    { "canonical_url": "https://github.com/anxcye/anx-reader", "owner_repo": "Anxcye/anx-reader", "first_seen_date": "2026-07-30", "report_file": "outputs/github-trending/2026-07-30.md" },
+    { "canonical_url": "https://github.com/chevey339/kelivo", "owner_repo": "Chevey339/kelivo", "first_seen_date": "2026-07-30", "report_file": "outputs/github-trending/2026-07-30.md" }
   ]
 }
