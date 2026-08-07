@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-30T08:12:00+08:00",
+  "updated_at": "2026-08-07T09:52:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -107,6 +107,19 @@
     { "canonical_url": "https://github.com/unovue/reka-ui", "owner_repo": "unovue/reka-ui", "first_seen_date": "2026-07-30", "report_file": "outputs/github-trending/2026-07-30.md" },
     { "canonical_url": "https://github.com/2dust/v2rayn", "owner_repo": "2dust/v2rayN", "first_seen_date": "2026-07-30", "report_file": "outputs/github-trending/2026-07-30.md" },
     { "canonical_url": "https://github.com/anxcye/anx-reader", "owner_repo": "Anxcye/anx-reader", "first_seen_date": "2026-07-30", "report_file": "outputs/github-trending/2026-07-30.md" },
-    { "canonical_url": "https://github.com/chevey339/kelivo", "owner_repo": "Chevey339/kelivo", "first_seen_date": "2026-07-30", "report_file": "outputs/github-trending/2026-07-30.md" }
+    { "canonical_url": "https://github.com/chevey339/kelivo", "owner_repo": "Chevey339/kelivo", "first_seen_date": "2026-07-30", "report_file": "outputs/github-trending/2026-07-30.md" },
+    { "canonical_url": "https://github.com/cloudflare/computer", "owner_repo": "cloudflare/computer", "first_seen_date": "2026-08-07", "report_file": "outputs/github-trending/2026-08-07.md" },
+    { "canonical_url": "https://github.com/tencentcloud/tencentdb-agent-memory", "owner_repo": "TencentCloud/TencentDB-Agent-Memory", "first_seen_date": "2026-08-07", "report_file": "outputs/github-trending/2026-08-07.md" },
+    { "canonical_url": "https://github.com/huangruiteng/loopx", "owner_repo": "huangruiteng/loopx", "first_seen_date": "2026-08-07", "report_file": "outputs/github-trending/2026-08-07.md" },
+    { "canonical_url": "https://github.com/uber/adr", "owner_repo": "uber/ADR", "first_seen_date": "2026-08-07", "report_file": "outputs/github-trending/2026-08-07.md" },
+    { "canonical_url": "https://github.com/firecrawl/pdf-inspector", "owner_repo": "firecrawl/pdf-inspector", "first_seen_date": "2026-08-07", "report_file": "outputs/github-trending/2026-08-07.md" },
+    { "canonical_url": "https://github.com/browser-use/video-use", "owner_repo": "browser-use/video-use", "first_seen_date": "2026-08-07", "report_file": "outputs/github-trending/2026-08-07.md" },
+    { "canonical_url": "https://github.com/livekit/agents", "owner_repo": "livekit/agents", "first_seen_date": "2026-08-07", "report_file": "outputs/github-trending/2026-08-07.md" },
+    { "canonical_url": "https://github.com/snownico0722/papertodo", "owner_repo": "snownico0722/PaperTodo", "first_seen_date": "2026-08-07", "report_file": "outputs/github-trending/2026-08-07.md" },
+    { "canonical_url": "https://github.com/avaloniaui/avalonia", "owner_repo": "AvaloniaUI/Avalonia", "first_seen_date": "2026-08-07", "report_file": "outputs/github-trending/2026-08-07.md" },
+    { "canonical_url": "https://github.com/frappe/crm", "owner_repo": "frappe/crm", "first_seen_date": "2026-08-07", "report_file": "outputs/github-trending/2026-08-07.md" },
+    { "canonical_url": "https://github.com/imsyy/yt-dlp-gui", "owner_repo": "imsyy/yt-dlp-gui", "first_seen_date": "2026-08-07", "report_file": "outputs/github-trending/2026-08-07.md" },
+    { "canonical_url": "https://github.com/lollipopkit/flutter_server_box", "owner_repo": "lollipopkit/flutter_server_box", "first_seen_date": "2026-08-07", "report_file": "outputs/github-trending/2026-08-07.md" },
+    { "canonical_url": "https://github.com/bdero/flutter_scene", "owner_repo": "bdero/flutter_scene", "first_seen_date": "2026-08-07", "report_file": "outputs/github-trending/2026-08-07.md" }
   ]
 }
