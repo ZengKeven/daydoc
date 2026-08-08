@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T09:52:00+08:00",
+  "updated_at": "2026-08-08T10:38:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -120,6 +120,16 @@
     { "canonical_url": "https://github.com/frappe/crm", "owner_repo": "frappe/crm", "first_seen_date": "2026-08-07", "report_file": "outputs/github-trending/2026-08-07.md" },
     { "canonical_url": "https://github.com/imsyy/yt-dlp-gui", "owner_repo": "imsyy/yt-dlp-gui", "first_seen_date": "2026-08-07", "report_file": "outputs/github-trending/2026-08-07.md" },
     { "canonical_url": "https://github.com/lollipopkit/flutter_server_box", "owner_repo": "lollipopkit/flutter_server_box", "first_seen_date": "2026-08-07", "report_file": "outputs/github-trending/2026-08-07.md" },
-    { "canonical_url": "https://github.com/bdero/flutter_scene", "owner_repo": "bdero/flutter_scene", "first_seen_date": "2026-08-07", "report_file": "outputs/github-trending/2026-08-07.md" }
+    { "canonical_url": "https://github.com/bdero/flutter_scene", "owner_repo": "bdero/flutter_scene", "first_seen_date": "2026-08-07", "report_file": "outputs/github-trending/2026-08-07.md" },
+    { "canonical_url": "https://github.com/primeintellect-ai/prime-agent", "owner_repo": "PrimeIntellect-ai/prime-agent", "first_seen_date": "2026-08-08", "report_file": "outputs/github-trending/2026-08-08.md" },
+    { "canonical_url": "https://github.com/addyosmani/agent-skills", "owner_repo": "addyosmani/agent-skills", "first_seen_date": "2026-08-08", "report_file": "outputs/github-trending/2026-08-08.md" },
+    { "canonical_url": "https://github.com/denoland/celld", "owner_repo": "denoland/celld", "first_seen_date": "2026-08-08", "report_file": "outputs/github-trending/2026-08-08.md" },
+    { "canonical_url": "https://github.com/666ghj/mirofish", "owner_repo": "666ghj/MiroFish", "first_seen_date": "2026-08-08", "report_file": "outputs/github-trending/2026-08-08.md" },
+    { "canonical_url": "https://github.com/iofficeai/aionui", "owner_repo": "iOfficeAI/AionUi", "first_seen_date": "2026-08-08", "report_file": "outputs/github-trending/2026-08-08.md" },
+    { "canonical_url": "https://github.com/codebuffai/freebuff", "owner_repo": "CodebuffAI/freebuff", "first_seen_date": "2026-08-08", "report_file": "outputs/github-trending/2026-08-08.md" },
+    { "canonical_url": "https://github.com/unclebob/swarm-forge", "owner_repo": "unclebob/swarm-forge", "first_seen_date": "2026-08-08", "report_file": "outputs/github-trending/2026-08-08.md" },
+    { "canonical_url": "https://github.com/julyx10/lap", "owner_repo": "julyx10/lap", "first_seen_date": "2026-08-08", "report_file": "outputs/github-trending/2026-08-08.md" },
+    { "canonical_url": "https://github.com/kodjodevf/mangayomi", "owner_repo": "kodjodevf/mangayomi", "first_seen_date": "2026-08-08", "report_file": "outputs/github-trending/2026-08-08.md" },
+    { "canonical_url": "https://github.com/modelcontextprotocol/csharp-sdk", "owner_repo": "modelcontextprotocol/csharp-sdk", "first_seen_date": "2026-08-08", "report_file": "outputs/github-trending/2026-08-08.md" }
   ]
 }
