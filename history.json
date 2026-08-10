@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-08T10:38:00+08:00",
+  "updated_at": "2026-08-10T09:50:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -130,6 +130,15 @@
     { "canonical_url": "https://github.com/unclebob/swarm-forge", "owner_repo": "unclebob/swarm-forge", "first_seen_date": "2026-08-08", "report_file": "outputs/github-trending/2026-08-08.md" },
     { "canonical_url": "https://github.com/julyx10/lap", "owner_repo": "julyx10/lap", "first_seen_date": "2026-08-08", "report_file": "outputs/github-trending/2026-08-08.md" },
     { "canonical_url": "https://github.com/kodjodevf/mangayomi", "owner_repo": "kodjodevf/mangayomi", "first_seen_date": "2026-08-08", "report_file": "outputs/github-trending/2026-08-08.md" },
-    { "canonical_url": "https://github.com/modelcontextprotocol/csharp-sdk", "owner_repo": "modelcontextprotocol/csharp-sdk", "first_seen_date": "2026-08-08", "report_file": "outputs/github-trending/2026-08-08.md" }
+    { "canonical_url": "https://github.com/modelcontextprotocol/csharp-sdk", "owner_repo": "modelcontextprotocol/csharp-sdk", "first_seen_date": "2026-08-08", "report_file": "outputs/github-trending/2026-08-08.md" },
+    { "canonical_url": "https://github.com/tauricresearch/tradingagents", "owner_repo": "TauricResearch/TradingAgents", "first_seen_date": "2026-08-10", "report_file": "outputs/github-trending/2026-08-10.md" },
+    { "canonical_url": "https://github.com/dotnet/skills", "owner_repo": "dotnet/skills", "first_seen_date": "2026-08-10", "report_file": "outputs/github-trending/2026-08-10.md" },
+    { "canonical_url": "https://github.com/hulaspark/hula", "owner_repo": "HuLaSpark/HuLa", "first_seen_date": "2026-08-10", "report_file": "outputs/github-trending/2026-08-10.md" },
+    { "canonical_url": "https://github.com/vitali87/code-graph-rag", "owner_repo": "vitali87/code-graph-rag", "first_seen_date": "2026-08-10", "report_file": "outputs/github-trending/2026-08-10.md" },
+    { "canonical_url": "https://github.com/google-deepmind/weathernext", "owner_repo": "google-deepmind/weathernext", "first_seen_date": "2026-08-10", "report_file": "outputs/github-trending/2026-08-10.md" },
+    { "canonical_url": "https://github.com/vectorize-io/hindsight", "owner_repo": "vectorize-io/hindsight", "first_seen_date": "2026-08-10", "report_file": "outputs/github-trending/2026-08-10.md" },
+    { "canonical_url": "https://github.com/mininglamp-oss/octo-web", "owner_repo": "Mininglamp-OSS/octo-web", "first_seen_date": "2026-08-10", "report_file": "outputs/github-trending/2026-08-10.md" },
+    { "canonical_url": "https://github.com/funstory-ai/babeldoc", "owner_repo": "funstory-ai/BabelDOC", "first_seen_date": "2026-08-10", "report_file": "outputs/github-trending/2026-08-10.md" },
+    { "canonical_url": "https://github.com/harveyai/harvey-labs", "owner_repo": "harveyai/harvey-labs", "first_seen_date": "2026-08-10", "report_file": "outputs/github-trending/2026-08-10.md" }
   ]
 }
