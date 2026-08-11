@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-10T09:50:00+08:00",
+  "updated_at": "2026-08-11T08:06:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -139,6 +139,17 @@
     { "canonical_url": "https://github.com/vectorize-io/hindsight", "owner_repo": "vectorize-io/hindsight", "first_seen_date": "2026-08-10", "report_file": "outputs/github-trending/2026-08-10.md" },
     { "canonical_url": "https://github.com/mininglamp-oss/octo-web", "owner_repo": "Mininglamp-OSS/octo-web", "first_seen_date": "2026-08-10", "report_file": "outputs/github-trending/2026-08-10.md" },
     { "canonical_url": "https://github.com/funstory-ai/babeldoc", "owner_repo": "funstory-ai/BabelDOC", "first_seen_date": "2026-08-10", "report_file": "outputs/github-trending/2026-08-10.md" },
-    { "canonical_url": "https://github.com/harveyai/harvey-labs", "owner_repo": "harveyai/harvey-labs", "first_seen_date": "2026-08-10", "report_file": "outputs/github-trending/2026-08-10.md" }
+    { "canonical_url": "https://github.com/harveyai/harvey-labs", "owner_repo": "harveyai/harvey-labs", "first_seen_date": "2026-08-10", "report_file": "outputs/github-trending/2026-08-10.md" },
+    { "canonical_url": "https://github.com/semantica-agi/semantica", "owner_repo": "semantica-agi/semantica", "first_seen_date": "2026-08-11", "report_file": "outputs/github-trending/2026-08-11.md" },
+    { "canonical_url": "https://github.com/google/skills", "owner_repo": "google/skills", "first_seen_date": "2026-08-11", "report_file": "outputs/github-trending/2026-08-11.md" },
+    { "canonical_url": "https://github.com/brightdata/cli", "owner_repo": "brightdata/cli", "first_seen_date": "2026-08-11", "report_file": "outputs/github-trending/2026-08-11.md" },
+    { "canonical_url": "https://github.com/3b1b/manim", "owner_repo": "3b1b/manim", "first_seen_date": "2026-08-11", "report_file": "outputs/github-trending/2026-08-11.md" },
+    { "canonical_url": "https://github.com/nanmicoder/mediacrawler", "owner_repo": "NanmiCoder/MediaCrawler", "first_seen_date": "2026-08-11", "report_file": "outputs/github-trending/2026-08-11.md" },
+    { "canonical_url": "https://github.com/paperclipai/paperclip", "owner_repo": "paperclipai/paperclip", "first_seen_date": "2026-08-11", "report_file": "outputs/github-trending/2026-08-11.md" },
+    { "canonical_url": "https://github.com/heygen-com/hyperframes", "owner_repo": "heygen-com/hyperframes", "first_seen_date": "2026-08-11", "report_file": "outputs/github-trending/2026-08-11.md" },
+    { "canonical_url": "https://github.com/joelbqz/writer-computer", "owner_repo": "joelbqz/writer-computer", "first_seen_date": "2026-08-11", "report_file": "outputs/github-trending/2026-08-11.md" },
+    { "canonical_url": "https://github.com/borntoberoot/networkmanager", "owner_repo": "BornToBeRoot/NETworkManager", "first_seen_date": "2026-08-11", "report_file": "outputs/github-trending/2026-08-11.md" },
+    { "canonical_url": "https://github.com/qier222/yesplaymusic", "owner_repo": "qier222/YesPlayMusic", "first_seen_date": "2026-08-11", "report_file": "outputs/github-trending/2026-08-11.md" },
+    { "canonical_url": "https://github.com/tnt-likely/beecount", "owner_repo": "TNT-Likely/BeeCount", "first_seen_date": "2026-08-11", "report_file": "outputs/github-trending/2026-08-11.md" }
   ]
 }
