@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-11T08:06:00+08:00",
+  "updated_at": "2026-08-12T08:05:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -150,6 +150,18 @@
     { "canonical_url": "https://github.com/joelbqz/writer-computer", "owner_repo": "joelbqz/writer-computer", "first_seen_date": "2026-08-11", "report_file": "outputs/github-trending/2026-08-11.md" },
     { "canonical_url": "https://github.com/borntoberoot/networkmanager", "owner_repo": "BornToBeRoot/NETworkManager", "first_seen_date": "2026-08-11", "report_file": "outputs/github-trending/2026-08-11.md" },
     { "canonical_url": "https://github.com/qier222/yesplaymusic", "owner_repo": "qier222/YesPlayMusic", "first_seen_date": "2026-08-11", "report_file": "outputs/github-trending/2026-08-11.md" },
-    { "canonical_url": "https://github.com/tnt-likely/beecount", "owner_repo": "TNT-Likely/BeeCount", "first_seen_date": "2026-08-11", "report_file": "outputs/github-trending/2026-08-11.md" }
+    { "canonical_url": "https://github.com/tnt-likely/beecount", "owner_repo": "TNT-Likely/BeeCount", "first_seen_date": "2026-08-11", "report_file": "outputs/github-trending/2026-08-11.md" },
+    { "canonical_url": "https://github.com/msitarzewski/agency-agents", "owner_repo": "msitarzewski/agency-agents", "first_seen_date": "2026-08-12", "report_file": "outputs/github-trending/2026-08-12.md" },
+    { "canonical_url": "https://github.com/corsairdev/corsair", "owner_repo": "corsairdev/corsair", "first_seen_date": "2026-08-12", "report_file": "outputs/github-trending/2026-08-12.md" },
+    { "canonical_url": "https://github.com/danielmiessler/lifeos", "owner_repo": "danielmiessler/LifeOS", "first_seen_date": "2026-08-12", "report_file": "outputs/github-trending/2026-08-12.md" },
+    { "canonical_url": "https://github.com/anthropics/skills", "owner_repo": "anthropics/skills", "first_seen_date": "2026-08-12", "report_file": "outputs/github-trending/2026-08-12.md" },
+    { "canonical_url": "https://github.com/calesthio/openmontage", "owner_repo": "calesthio/OpenMontage", "first_seen_date": "2026-08-12", "report_file": "outputs/github-trending/2026-08-12.md" },
+    { "canonical_url": "https://github.com/cactus-compute/needle", "owner_repo": "cactus-compute/needle", "first_seen_date": "2026-08-12", "report_file": "outputs/github-trending/2026-08-12.md" },
+    { "canonical_url": "https://github.com/lfnovo/open-notebook", "owner_repo": "lfnovo/open-notebook", "first_seen_date": "2026-08-12", "report_file": "outputs/github-trending/2026-08-12.md" },
+    { "canonical_url": "https://github.com/startuphakk/openmonoagent.ai", "owner_repo": "StartupHakk/OpenMonoAgent.ai", "first_seen_date": "2026-08-12", "report_file": "outputs/github-trending/2026-08-12.md" },
+    { "canonical_url": "https://github.com/keleus/bewlycat", "owner_repo": "keleus/BewlyCat", "first_seen_date": "2026-08-12", "report_file": "outputs/github-trending/2026-08-12.md" },
+    { "canonical_url": "https://github.com/tombursch/kitchenowl", "owner_repo": "TomBursch/kitchenowl", "first_seen_date": "2026-08-12", "report_file": "outputs/github-trending/2026-08-12.md" },
+    { "canonical_url": "https://github.com/fluxerapp/flutter_client", "owner_repo": "fluxerapp/flutter_client", "first_seen_date": "2026-08-12", "report_file": "outputs/github-trending/2026-08-12.md" },
+    { "canonical_url": "https://github.com/heckmon/roxum-ide", "owner_repo": "heckmon/roxum-ide", "first_seen_date": "2026-08-12", "report_file": "outputs/github-trending/2026-08-12.md" }
   ]
 }
