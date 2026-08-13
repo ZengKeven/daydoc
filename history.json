@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12T08:05:00+08:00",
+  "updated_at": "2026-08-13T10:05:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -162,6 +162,18 @@
     { "canonical_url": "https://github.com/keleus/bewlycat", "owner_repo": "keleus/BewlyCat", "first_seen_date": "2026-08-12", "report_file": "outputs/github-trending/2026-08-12.md" },
     { "canonical_url": "https://github.com/tombursch/kitchenowl", "owner_repo": "TomBursch/kitchenowl", "first_seen_date": "2026-08-12", "report_file": "outputs/github-trending/2026-08-12.md" },
     { "canonical_url": "https://github.com/fluxerapp/flutter_client", "owner_repo": "fluxerapp/flutter_client", "first_seen_date": "2026-08-12", "report_file": "outputs/github-trending/2026-08-12.md" },
-    { "canonical_url": "https://github.com/heckmon/roxum-ide", "owner_repo": "heckmon/roxum-ide", "first_seen_date": "2026-08-12", "report_file": "outputs/github-trending/2026-08-12.md" }
+    { "canonical_url": "https://github.com/heckmon/roxum-ide", "owner_repo": "heckmon/roxum-ide", "first_seen_date": "2026-08-12", "report_file": "outputs/github-trending/2026-08-12.md" },
+    { "canonical_url": "https://github.com/cathrynlavery/diagram-design", "owner_repo": "cathrynlavery/diagram-design", "first_seen_date": "2026-08-13", "report_file": "outputs/github-trending/2026-08-13.md" },
+    { "canonical_url": "https://github.com/macro-inc/macro", "owner_repo": "macro-inc/macro", "first_seen_date": "2026-08-13", "report_file": "outputs/github-trending/2026-08-13.md" },
+    { "canonical_url": "https://github.com/NVIDIA-NeMo/Switchyard", "owner_repo": "NVIDIA-NeMo/Switchyard", "first_seen_date": "2026-08-13", "report_file": "outputs/github-trending/2026-08-13.md" },
+    { "canonical_url": "https://github.com/openclaw/openclaw", "owner_repo": "openclaw/openclaw", "first_seen_date": "2026-08-13", "report_file": "outputs/github-trending/2026-08-13.md" },
+    { "canonical_url": "https://github.com/DietrichGebert/ponytail", "owner_repo": "DietrichGebert/ponytail", "first_seen_date": "2026-08-13", "report_file": "outputs/github-trending/2026-08-13.md" },
+    { "canonical_url": "https://github.com/unslothai/unsloth", "owner_repo": "unslothai/unsloth", "first_seen_date": "2026-08-13", "report_file": "outputs/github-trending/2026-08-13.md" },
+    { "canonical_url": "https://github.com/antvis/Infographic", "owner_repo": "antvis/Infographic", "first_seen_date": "2026-08-13", "report_file": "outputs/github-trending/2026-08-13.md" },
+    { "canonical_url": "https://github.com/HotCakeX/Harden-Windows-Security", "owner_repo": "HotCakeX/Harden-Windows-Security", "first_seen_date": "2026-08-13", "report_file": "outputs/github-trending/2026-08-13.md" },
+    { "canonical_url": "https://github.com/WGDashboard/WGDashboard", "owner_repo": "WGDashboard/WGDashboard", "first_seen_date": "2026-08-13", "report_file": "outputs/github-trending/2026-08-13.md" },
+    { "canonical_url": "https://github.com/bggRGjQaUbCoE/PiliPlus", "owner_repo": "bggRGjQaUbCoE/PiliPlus", "first_seen_date": "2026-08-13", "report_file": "outputs/github-trending/2026-08-13.md" },
+    { "canonical_url": "https://github.com/omnigent-ai/omnigent", "owner_repo": "omnigent-ai/omnigent", "first_seen_date": "2026-08-13", "report_file": "outputs/github-trending/2026-08-13.md" },
+    { "canonical_url": "https://github.com/infiniflow/ragflow", "owner_repo": "infiniflow/ragflow", "first_seen_date": "2026-08-13", "report_file": "outputs/github-trending/2026-08-13.md" }
   ]
 }
