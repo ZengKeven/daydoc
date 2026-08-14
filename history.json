@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T10:05:00+08:00",
+  "updated_at": "2026-08-14T08:10:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -174,6 +174,18 @@
     { "canonical_url": "https://github.com/WGDashboard/WGDashboard", "owner_repo": "WGDashboard/WGDashboard", "first_seen_date": "2026-08-13", "report_file": "outputs/github-trending/2026-08-13.md" },
     { "canonical_url": "https://github.com/bggRGjQaUbCoE/PiliPlus", "owner_repo": "bggRGjQaUbCoE/PiliPlus", "first_seen_date": "2026-08-13", "report_file": "outputs/github-trending/2026-08-13.md" },
     { "canonical_url": "https://github.com/omnigent-ai/omnigent", "owner_repo": "omnigent-ai/omnigent", "first_seen_date": "2026-08-13", "report_file": "outputs/github-trending/2026-08-13.md" },
-    { "canonical_url": "https://github.com/infiniflow/ragflow", "owner_repo": "infiniflow/ragflow", "first_seen_date": "2026-08-13", "report_file": "outputs/github-trending/2026-08-13.md" }
+    { "canonical_url": "https://github.com/infiniflow/ragflow", "owner_repo": "infiniflow/ragflow", "first_seen_date": "2026-08-13", "report_file": "outputs/github-trending/2026-08-13.md" },
+    { "canonical_url": "https://github.com/hugohe3/ppt-master", "owner_repo": "hugohe3/ppt-master", "first_seen_date": "2026-08-14", "report_file": "outputs/github-trending/2026-08-14.md" },
+    { "canonical_url": "https://github.com/kepano/obsidian-skills", "owner_repo": "kepano/obsidian-skills", "first_seen_date": "2026-08-14", "report_file": "outputs/github-trending/2026-08-14.md" },
+    { "canonical_url": "https://github.com/affaan-m/ecc", "owner_repo": "affaan-m/ECC", "first_seen_date": "2026-08-14", "report_file": "outputs/github-trending/2026-08-14.md" },
+    { "canonical_url": "https://github.com/chromedevtools/chrome-devtools-mcp", "owner_repo": "ChromeDevTools/chrome-devtools-mcp", "first_seen_date": "2026-08-14", "report_file": "outputs/github-trending/2026-08-14.md" },
+    { "canonical_url": "https://github.com/apify/apify-mcp-server", "owner_repo": "apify/apify-mcp-server", "first_seen_date": "2026-08-14", "report_file": "outputs/github-trending/2026-08-14.md" },
+    { "canonical_url": "https://github.com/keygraphhq/shannon", "owner_repo": "KeygraphHQ/shannon", "first_seen_date": "2026-08-14", "report_file": "outputs/github-trending/2026-08-14.md" },
+    { "canonical_url": "https://github.com/altic-dev/fluidvoice", "owner_repo": "altic-dev/FluidVoice", "first_seen_date": "2026-08-14", "report_file": "outputs/github-trending/2026-08-14.md" },
+    { "canonical_url": "https://github.com/nvidia-nemo/automodel", "owner_repo": "NVIDIA-NeMo/Automodel", "first_seen_date": "2026-08-14", "report_file": "outputs/github-trending/2026-08-14.md" },
+    { "canonical_url": "https://github.com/thejoefin/text-grab", "owner_repo": "TheJoeFin/Text-Grab", "first_seen_date": "2026-08-14", "report_file": "outputs/github-trending/2026-08-14.md" },
+    { "canonical_url": "https://github.com/dailin521/codex-provider-sync", "owner_repo": "Dailin521/codex-provider-sync", "first_seen_date": "2026-08-14", "report_file": "outputs/github-trending/2026-08-14.md" },
+    { "canonical_url": "https://github.com/daymychen/art-design-pro", "owner_repo": "Daymychen/art-design-pro", "first_seen_date": "2026-08-14", "report_file": "outputs/github-trending/2026-08-14.md" },
+    { "canonical_url": "https://github.com/jacobaraujo7/remote_pi", "owner_repo": "jacobaraujo7/remote_pi", "first_seen_date": "2026-08-14", "report_file": "outputs/github-trending/2026-08-14.md" }
   ]
 }
