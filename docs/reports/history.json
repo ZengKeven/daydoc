@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-14T08:10:00+08:00",
+  "updated_at": "2026-08-15T08:09:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -186,6 +186,17 @@
     { "canonical_url": "https://github.com/thejoefin/text-grab", "owner_repo": "TheJoeFin/Text-Grab", "first_seen_date": "2026-08-14", "report_file": "outputs/github-trending/2026-08-14.md" },
     { "canonical_url": "https://github.com/dailin521/codex-provider-sync", "owner_repo": "Dailin521/codex-provider-sync", "first_seen_date": "2026-08-14", "report_file": "outputs/github-trending/2026-08-14.md" },
     { "canonical_url": "https://github.com/daymychen/art-design-pro", "owner_repo": "Daymychen/art-design-pro", "first_seen_date": "2026-08-14", "report_file": "outputs/github-trending/2026-08-14.md" },
-    { "canonical_url": "https://github.com/jacobaraujo7/remote_pi", "owner_repo": "jacobaraujo7/remote_pi", "first_seen_date": "2026-08-14", "report_file": "outputs/github-trending/2026-08-14.md" }
+    { "canonical_url": "https://github.com/jacobaraujo7/remote_pi", "owner_repo": "jacobaraujo7/remote_pi", "first_seen_date": "2026-08-14", "report_file": "outputs/github-trending/2026-08-14.md" },
+    { "canonical_url": "https://github.com/github/spec-kit", "owner_repo": "github/spec-kit", "first_seen_date": "2026-08-15", "report_file": "outputs/github-trending/2026-08-15.md" },
+    { "canonical_url": "https://github.com/can1357/oh-my-pi", "owner_repo": "can1357/oh-my-pi", "first_seen_date": "2026-08-15", "report_file": "outputs/github-trending/2026-08-15.md" },
+    { "canonical_url": "https://github.com/pacifio/atlas", "owner_repo": "pacifio/atlas", "first_seen_date": "2026-08-15", "report_file": "outputs/github-trending/2026-08-15.md" },
+    { "canonical_url": "https://github.com/k-dense-ai/scientific-agent-skills", "owner_repo": "K-Dense-AI/scientific-agent-skills", "first_seen_date": "2026-08-15", "report_file": "outputs/github-trending/2026-08-15.md" },
+    { "canonical_url": "https://github.com/sbroenne/mcp-server-excel", "owner_repo": "sbroenne/mcp-server-excel", "first_seen_date": "2026-08-15", "report_file": "outputs/github-trending/2026-08-15.md" },
+    { "canonical_url": "https://github.com/unchihugo/fluentflyout", "owner_repo": "unchihugo/FluentFlyout", "first_seen_date": "2026-08-15", "report_file": "outputs/github-trending/2026-08-15.md" },
+    { "canonical_url": "https://github.com/tooljet/tooljet", "owner_repo": "ToolJet/ToolJet", "first_seen_date": "2026-08-15", "report_file": "outputs/github-trending/2026-08-15.md" },
+    { "canonical_url": "https://github.com/webbrain-one/webbrain", "owner_repo": "webbrain-one/webbrain", "first_seen_date": "2026-08-15", "report_file": "outputs/github-trending/2026-08-15.md" },
+    { "canonical_url": "https://github.com/smicallef/spiderfoot", "owner_repo": "smicallef/spiderfoot", "first_seen_date": "2026-08-15", "report_file": "outputs/github-trending/2026-08-15.md" },
+    { "canonical_url": "https://github.com/electerm/electerm", "owner_repo": "electerm/electerm", "first_seen_date": "2026-08-15", "report_file": "outputs/github-trending/2026-08-15.md" },
+    { "canonical_url": "https://github.com/openlistteam/openlist-desktop", "owner_repo": "OpenListTeam/OpenList-Desktop", "first_seen_date": "2026-08-15", "report_file": "outputs/github-trending/2026-08-15.md" }
   ]
 }
