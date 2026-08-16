@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-15T08:09:00+08:00",
+  "updated_at": "2026-08-16T08:06:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -197,6 +197,18 @@
     { "canonical_url": "https://github.com/webbrain-one/webbrain", "owner_repo": "webbrain-one/webbrain", "first_seen_date": "2026-08-15", "report_file": "outputs/github-trending/2026-08-15.md" },
     { "canonical_url": "https://github.com/smicallef/spiderfoot", "owner_repo": "smicallef/spiderfoot", "first_seen_date": "2026-08-15", "report_file": "outputs/github-trending/2026-08-15.md" },
     { "canonical_url": "https://github.com/electerm/electerm", "owner_repo": "electerm/electerm", "first_seen_date": "2026-08-15", "report_file": "outputs/github-trending/2026-08-15.md" },
-    { "canonical_url": "https://github.com/openlistteam/openlist-desktop", "owner_repo": "OpenListTeam/OpenList-Desktop", "first_seen_date": "2026-08-15", "report_file": "outputs/github-trending/2026-08-15.md" }
+    { "canonical_url": "https://github.com/openlistteam/openlist-desktop", "owner_repo": "OpenListTeam/OpenList-Desktop", "first_seen_date": "2026-08-15", "report_file": "outputs/github-trending/2026-08-15.md" },
+    { "canonical_url": "https://github.com/cordiverse/cordis", "owner_repo": "cordiverse/cordis", "first_seen_date": "2026-08-16", "report_file": "outputs/github-trending/2026-08-16.md" },
+    { "canonical_url": "https://github.com/liustack/modlens", "owner_repo": "liustack/modlens", "first_seen_date": "2026-08-16", "report_file": "outputs/github-trending/2026-08-16.md" },
+    { "canonical_url": "https://github.com/makazhanalpamys/soup", "owner_repo": "MakazhanAlpamys/Soup", "first_seen_date": "2026-08-16", "report_file": "outputs/github-trending/2026-08-16.md" },
+    { "canonical_url": "https://github.com/hkuds/cli-anything", "owner_repo": "HKUDS/CLI-Anything", "first_seen_date": "2026-08-16", "report_file": "outputs/github-trending/2026-08-16.md" },
+    { "canonical_url": "https://github.com/whiteguo233/openbiliclaw", "owner_repo": "whiteguo233/OpenBiliClaw", "first_seen_date": "2026-08-16", "report_file": "outputs/github-trending/2026-08-16.md" },
+    { "canonical_url": "https://github.com/thu-maic/openmaic", "owner_repo": "THU-MAIC/OpenMAIC", "first_seen_date": "2026-08-16", "report_file": "outputs/github-trending/2026-08-16.md" },
+    { "canonical_url": "https://github.com/fleetbase/fleetbase", "owner_repo": "fleetbase/fleetbase", "first_seen_date": "2026-08-16", "report_file": "outputs/github-trending/2026-08-16.md" },
+    { "canonical_url": "https://github.com/amelnagdy/delegate-skills", "owner_repo": "amElnagdy/delegate-skills", "first_seen_date": "2026-08-16", "report_file": "outputs/github-trending/2026-08-16.md" },
+    { "canonical_url": "https://github.com/microsoft/mcp", "owner_repo": "microsoft/mcp", "first_seen_date": "2026-08-16", "report_file": "outputs/github-trending/2026-08-16.md" },
+    { "canonical_url": "https://github.com/openclaw/openclaw-windows-node", "owner_repo": "openclaw/openclaw-windows-node", "first_seen_date": "2026-08-16", "report_file": "outputs/github-trending/2026-08-16.md" },
+    { "canonical_url": "https://github.com/foggedlens/deflock", "owner_repo": "FoggedLens/deflock", "first_seen_date": "2026-08-16", "report_file": "outputs/github-trending/2026-08-16.md" },
+    { "canonical_url": "https://github.com/predidit/kazumi", "owner_repo": "Predidit/Kazumi", "first_seen_date": "2026-08-16", "report_file": "outputs/github-trending/2026-08-16.md" }
   ]
 }
