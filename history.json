@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-16T08:06:00+08:00",
+  "updated_at": "2026-08-17T08:08:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -209,6 +209,17 @@
     { "canonical_url": "https://github.com/microsoft/mcp", "owner_repo": "microsoft/mcp", "first_seen_date": "2026-08-16", "report_file": "outputs/github-trending/2026-08-16.md" },
     { "canonical_url": "https://github.com/openclaw/openclaw-windows-node", "owner_repo": "openclaw/openclaw-windows-node", "first_seen_date": "2026-08-16", "report_file": "outputs/github-trending/2026-08-16.md" },
     { "canonical_url": "https://github.com/foggedlens/deflock", "owner_repo": "FoggedLens/deflock", "first_seen_date": "2026-08-16", "report_file": "outputs/github-trending/2026-08-16.md" },
-    { "canonical_url": "https://github.com/predidit/kazumi", "owner_repo": "Predidit/Kazumi", "first_seen_date": "2026-08-16", "report_file": "outputs/github-trending/2026-08-16.md" }
+    { "canonical_url": "https://github.com/predidit/kazumi", "owner_repo": "Predidit/Kazumi", "first_seen_date": "2026-08-16", "report_file": "outputs/github-trending/2026-08-16.md" },
+    { "canonical_url": "https://github.com/harry0703/moneyprinterturbo", "owner_repo": "harry0703/MoneyPrinterTurbo", "first_seen_date": "2026-08-17", "report_file": "outputs/github-trending/2026-08-17.md" },
+    { "canonical_url": "https://github.com/yt-dlp/yt-dlp", "owner_repo": "yt-dlp/yt-dlp", "first_seen_date": "2026-08-17", "report_file": "outputs/github-trending/2026-08-17.md" },
+    { "canonical_url": "https://github.com/thudm/slime", "owner_repo": "THUDM/slime", "first_seen_date": "2026-08-17", "report_file": "outputs/github-trending/2026-08-17.md" },
+    { "canonical_url": "https://github.com/newton-physics/newton", "owner_repo": "newton-physics/newton", "first_seen_date": "2026-08-17", "report_file": "outputs/github-trending/2026-08-17.md" },
+    { "canonical_url": "https://github.com/google-research/timesfm", "owner_repo": "google-research/timesfm", "first_seen_date": "2026-08-17", "report_file": "outputs/github-trending/2026-08-17.md" },
+    { "canonical_url": "https://github.com/browserbase/stagehand", "owner_repo": "browserbase/stagehand", "first_seen_date": "2026-08-17", "report_file": "outputs/github-trending/2026-08-17.md" },
+    { "canonical_url": "https://github.com/drawdb-io/drawdb", "owner_repo": "drawdb-io/drawdb", "first_seen_date": "2026-08-17", "report_file": "outputs/github-trending/2026-08-17.md" },
+    { "canonical_url": "https://github.com/sharex/sharex", "owner_repo": "ShareX/ShareX", "first_seen_date": "2026-08-17", "report_file": "outputs/github-trending/2026-08-17.md" },
+    { "canonical_url": "https://github.com/tichau/fileconverter", "owner_repo": "Tichau/FileConverter", "first_seen_date": "2026-08-17", "report_file": "outputs/github-trending/2026-08-17.md" },
+    { "canonical_url": "https://github.com/requarks/wiki", "owner_repo": "requarks/wiki", "first_seen_date": "2026-08-17", "report_file": "outputs/github-trending/2026-08-17.md" },
+    { "canonical_url": "https://github.com/flutter/flutter", "owner_repo": "flutter/flutter", "first_seen_date": "2026-08-17", "report_file": "outputs/github-trending/2026-08-17.md" }
   ]
 }
