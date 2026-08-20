@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-19T08:06:00+08:00",
+  "updated_at": "2026-08-20T08:04:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -244,6 +244,18 @@
     { "canonical_url": "https://github.com/scrapy/scrapy", "owner_repo": "scrapy/scrapy", "first_seen_date": "2026-08-19", "report_file": "outputs/github-trending/2026-08-19.md" },
     { "canonical_url": "https://github.com/elizaos/eliza", "owner_repo": "elizaOS/eliza", "first_seen_date": "2026-08-19", "report_file": "outputs/github-trending/2026-08-19.md" },
     { "canonical_url": "https://github.com/zyronon/typewords", "owner_repo": "zyronon/TypeWords", "first_seen_date": "2026-08-19", "report_file": "outputs/github-trending/2026-08-19.md" },
-    { "canonical_url": "https://github.com/superradcompany/microsandbox", "owner_repo": "superradcompany/microsandbox", "first_seen_date": "2026-08-19", "report_file": "outputs/github-trending/2026-08-19.md" }
+    { "canonical_url": "https://github.com/superradcompany/microsandbox", "owner_repo": "superradcompany/microsandbox", "first_seen_date": "2026-08-19", "report_file": "outputs/github-trending/2026-08-19.md" },
+    { "canonical_url": "https://github.com/mattpocock/skills", "owner_repo": "mattpocock/skills", "first_seen_date": "2026-08-20", "report_file": "outputs/github-trending/2026-08-20.md" },
+    { "canonical_url": "https://github.com/obra/superpowers", "owner_repo": "obra/superpowers", "first_seen_date": "2026-08-20", "report_file": "outputs/github-trending/2026-08-20.md" },
+    { "canonical_url": "https://github.com/graphify-labs/graphify", "owner_repo": "Graphify-Labs/graphify", "first_seen_date": "2026-08-20", "report_file": "outputs/github-trending/2026-08-20.md" },
+    { "canonical_url": "https://github.com/ruvnet/ruflo", "owner_repo": "ruvnet/ruflo", "first_seen_date": "2026-08-20", "report_file": "outputs/github-trending/2026-08-20.md" },
+    { "canonical_url": "https://github.com/drewthomasson/ebook2audiobook", "owner_repo": "DrewThomasson/ebook2audiobook", "first_seen_date": "2026-08-20", "report_file": "outputs/github-trending/2026-08-20.md" },
+    { "canonical_url": "https://github.com/louislam/uptime-kuma", "owner_repo": "louislam/uptime-kuma", "first_seen_date": "2026-08-20", "report_file": "outputs/github-trending/2026-08-20.md" },
+    { "canonical_url": "https://github.com/fluxerapp/fluxer", "owner_repo": "fluxerapp/fluxer", "first_seen_date": "2026-08-20", "report_file": "outputs/github-trending/2026-08-20.md" },
+    { "canonical_url": "https://github.com/ml-explore/mlx-lm", "owner_repo": "ml-explore/mlx-lm", "first_seen_date": "2026-08-20", "report_file": "outputs/github-trending/2026-08-20.md" },
+    { "canonical_url": "https://github.com/microsoft/aspire", "owner_repo": "microsoft/aspire", "first_seen_date": "2026-08-20", "report_file": "outputs/github-trending/2026-08-20.md" },
+    { "canonical_url": "https://github.com/icsharpcode/ilspy", "owner_repo": "icsharpcode/ILSpy", "first_seen_date": "2026-08-20", "report_file": "outputs/github-trending/2026-08-20.md" },
+    { "canonical_url": "https://github.com/onexray/onexray", "owner_repo": "OneXray/OneXray", "first_seen_date": "2026-08-20", "report_file": "outputs/github-trending/2026-08-20.md" },
+    { "canonical_url": "https://github.com/luolangaga/tubatools", "owner_repo": "luolangaga/tubatools", "first_seen_date": "2026-08-20", "report_file": "outputs/github-trending/2026-08-20.md" }
   ]
 }
