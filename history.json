@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T08:04:00+08:00",
+  "updated_at": "2026-08-21T08:06:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -256,6 +256,18 @@
     { "canonical_url": "https://github.com/microsoft/aspire", "owner_repo": "microsoft/aspire", "first_seen_date": "2026-08-20", "report_file": "outputs/github-trending/2026-08-20.md" },
     { "canonical_url": "https://github.com/icsharpcode/ilspy", "owner_repo": "icsharpcode/ILSpy", "first_seen_date": "2026-08-20", "report_file": "outputs/github-trending/2026-08-20.md" },
     { "canonical_url": "https://github.com/onexray/onexray", "owner_repo": "OneXray/OneXray", "first_seen_date": "2026-08-20", "report_file": "outputs/github-trending/2026-08-20.md" },
-    { "canonical_url": "https://github.com/luolangaga/tubatools", "owner_repo": "luolangaga/tubatools", "first_seen_date": "2026-08-20", "report_file": "outputs/github-trending/2026-08-20.md" }
+    { "canonical_url": "https://github.com/luolangaga/tubatools", "owner_repo": "luolangaga/tubatools", "first_seen_date": "2026-08-20", "report_file": "outputs/github-trending/2026-08-20.md" },
+    { "canonical_url": "https://github.com/apache/maka", "owner_repo": "apache/maka", "first_seen_date": "2026-08-21", "report_file": "outputs/github-trending/2026-08-21.md" },
+    { "canonical_url": "https://github.com/bookorbit/bookorbit", "owner_repo": "bookorbit/bookorbit", "first_seen_date": "2026-08-21", "report_file": "outputs/github-trending/2026-08-21.md" },
+    { "canonical_url": "https://github.com/microsoft/agent-framework", "owner_repo": "microsoft/agent-framework", "first_seen_date": "2026-08-21", "report_file": "outputs/github-trending/2026-08-21.md" },
+    { "canonical_url": "https://github.com/osmantic/ods", "owner_repo": "Osmantic/ODS", "first_seen_date": "2026-08-21", "report_file": "outputs/github-trending/2026-08-21.md" },
+    { "canonical_url": "https://github.com/magnitudedev/magnitude", "owner_repo": "magnitudedev/magnitude", "first_seen_date": "2026-08-21", "report_file": "outputs/github-trending/2026-08-21.md" },
+    { "canonical_url": "https://github.com/browser-use/browser-use", "owner_repo": "browser-use/browser-use", "first_seen_date": "2026-08-21", "report_file": "outputs/github-trending/2026-08-21.md" },
+    { "canonical_url": "https://github.com/makeplane/plane", "owner_repo": "makeplane/plane", "first_seen_date": "2026-08-21", "report_file": "outputs/github-trending/2026-08-21.md" },
+    { "canonical_url": "https://github.com/tencent/ai-infra-guard", "owner_repo": "Tencent/AI-Infra-Guard", "first_seen_date": "2026-08-21", "report_file": "outputs/github-trending/2026-08-21.md" },
+    { "canonical_url": "https://github.com/cybertimon/rapidraw", "owner_repo": "CyberTimon/RapidRAW", "first_seen_date": "2026-08-21", "report_file": "outputs/github-trending/2026-08-21.md" },
+    { "canonical_url": "https://github.com/tashfeenahmed/freellmapi", "owner_repo": "tashfeenahmed/freellmapi", "first_seen_date": "2026-08-21", "report_file": "outputs/github-trending/2026-08-21.md" },
+    { "canonical_url": "https://github.com/garrytan/gstack", "owner_repo": "garrytan/gstack", "first_seen_date": "2026-08-21", "report_file": "outputs/github-trending/2026-08-21.md" },
+    { "canonical_url": "https://github.com/agent-substrate/substrate", "owner_repo": "agent-substrate/substrate", "first_seen_date": "2026-08-21", "report_file": "outputs/github-trending/2026-08-21.md" }
   ]
 }
