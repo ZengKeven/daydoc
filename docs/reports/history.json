@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-21T08:06:00+08:00",
+  "updated_at": "2026-08-22T08:06:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -268,6 +268,15 @@
     { "canonical_url": "https://github.com/cybertimon/rapidraw", "owner_repo": "CyberTimon/RapidRAW", "first_seen_date": "2026-08-21", "report_file": "outputs/github-trending/2026-08-21.md" },
     { "canonical_url": "https://github.com/tashfeenahmed/freellmapi", "owner_repo": "tashfeenahmed/freellmapi", "first_seen_date": "2026-08-21", "report_file": "outputs/github-trending/2026-08-21.md" },
     { "canonical_url": "https://github.com/garrytan/gstack", "owner_repo": "garrytan/gstack", "first_seen_date": "2026-08-21", "report_file": "outputs/github-trending/2026-08-21.md" },
-    { "canonical_url": "https://github.com/agent-substrate/substrate", "owner_repo": "agent-substrate/substrate", "first_seen_date": "2026-08-21", "report_file": "outputs/github-trending/2026-08-21.md" }
+    { "canonical_url": "https://github.com/agent-substrate/substrate", "owner_repo": "agent-substrate/substrate", "first_seen_date": "2026-08-21", "report_file": "outputs/github-trending/2026-08-21.md" },
+    { "canonical_url": "https://github.com/aprilnea/openlogi", "owner_repo": "AprilNEA/OpenLogi", "first_seen_date": "2026-08-22", "report_file": "outputs/github-trending/2026-08-22.md" },
+    { "canonical_url": "https://github.com/leonxlnx/taste-skill", "owner_repo": "Leonxlnx/taste-skill", "first_seen_date": "2026-08-22", "report_file": "outputs/github-trending/2026-08-22.md" },
+    { "canonical_url": "https://github.com/microsoft/typescript", "owner_repo": "microsoft/TypeScript", "first_seen_date": "2026-08-22", "report_file": "outputs/github-trending/2026-08-22.md" },
+    { "canonical_url": "https://github.com/coreyhaines31/marketingskills", "owner_repo": "coreyhaines31/marketingskills", "first_seen_date": "2026-08-22", "report_file": "outputs/github-trending/2026-08-22.md" },
+    { "canonical_url": "https://github.com/imranr98/obtainium", "owner_repo": "ImranR98/Obtainium", "first_seen_date": "2026-08-22", "report_file": "outputs/github-trending/2026-08-22.md" },
+    { "canonical_url": "https://github.com/elder-plinius/obliteratus", "owner_repo": "elder-plinius/OBLITERATUS", "first_seen_date": "2026-08-22", "report_file": "outputs/github-trending/2026-08-22.md" },
+    { "canonical_url": "https://github.com/forcedotcom/sf-skills", "owner_repo": "forcedotcom/sf-skills", "first_seen_date": "2026-08-22", "report_file": "outputs/github-trending/2026-08-22.md" },
+    { "canonical_url": "https://github.com/hao-ai-lab/fastvideo", "owner_repo": "hao-ai-lab/FastVideo", "first_seen_date": "2026-08-22", "report_file": "outputs/github-trending/2026-08-22.md" },
+    { "canonical_url": "https://github.com/cloudflare/security-audit-skill", "owner_repo": "cloudflare/security-audit-skill", "first_seen_date": "2026-08-22", "report_file": "outputs/github-trending/2026-08-22.md" }
   ]
 }
