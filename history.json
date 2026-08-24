@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-23T08:08:00+08:00",
+  "updated_at": "2026-08-24T08:06:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -285,6 +285,17 @@
     { "canonical_url": "https://github.com/browser-use/browser-harness", "owner_repo": "browser-use/browser-harness", "first_seen_date": "2026-08-23", "report_file": "outputs/github-trending/2026-08-23.md" },
     { "canonical_url": "https://github.com/itzcrazykns/vane", "owner_repo": "ItzCrazyKns/Vane", "first_seen_date": "2026-08-23", "report_file": "outputs/github-trending/2026-08-23.md" },
     { "canonical_url": "https://github.com/lingyan000/fluxdo", "owner_repo": "Lingyan000/fluxdo", "first_seen_date": "2026-08-23", "report_file": "outputs/github-trending/2026-08-23.md" },
-    { "canonical_url": "https://github.com/miantiao-me/sink", "owner_repo": "miantiao-me/Sink", "first_seen_date": "2026-08-23", "report_file": "outputs/github-trending/2026-08-23.md" }
+    { "canonical_url": "https://github.com/miantiao-me/sink", "owner_repo": "miantiao-me/Sink", "first_seen_date": "2026-08-23", "report_file": "outputs/github-trending/2026-08-23.md" },
+    { "canonical_url": "https://github.com/virgiliojr94/book-to-skill", "owner_repo": "virgiliojr94/book-to-skill", "first_seen_date": "2026-08-24", "report_file": "outputs/github-trending/2026-08-24.md" },
+    { "canonical_url": "https://github.com/anmolsaini16/mapcn", "owner_repo": "AnmolSaini16/mapcn", "first_seen_date": "2026-08-24", "report_file": "outputs/github-trending/2026-08-24.md" },
+    { "canonical_url": "https://github.com/comfy-org/comfyui", "owner_repo": "Comfy-Org/ComfyUI", "first_seen_date": "2026-08-24", "report_file": "outputs/github-trending/2026-08-24.md" },
+    { "canonical_url": "https://github.com/unclecode/crawl4ai", "owner_repo": "unclecode/crawl4ai", "first_seen_date": "2026-08-24", "report_file": "outputs/github-trending/2026-08-24.md" },
+    { "canonical_url": "https://github.com/bytedance/deer-flow", "owner_repo": "bytedance/deer-flow", "first_seen_date": "2026-08-24", "report_file": "outputs/github-trending/2026-08-24.md" },
+    { "canonical_url": "https://github.com/tinyhumansai/openhuman", "owner_repo": "tinyhumansai/openhuman", "first_seen_date": "2026-08-24", "report_file": "outputs/github-trending/2026-08-24.md" },
+    { "canonical_url": "https://github.com/nvidia-nemo/speech", "owner_repo": "NVIDIA-NeMo/Speech", "first_seen_date": "2026-08-24", "report_file": "outputs/github-trending/2026-08-24.md" },
+    { "canonical_url": "https://github.com/proliferate-ai/proliferate", "owner_repo": "proliferate-ai/proliferate", "first_seen_date": "2026-08-24", "report_file": "outputs/github-trending/2026-08-24.md" },
+    { "canonical_url": "https://github.com/facebook/astryx", "owner_repo": "facebook/astryx", "first_seen_date": "2026-08-24", "report_file": "outputs/github-trending/2026-08-24.md" },
+    { "canonical_url": "https://github.com/subtitleedit/subtitleedit", "owner_repo": "SubtitleEdit/subtitleedit", "first_seen_date": "2026-08-24", "report_file": "outputs/github-trending/2026-08-24.md" },
+    { "canonical_url": "https://github.com/saber-notes/saber", "owner_repo": "saber-notes/saber", "first_seen_date": "2026-08-24", "report_file": "outputs/github-trending/2026-08-24.md" }
   ]
 }
