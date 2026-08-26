@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "08/25/2026 08:07:00",
+  "updated_at": "2026-08-26T08:06:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -306,6 +306,19 @@
     { "canonical_url": "https://github.com/davebcn87/pi-autoresearch", "owner_repo": "davebcn87/pi-autoresearch", "first_seen_date": "2026-08-25", "report_file": "outputs/github-trending/2026-08-25.md" },
     { "canonical_url": "https://github.com/gitroomhq/postiz-app", "owner_repo": "gitroomhq/postiz-app", "first_seen_date": "2026-08-25", "report_file": "outputs/github-trending/2026-08-25.md" },
     { "canonical_url": "https://github.com/alam00000/bentopdf", "owner_repo": "alam00000/bentopdf", "first_seen_date": "2026-08-25", "report_file": "outputs/github-trending/2026-08-25.md" },
-    { "canonical_url": "https://github.com/ys-ll/uniterm", "owner_repo": "ys-ll/uniterm", "first_seen_date": "2026-08-25", "report_file": "outputs/github-trending/2026-08-25.md" }
+    { "canonical_url": "https://github.com/ys-ll/uniterm", "owner_repo": "ys-ll/uniterm", "first_seen_date": "2026-08-25", "report_file": "outputs/github-trending/2026-08-25.md" },
+    { "canonical_url": "https://github.com/cloudflare/cloudflare-os", "owner_repo": "cloudflare/cloudflare-os", "first_seen_date": "2026-08-26", "report_file": "outputs/github-trending/2026-08-26.md" },
+    { "canonical_url": "https://github.com/microsoft/data-formulator", "owner_repo": "microsoft/data-formulator", "first_seen_date": "2026-08-26", "report_file": "outputs/github-trending/2026-08-26.md" },
+    { "canonical_url": "https://github.com/asciimoo/hister", "owner_repo": "asciimoo/hister", "first_seen_date": "2026-08-26", "report_file": "outputs/github-trending/2026-08-26.md" },
+    { "canonical_url": "https://github.com/everyinc/compound-engineering-plugin", "owner_repo": "EveryInc/compound-engineering-plugin", "first_seen_date": "2026-08-26", "report_file": "outputs/github-trending/2026-08-26.md" },
+    { "canonical_url": "https://github.com/future-agi/future-agi", "owner_repo": "future-agi/future-agi", "first_seen_date": "2026-08-26", "report_file": "outputs/github-trending/2026-08-26.md" },
+    { "canonical_url": "https://github.com/openai/codex-plugin-cc", "owner_repo": "openai/codex-plugin-cc", "first_seen_date": "2026-08-26", "report_file": "outputs/github-trending/2026-08-26.md" },
+    { "canonical_url": "https://github.com/stripe/link-cli", "owner_repo": "stripe/link-cli", "first_seen_date": "2026-08-26", "report_file": "outputs/github-trending/2026-08-26.md" },
+    { "canonical_url": "https://github.com/honojs/hono", "owner_repo": "honojs/hono", "first_seen_date": "2026-08-26", "report_file": "outputs/github-trending/2026-08-26.md" },
+    { "canonical_url": "https://github.com/dbgate/dbgate", "owner_repo": "dbgate/dbgate", "first_seen_date": "2026-08-26", "report_file": "outputs/github-trending/2026-08-26.md" },
+    { "canonical_url": "https://github.com/pintaproject/pinta", "owner_repo": "PintaProject/Pinta", "first_seen_date": "2026-08-26", "report_file": "outputs/github-trending/2026-08-26.md" },
+    { "canonical_url": "https://github.com/sourcegit-scm/sourcegit", "owner_repo": "sourcegit-scm/sourcegit", "first_seen_date": "2026-08-26", "report_file": "outputs/github-trending/2026-08-26.md" },
+    { "canonical_url": "https://github.com/donutware/fladder", "owner_repo": "DonutWare/Fladder", "first_seen_date": "2026-08-26", "report_file": "outputs/github-trending/2026-08-26.md" },
+    { "canonical_url": "https://github.com/inlitx/streak", "owner_repo": "InlitX/streak", "first_seen_date": "2026-08-26", "report_file": "outputs/github-trending/2026-08-26.md" }
   ]
 }
