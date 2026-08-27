@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-26T08:06:00+08:00",
+  "updated_at": "2026-08-27T08:07:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -319,6 +319,16 @@
     { "canonical_url": "https://github.com/pintaproject/pinta", "owner_repo": "PintaProject/Pinta", "first_seen_date": "2026-08-26", "report_file": "outputs/github-trending/2026-08-26.md" },
     { "canonical_url": "https://github.com/sourcegit-scm/sourcegit", "owner_repo": "sourcegit-scm/sourcegit", "first_seen_date": "2026-08-26", "report_file": "outputs/github-trending/2026-08-26.md" },
     { "canonical_url": "https://github.com/donutware/fladder", "owner_repo": "DonutWare/Fladder", "first_seen_date": "2026-08-26", "report_file": "outputs/github-trending/2026-08-26.md" },
-    { "canonical_url": "https://github.com/inlitx/streak", "owner_repo": "InlitX/streak", "first_seen_date": "2026-08-26", "report_file": "outputs/github-trending/2026-08-26.md" }
+    { "canonical_url": "https://github.com/inlitx/streak", "owner_repo": "InlitX/streak", "first_seen_date": "2026-08-26", "report_file": "outputs/github-trending/2026-08-26.md" },
+    { "canonical_url": "https://github.com/cursor/plugins", "owner_repo": "cursor/plugins", "first_seen_date": "2026-08-27", "report_file": "outputs/github-trending/2026-08-27.md" },
+    { "canonical_url": "https://github.com/chaitanyagiri/munder-difflin", "owner_repo": "chaitanyagiri/munder-difflin", "first_seen_date": "2026-08-27", "report_file": "outputs/github-trending/2026-08-27.md" },
+    { "canonical_url": "https://github.com/posthog/posthog", "owner_repo": "PostHog/posthog", "first_seen_date": "2026-08-27", "report_file": "outputs/github-trending/2026-08-27.md" },
+    { "canonical_url": "https://github.com/javis603/token-monitor", "owner_repo": "Javis603/token-monitor", "first_seen_date": "2026-08-27", "report_file": "outputs/github-trending/2026-08-27.md" },
+    { "canonical_url": "https://github.com/piratuks/invoice-builder", "owner_repo": "piratuks/invoice-builder", "first_seen_date": "2026-08-27", "report_file": "outputs/github-trending/2026-08-27.md" },
+    { "canonical_url": "https://github.com/backnotprop/plannotator", "owner_repo": "backnotprop/plannotator", "first_seen_date": "2026-08-27", "report_file": "outputs/github-trending/2026-08-27.md" },
+    { "canonical_url": "https://github.com/nasa-gibs/worldview", "owner_repo": "nasa-gibs/worldview", "first_seen_date": "2026-08-27", "report_file": "outputs/github-trending/2026-08-27.md" },
+    { "canonical_url": "https://github.com/d2phap/imageglass", "owner_repo": "d2phap/ImageGlass", "first_seen_date": "2026-08-27", "report_file": "outputs/github-trending/2026-08-27.md" },
+    { "canonical_url": "https://github.com/simonoppowa/opennutritracker", "owner_repo": "simonoppowa/OpenNutriTracker", "first_seen_date": "2026-08-27", "report_file": "outputs/github-trending/2026-08-27.md" },
+    { "canonical_url": "https://github.com/avdept/jellyboxplayer", "owner_repo": "avdept/JellyBoxPlayer", "first_seen_date": "2026-08-27", "report_file": "outputs/github-trending/2026-08-27.md" }
   ]
 }
