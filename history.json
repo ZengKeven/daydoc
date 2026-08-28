@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-27T08:07:00+08:00",
+  "updated_at": "2026-08-28T08:08:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -329,6 +329,16 @@
     { "canonical_url": "https://github.com/nasa-gibs/worldview", "owner_repo": "nasa-gibs/worldview", "first_seen_date": "2026-08-27", "report_file": "outputs/github-trending/2026-08-27.md" },
     { "canonical_url": "https://github.com/d2phap/imageglass", "owner_repo": "d2phap/ImageGlass", "first_seen_date": "2026-08-27", "report_file": "outputs/github-trending/2026-08-27.md" },
     { "canonical_url": "https://github.com/simonoppowa/opennutritracker", "owner_repo": "simonoppowa/OpenNutriTracker", "first_seen_date": "2026-08-27", "report_file": "outputs/github-trending/2026-08-27.md" },
-    { "canonical_url": "https://github.com/avdept/jellyboxplayer", "owner_repo": "avdept/JellyBoxPlayer", "first_seen_date": "2026-08-27", "report_file": "outputs/github-trending/2026-08-27.md" }
+    { "canonical_url": "https://github.com/avdept/jellyboxplayer", "owner_repo": "avdept/JellyBoxPlayer", "first_seen_date": "2026-08-27", "report_file": "outputs/github-trending/2026-08-27.md" },
+    { "canonical_url": "https://github.com/tt-a1i/archify", "owner_repo": "tt-a1i/archify", "first_seen_date": "2026-08-28", "report_file": "outputs/github-trending/2026-08-28.md" },
+    { "canonical_url": "https://github.com/bilawalsidhu/gods-eye-view", "owner_repo": "bilawalsidhu/gods-eye-view", "first_seen_date": "2026-08-28", "report_file": "outputs/github-trending/2026-08-28.md" },
+    { "canonical_url": "https://github.com/tencent/browserskill", "owner_repo": "Tencent/BrowserSkill", "first_seen_date": "2026-08-28", "report_file": "outputs/github-trending/2026-08-28.md" },
+    { "canonical_url": "https://github.com/tutti-os/tutti", "owner_repo": "tutti-os/tutti", "first_seen_date": "2026-08-28", "report_file": "outputs/github-trending/2026-08-28.md" },
+    { "canonical_url": "https://github.com/1weiho/open-slide", "owner_repo": "1weiho/open-slide", "first_seen_date": "2026-08-28", "report_file": "outputs/github-trending/2026-08-28.md" },
+    { "canonical_url": "https://github.com/htdt/godogen", "owner_repo": "htdt/godogen", "first_seen_date": "2026-08-28", "report_file": "outputs/github-trending/2026-08-28.md" },
+    { "canonical_url": "https://github.com/securo-finance/securo", "owner_repo": "securo-finance/securo", "first_seen_date": "2026-08-28", "report_file": "outputs/github-trending/2026-08-28.md" },
+    { "canonical_url": "https://github.com/krtirtho/spotube", "owner_repo": "KRTirtho/spotube", "first_seen_date": "2026-08-28", "report_file": "outputs/github-trending/2026-08-28.md" },
+    { "canonical_url": "https://github.com/krille-chan/fluffychat", "owner_repo": "krille-chan/fluffychat", "first_seen_date": "2026-08-28", "report_file": "outputs/github-trending/2026-08-28.md" },
+    { "canonical_url": "https://github.com/sdegenaar/liquid_glass_widgets", "owner_repo": "sdegenaar/liquid_glass_widgets", "first_seen_date": "2026-08-28", "report_file": "outputs/github-trending/2026-08-28.md" }
   ]
 }
