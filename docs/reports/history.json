@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-28T08:08:00+08:00",
+  "updated_at": "2026-08-29T08:06:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -339,6 +339,18 @@
     { "canonical_url": "https://github.com/securo-finance/securo", "owner_repo": "securo-finance/securo", "first_seen_date": "2026-08-28", "report_file": "outputs/github-trending/2026-08-28.md" },
     { "canonical_url": "https://github.com/krtirtho/spotube", "owner_repo": "KRTirtho/spotube", "first_seen_date": "2026-08-28", "report_file": "outputs/github-trending/2026-08-28.md" },
     { "canonical_url": "https://github.com/krille-chan/fluffychat", "owner_repo": "krille-chan/fluffychat", "first_seen_date": "2026-08-28", "report_file": "outputs/github-trending/2026-08-28.md" },
-    { "canonical_url": "https://github.com/sdegenaar/liquid_glass_widgets", "owner_repo": "sdegenaar/liquid_glass_widgets", "first_seen_date": "2026-08-28", "report_file": "outputs/github-trending/2026-08-28.md" }
+    { "canonical_url": "https://github.com/sdegenaar/liquid_glass_widgets", "owner_repo": "sdegenaar/liquid_glass_widgets", "first_seen_date": "2026-08-28", "report_file": "outputs/github-trending/2026-08-28.md" },
+    { "canonical_url": "https://github.com/abi/screenshot-to-code", "owner_repo": "abi/screenshot-to-code", "first_seen_date": "2026-08-29", "report_file": "outputs/github-trending/2026-08-29.md" },
+    { "canonical_url": "https://github.com/twentyhq/twenty", "owner_repo": "twentyhq/twenty", "first_seen_date": "2026-08-29", "report_file": "outputs/github-trending/2026-08-29.md" },
+    { "canonical_url": "https://github.com/openhands/openhands", "owner_repo": "OpenHands/OpenHands", "first_seen_date": "2026-08-29", "report_file": "outputs/github-trending/2026-08-29.md" },
+    { "canonical_url": "https://github.com/rohitg00/agentmemory", "owner_repo": "rohitg00/agentmemory", "first_seen_date": "2026-08-29", "report_file": "outputs/github-trending/2026-08-29.md" },
+    { "canonical_url": "https://github.com/agenta-ai/agenta", "owner_repo": "Agenta-AI/agenta", "first_seen_date": "2026-08-29", "report_file": "outputs/github-trending/2026-08-29.md" },
+    { "canonical_url": "https://github.com/mintplex-labs/anything-llm", "owner_repo": "Mintplex-Labs/anything-llm", "first_seen_date": "2026-08-29", "report_file": "outputs/github-trending/2026-08-29.md" },
+    { "canonical_url": "https://github.com/bmad-code-org/bmad-method", "owner_repo": "bmad-code-org/BMAD-METHOD", "first_seen_date": "2026-08-29", "report_file": "outputs/github-trending/2026-08-29.md" },
+    { "canonical_url": "https://github.com/goldmansachs/gs-quant", "owner_repo": "goldmansachs/gs-quant", "first_seen_date": "2026-08-29", "report_file": "outputs/github-trending/2026-08-29.md" },
+    { "canonical_url": "https://github.com/teamwheelwizard/wheelwizard", "owner_repo": "TeamWheelWizard/WheelWizard", "first_seen_date": "2026-08-29", "report_file": "outputs/github-trending/2026-08-29.md" },
+    { "canonical_url": "https://github.com/cogwheel0/conduit", "owner_repo": "cogwheel0/conduit", "first_seen_date": "2026-08-29", "report_file": "outputs/github-trending/2026-08-29.md" },
+    { "canonical_url": "https://github.com/deretame/breeze", "owner_repo": "deretame/Breeze", "first_seen_date": "2026-08-29", "report_file": "outputs/github-trending/2026-08-29.md" },
+    { "canonical_url": "https://github.com/tranxuanthang/lrcget", "owner_repo": "tranxuanthang/lrcget", "first_seen_date": "2026-08-29", "report_file": "outputs/github-trending/2026-08-29.md" }
   ]
 }
