@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-29T08:06:00+08:00",
+  "updated_at": "2026-09-03T23:34:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -351,6 +351,14 @@
     { "canonical_url": "https://github.com/teamwheelwizard/wheelwizard", "owner_repo": "TeamWheelWizard/WheelWizard", "first_seen_date": "2026-08-29", "report_file": "outputs/github-trending/2026-08-29.md" },
     { "canonical_url": "https://github.com/cogwheel0/conduit", "owner_repo": "cogwheel0/conduit", "first_seen_date": "2026-08-29", "report_file": "outputs/github-trending/2026-08-29.md" },
     { "canonical_url": "https://github.com/deretame/breeze", "owner_repo": "deretame/Breeze", "first_seen_date": "2026-08-29", "report_file": "outputs/github-trending/2026-08-29.md" },
-    { "canonical_url": "https://github.com/tranxuanthang/lrcget", "owner_repo": "tranxuanthang/lrcget", "first_seen_date": "2026-08-29", "report_file": "outputs/github-trending/2026-08-29.md" }
+    { "canonical_url": "https://github.com/tranxuanthang/lrcget", "owner_repo": "tranxuanthang/lrcget", "first_seen_date": "2026-08-29", "report_file": "outputs/github-trending/2026-08-29.md" },
+    { "canonical_url": "https://github.com/jingyaogong/minimind", "owner_repo": "jingyaogong/minimind", "first_seen_date": "2026-09-03", "report_file": "outputs/github-trending/2026-09-03.md", "repository_id": 834369920 },
+    { "canonical_url": "https://github.com/datacurve-ai/deep-swe", "owner_repo": "datacurve-ai/deep-swe", "first_seen_date": "2026-09-03", "report_file": "outputs/github-trending/2026-09-03.md", "repository_id": 1239890796 },
+    { "canonical_url": "https://github.com/vercel-labs/portless", "owner_repo": "vercel-labs/portless", "first_seen_date": "2026-09-03", "report_file": "outputs/github-trending/2026-09-03.md", "repository_id": 1158537997 },
+    { "canonical_url": "https://github.com/openreplay/openreplay", "owner_repo": "openreplay/openreplay", "first_seen_date": "2026-09-03", "report_file": "outputs/github-trending/2026-09-03.md", "repository_id": 362806180 },
+    { "canonical_url": "https://github.com/facebook/stylex", "owner_repo": "facebook/stylex", "first_seen_date": "2026-09-03", "report_file": "outputs/github-trending/2026-09-03.md", "repository_id": 575723287 },
+    { "canonical_url": "https://github.com/microsoft/garnet", "owner_repo": "microsoft/garnet", "first_seen_date": "2026-09-03", "report_file": "outputs/github-trending/2026-09-03.md", "repository_id": 681372871 },
+    { "canonical_url": "https://github.com/seerge/g-helper", "owner_repo": "seerge/g-helper", "first_seen_date": "2026-09-03", "report_file": "outputs/github-trending/2026-09-03.md", "repository_id": 600246354 },
+    { "canonical_url": "https://github.com/varunsalian/debrify", "owner_repo": "varunsalian/debrify", "first_seen_date": "2026-09-03", "report_file": "outputs/github-trending/2026-09-03.md", "repository_id": 1030716792 }
   ]
 }
