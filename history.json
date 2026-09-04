@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T23:34:00+08:00",
+  "updated_at": "2026-09-04T08:15:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -359,6 +359,12 @@
     { "canonical_url": "https://github.com/facebook/stylex", "owner_repo": "facebook/stylex", "first_seen_date": "2026-09-03", "report_file": "outputs/github-trending/2026-09-03.md", "repository_id": 575723287 },
     { "canonical_url": "https://github.com/microsoft/garnet", "owner_repo": "microsoft/garnet", "first_seen_date": "2026-09-03", "report_file": "outputs/github-trending/2026-09-03.md", "repository_id": 681372871 },
     { "canonical_url": "https://github.com/seerge/g-helper", "owner_repo": "seerge/g-helper", "first_seen_date": "2026-09-03", "report_file": "outputs/github-trending/2026-09-03.md", "repository_id": 600246354 },
-    { "canonical_url": "https://github.com/varunsalian/debrify", "owner_repo": "varunsalian/debrify", "first_seen_date": "2026-09-03", "report_file": "outputs/github-trending/2026-09-03.md", "repository_id": 1030716792 }
+    { "canonical_url": "https://github.com/varunsalian/debrify", "owner_repo": "varunsalian/debrify", "first_seen_date": "2026-09-03", "report_file": "outputs/github-trending/2026-09-03.md", "repository_id": 1030716792 },
+    { "canonical_url": "https://github.com/blader/humanizer", "owner_repo": "blader/humanizer", "first_seen_date": "2026-09-04", "report_file": "outputs/github-trending/2026-09-04.md", "repository_id": 1136666433 },
+    { "canonical_url": "https://github.com/awslabs/aidlc-workflows", "owner_repo": "awslabs/aidlc-workflows", "first_seen_date": "2026-09-04", "report_file": "outputs/github-trending/2026-09-04.md", "repository_id": 1096054771 },
+    { "canonical_url": "https://github.com/rmyndharis/openwa", "owner_repo": "rmyndharis/OpenWA", "first_seen_date": "2026-09-04", "report_file": "outputs/github-trending/2026-09-04.md", "repository_id": 1147961398 },
+    { "canonical_url": "https://github.com/dotnet/eshop", "owner_repo": "dotnet/eShop", "first_seen_date": "2026-09-04", "report_file": "outputs/github-trending/2026-09-04.md", "repository_id": 706944893 },
+    { "canonical_url": "https://github.com/frappe/helpdesk", "owner_repo": "frappe/helpdesk", "first_seen_date": "2026-09-04", "report_file": "outputs/github-trending/2026-09-04.md", "repository_id": 419635982 },
+    { "canonical_url": "https://github.com/bastienwirtz/homer", "owner_repo": "bastienwirtz/homer", "first_seen_date": "2026-09-04", "report_file": "outputs/github-trending/2026-09-04.md", "repository_id": 137308006 }
   ]
 }
