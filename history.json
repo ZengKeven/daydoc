@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-04T08:15:00+08:00",
+  "updated_at": "2026-09-05T08:20:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -365,6 +365,13 @@
     { "canonical_url": "https://github.com/rmyndharis/openwa", "owner_repo": "rmyndharis/OpenWA", "first_seen_date": "2026-09-04", "report_file": "outputs/github-trending/2026-09-04.md", "repository_id": 1147961398 },
     { "canonical_url": "https://github.com/dotnet/eshop", "owner_repo": "dotnet/eShop", "first_seen_date": "2026-09-04", "report_file": "outputs/github-trending/2026-09-04.md", "repository_id": 706944893 },
     { "canonical_url": "https://github.com/frappe/helpdesk", "owner_repo": "frappe/helpdesk", "first_seen_date": "2026-09-04", "report_file": "outputs/github-trending/2026-09-04.md", "repository_id": 419635982 },
-    { "canonical_url": "https://github.com/bastienwirtz/homer", "owner_repo": "bastienwirtz/homer", "first_seen_date": "2026-09-04", "report_file": "outputs/github-trending/2026-09-04.md", "repository_id": 137308006 }
+    { "canonical_url": "https://github.com/bastienwirtz/homer", "owner_repo": "bastienwirtz/homer", "first_seen_date": "2026-09-04", "report_file": "outputs/github-trending/2026-09-04.md", "repository_id": 137308006 },
+    { "canonical_url": "https://github.com/humanlayer/skills", "owner_repo": "humanlayer/skills", "first_seen_date": "2026-09-05", "report_file": "outputs/github-trending/2026-09-05.md", "repository_id": 1184901356 },
+    { "canonical_url": "https://github.com/nvidia/skillspector", "owner_repo": "NVIDIA/SkillSpector", "first_seen_date": "2026-09-05", "report_file": "outputs/github-trending/2026-09-05.md", "repository_id": 1187630119 },
+    { "canonical_url": "https://github.com/titanwings/distilly", "owner_repo": "titanwings/distilly", "first_seen_date": "2026-09-05", "report_file": "outputs/github-trending/2026-09-05.md", "repository_id": 1195828337 },
+    { "canonical_url": "https://github.com/radixark/miles", "owner_repo": "radixark/miles", "first_seen_date": "2026-09-05", "report_file": "outputs/github-trending/2026-09-05.md", "repository_id": 1072725553 },
+    { "canonical_url": "https://github.com/microsoft/power-platform-skills", "owner_repo": "microsoft/power-platform-skills", "first_seen_date": "2026-09-05", "report_file": "outputs/github-trending/2026-09-05.md", "repository_id": 1139262569 },
+    { "canonical_url": "https://github.com/magicmirrororg/magicmirror", "owner_repo": "MagicMirrorOrg/MagicMirror", "first_seen_date": "2026-09-05", "report_file": "outputs/github-trending/2026-09-05.md", "repository_id": 16989371 },
+    { "canonical_url": "https://github.com/rocksdanister/lively", "owner_repo": "rocksdanister/lively", "first_seen_date": "2026-09-05", "report_file": "outputs/github-trending/2026-09-05.md", "repository_id": 201188122 }
   ]
 }
