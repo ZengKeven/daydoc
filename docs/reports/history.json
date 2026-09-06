@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-05T08:20:00+08:00",
+  "updated_at": "2026-09-06T08:18:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -372,6 +372,15 @@
     { "canonical_url": "https://github.com/radixark/miles", "owner_repo": "radixark/miles", "first_seen_date": "2026-09-05", "report_file": "outputs/github-trending/2026-09-05.md", "repository_id": 1072725553 },
     { "canonical_url": "https://github.com/microsoft/power-platform-skills", "owner_repo": "microsoft/power-platform-skills", "first_seen_date": "2026-09-05", "report_file": "outputs/github-trending/2026-09-05.md", "repository_id": 1139262569 },
     { "canonical_url": "https://github.com/magicmirrororg/magicmirror", "owner_repo": "MagicMirrorOrg/MagicMirror", "first_seen_date": "2026-09-05", "report_file": "outputs/github-trending/2026-09-05.md", "repository_id": 16989371 },
-    { "canonical_url": "https://github.com/rocksdanister/lively", "owner_repo": "rocksdanister/lively", "first_seen_date": "2026-09-05", "report_file": "outputs/github-trending/2026-09-05.md", "repository_id": 201188122 }
+    { "canonical_url": "https://github.com/rocksdanister/lively", "owner_repo": "rocksdanister/lively", "first_seen_date": "2026-09-05", "report_file": "outputs/github-trending/2026-09-05.md", "repository_id": 201188122 },
+    { "canonical_url": "https://github.com/gitlawb/openclaude", "owner_repo": "Gitlawb/openclaude", "first_seen_date": "2026-09-06", "report_file": "outputs/github-trending/2026-09-06.md", "repository_id": 1197990888 },
+    { "canonical_url": "https://github.com/handsomestwei/patent-disclosure-skill", "owner_repo": "handsomestWei/patent-disclosure-skill", "first_seen_date": "2026-09-06", "report_file": "outputs/github-trending/2026-09-06.md", "repository_id": 1204004374 },
+    { "canonical_url": "https://github.com/p-e-w/heretic", "owner_repo": "p-e-w/heretic", "first_seen_date": "2026-09-06", "report_file": "outputs/github-trending/2026-09-06.md", "repository_id": 1061041576 },
+    { "canonical_url": "https://github.com/k2-fsa/omnivoice", "owner_repo": "k2-fsa/OmniVoice", "first_seen_date": "2026-09-06", "report_file": "outputs/github-trending/2026-09-06.md", "repository_id": 1197198701 },
+    { "canonical_url": "https://github.com/darkzogx/youtube-automation-agent", "owner_repo": "darkzOGx/youtube-automation-agent", "first_seen_date": "2026-09-06", "report_file": "outputs/github-trending/2026-09-06.md", "repository_id": 1038201582 },
+    { "canonical_url": "https://github.com/microsoft/semantic-kernel", "owner_repo": "microsoft/semantic-kernel", "first_seen_date": "2026-09-06", "report_file": "outputs/github-trending/2026-09-06.md", "repository_id": 607289185 },
+    { "canonical_url": "https://github.com/tyrrrz/youtubedownloader", "owner_repo": "Tyrrrz/YoutubeDownloader", "first_seen_date": "2026-09-06", "report_file": "outputs/github-trending/2026-09-06.md", "repository_id": 157858597 },
+    { "canonical_url": "https://github.com/beyonddimension/steamtools", "owner_repo": "BeyondDimension/SteamTools", "first_seen_date": "2026-09-06", "report_file": "outputs/github-trending/2026-09-06.md", "repository_id": 321682465 },
+    { "canonical_url": "https://github.com/inovector/mixpost", "owner_repo": "inovector/mixpost", "first_seen_date": "2026-09-06", "report_file": "outputs/github-trending/2026-09-06.md", "repository_id": 516725401 }
   ]
 }
