@@ -21,6 +21,33 @@
   backdrop-filter: blur(18px);
 }
 
+.VPSidebar {
+  scrollbar-color: rgba(100, 116, 139, 0.3) transparent;
+  scrollbar-width: thin;
+}
+
+.VPSidebar:hover {
+  scrollbar-color: rgba(34, 211, 167, 0.52) transparent;
+}
+
+.VPSidebar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.VPSidebar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.VPSidebar::-webkit-scrollbar-thumb {
+  border-radius: 999px;
+  background-color: rgba(100, 116, 139, 0.3);
+}
+
+.VPSidebar:hover::-webkit-scrollbar-thumb,
+.VPSidebar::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(34, 211, 167, 0.52);
+}
+
 .VPHomeHero .name {
   letter-spacing: -0.045em;
 }

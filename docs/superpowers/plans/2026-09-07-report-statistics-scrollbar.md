@@ -14,12 +14,13 @@
 
 **Files:**
 - Create: `tests/reports-data.test.mjs`
+- Create: `docs/report-statistics.ts`
 - Modify: `package.json`
 - Test: `tests/reports-data.test.mjs`
 
 - [ ] **Step 1: Add a Node test for canonical history counts**
 
-Create a temporary fixture with two Markdown reports and 388 history entries, eight dated `2026-09-07`. Import `buildReportDashboardData` from `docs/reports.data.ts` and assert `totalProjects === 388`, the 2026-09-07 count is 8, and a report without matching history records has count 0.
+Create a temporary fixture with two Markdown reports and 388 history entries, eight dated `2026-09-07`. Import `buildReportDashboardData` from `docs/report-statistics.ts` and assert `totalProjects === 388`, the 2026-09-07 count is 8, and a report without matching history records has count 0.
 
 - [ ] **Step 2: Add the test command**
 
@@ -29,12 +30,13 @@ Add `"test": "node --test tests/*.test.mjs"` to `package.json`.
 
 Run: `pnpm test`
 
-Expected: FAIL because `buildReportDashboardData` is not exported by the current implementation.
+Expected: FAIL because `docs/report-statistics.ts` does not exist yet.
 
 ### Task 2: Make history.json the statistics source of truth
 
 **Files:**
 - Modify: `docs/reports.data.ts`
+- Create: `docs/report-statistics.ts`
 - Modify: `docs/.vitepress/theme/ReportDashboard.vue`
 - Test: `tests/reports-data.test.mjs`
 

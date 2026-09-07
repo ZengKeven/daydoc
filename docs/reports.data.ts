@@ -1,37 +1,24 @@
 import { readFileSync } from 'node:fs'
 import type { DataLoader } from 'vitepress'
+import {
+  buildReportDashboardData,
+  type HistoryIndex,
+  type ReportDashboardData,
+} from './report-statistics'
 
-export interface ReportSummary {
-  date: string
-  url: string
-  count: number
-  highlights: string
-}
-
-declare const data: ReportSummary[]
+declare const data: ReportDashboardData
 export { data }
 
 export default {
-  watch: ['reports/*.md'],
+  watch: ['reports/*.md', 'reports/history.json'],
   load(watchedFiles) {
-    return watchedFiles
-      .filter((file) => /\d{4}-\d{2}-\d{2}\.md$/.test(file))
-      .map((file) => {
-        const content = readFileSync(file, 'utf8')
-        const date = file.match(/(\d{4}-\d{2}-\d{2})\.md$/)?.[1] ?? ''
-        const count = Number(content.match(/今日新增[：:]\s*(\d+)\s*个项目/)?.[1] ?? 0)
-        const highlights = [...content.matchAll(/^\d+\. \*\*(.+?)\*\*[：:]/gm)]
-          .slice(0, 3)
-          .map((match) => match[1])
-          .join('、')
+    const historyFile = watchedFiles.find((file) => /[\\/]reports[\\/]history\.json$/.test(file))
 
-        return {
-          date,
-          url: `/reports/${date}`,
-          count,
-          highlights: highlights || '查看完整报告',
-        }
-      })
-      .sort((a, b) => b.date.localeCompare(a.date))
+    if (!historyFile) {
+      throw new Error('DayDoc history index was not found at reports/history.json')
+    }
+
+    const history = JSON.parse(readFileSync(historyFile, 'utf8')) as HistoryIndex
+    return buildReportDashboardData(watchedFiles, history)
   },
 } satisfies DataLoader

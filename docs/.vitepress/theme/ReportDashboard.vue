@@ -1,14 +1,15 @@
 <script setup lang="ts">
 import { withBase } from 'vitepress'
 import { computed } from 'vue'
-import { data as reports } from '../../reports.data'
+import { data } from '../../reports.data'
 
 const props = withDefaults(defineProps<{ mode?: 'home' | 'archive' }>(), {
   mode: 'home',
 })
 
+const reports = data.reports
 const visibleReports = computed(() => (props.mode === 'home' ? reports.slice(0, 5) : reports))
-const totalProjects = computed(() => reports.reduce((sum, report) => sum + report.count, 0))
+const totalProjects = data.totalProjects
 </script>
 
 <template>
