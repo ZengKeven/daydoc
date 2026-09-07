@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-06T08:18:00+08:00",
+  "updated_at": "2026-09-07T08:12:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -381,6 +381,14 @@
     { "canonical_url": "https://github.com/microsoft/semantic-kernel", "owner_repo": "microsoft/semantic-kernel", "first_seen_date": "2026-09-06", "report_file": "outputs/github-trending/2026-09-06.md", "repository_id": 607289185 },
     { "canonical_url": "https://github.com/tyrrrz/youtubedownloader", "owner_repo": "Tyrrrz/YoutubeDownloader", "first_seen_date": "2026-09-06", "report_file": "outputs/github-trending/2026-09-06.md", "repository_id": 157858597 },
     { "canonical_url": "https://github.com/beyonddimension/steamtools", "owner_repo": "BeyondDimension/SteamTools", "first_seen_date": "2026-09-06", "report_file": "outputs/github-trending/2026-09-06.md", "repository_id": 321682465 },
-    { "canonical_url": "https://github.com/inovector/mixpost", "owner_repo": "inovector/mixpost", "first_seen_date": "2026-09-06", "report_file": "outputs/github-trending/2026-09-06.md", "repository_id": 516725401 }
+    { "canonical_url": "https://github.com/inovector/mixpost", "owner_repo": "inovector/mixpost", "first_seen_date": "2026-09-06", "report_file": "outputs/github-trending/2026-09-06.md", "repository_id": 516725401 },
+    { "canonical_url": "https://github.com/pollen-robotics/microduck_rl", "owner_repo": "pollen-robotics/microduck_rl", "first_seen_date": "2026-09-07", "report_file": "outputs/github-trending/2026-09-07.md", "repository_id": 1111189673 },
+    { "canonical_url": "https://github.com/experientiallabs/experiential", "owner_repo": "experientiallabs/experiential", "first_seen_date": "2026-09-07", "report_file": "outputs/github-trending/2026-09-07.md", "repository_id": 1279659344 },
+    { "canonical_url": "https://github.com/adventdevinc/kudu", "owner_repo": "AdventDevInc/kudu", "first_seen_date": "2026-09-07", "report_file": "outputs/github-trending/2026-09-07.md", "repository_id": 1181839727 },
+    { "canonical_url": "https://github.com/aipoch/open-science", "owner_repo": "aipoch/open-science", "first_seen_date": "2026-09-07", "report_file": "outputs/github-trending/2026-09-07.md", "repository_id": 1287804060 },
+    { "canonical_url": "https://github.com/bitwarden/server", "owner_repo": "bitwarden/server", "first_seen_date": "2026-09-07", "report_file": "outputs/github-trending/2026-09-07.md", "repository_id": 46755185 },
+    { "canonical_url": "https://github.com/huynhsontung/screenbox", "owner_repo": "huynhsontung/Screenbox", "first_seen_date": "2026-09-07", "report_file": "outputs/github-trending/2026-09-07.md", "repository_id": 447153396 },
+    { "canonical_url": "https://github.com/gopeedlab/gopeed", "owner_repo": "GopeedLab/gopeed", "first_seen_date": "2026-09-07", "report_file": "outputs/github-trending/2026-09-07.md", "repository_id": 182502850 },
+    { "canonical_url": "https://github.com/miragecoa/ai-cubby", "owner_repo": "miragecoa/AI-Cubby", "first_seen_date": "2026-09-07", "report_file": "outputs/github-trending/2026-09-07.md", "repository_id": 1165281056 }
   ]
 }
