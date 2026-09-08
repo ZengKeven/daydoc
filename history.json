@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-07T08:12:00+08:00",
+  "updated_at": "2026-09-08T08:18:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -389,6 +389,14 @@
     { "canonical_url": "https://github.com/bitwarden/server", "owner_repo": "bitwarden/server", "first_seen_date": "2026-09-07", "report_file": "outputs/github-trending/2026-09-07.md", "repository_id": 46755185 },
     { "canonical_url": "https://github.com/huynhsontung/screenbox", "owner_repo": "huynhsontung/Screenbox", "first_seen_date": "2026-09-07", "report_file": "outputs/github-trending/2026-09-07.md", "repository_id": 447153396 },
     { "canonical_url": "https://github.com/gopeedlab/gopeed", "owner_repo": "GopeedLab/gopeed", "first_seen_date": "2026-09-07", "report_file": "outputs/github-trending/2026-09-07.md", "repository_id": 182502850 },
-    { "canonical_url": "https://github.com/miragecoa/ai-cubby", "owner_repo": "miragecoa/AI-Cubby", "first_seen_date": "2026-09-07", "report_file": "outputs/github-trending/2026-09-07.md", "repository_id": 1165281056 }
+    { "canonical_url": "https://github.com/miragecoa/ai-cubby", "owner_repo": "miragecoa/AI-Cubby", "first_seen_date": "2026-09-07", "report_file": "outputs/github-trending/2026-09-07.md", "repository_id": 1165281056 },
+    { "canonical_url": "https://github.com/the-swarm-corporation/autohedge", "owner_repo": "The-Swarm-Corporation/AutoHedge", "first_seen_date": "2026-09-08", "report_file": "outputs/github-trending/2026-09-08.md", "repository_id": 901529145 },
+    { "canonical_url": "https://github.com/advaitpaliwal/feynman", "owner_repo": "advaitpaliwal/feynman", "first_seen_date": "2026-09-08", "report_file": "outputs/github-trending/2026-09-08.md", "repository_id": 1186559664 },
+    { "canonical_url": "https://github.com/roboflow/rf-detr", "owner_repo": "roboflow/rf-detr", "first_seen_date": "2026-09-08", "report_file": "outputs/github-trending/2026-09-08.md", "repository_id": 951534260 },
+    { "canonical_url": "https://github.com/getopenscreen/openscreen", "owner_repo": "getopenscreen/openscreen", "first_seen_date": "2026-09-08", "report_file": "outputs/github-trending/2026-09-08.md", "repository_id": 1181567753 },
+    { "canonical_url": "https://github.com/fb208/openbidkit_yibiao", "owner_repo": "FB208/OpenBidKit_Yibiao", "first_seen_date": "2026-09-08", "report_file": "outputs/github-trending/2026-09-08.md", "repository_id": 1031589336 },
+    { "canonical_url": "https://github.com/devtoys-app/devtoys", "owner_repo": "DevToys-app/DevToys", "first_seen_date": "2026-09-08", "report_file": "outputs/github-trending/2026-09-08.md", "repository_id": 411493648 },
+    { "canonical_url": "https://github.com/koodo-reader/koodo-reader", "owner_repo": "koodo-reader/koodo-reader", "first_seen_date": "2026-09-08", "report_file": "outputs/github-trending/2026-09-08.md", "repository_id": 245049028 },
+    { "canonical_url": "https://github.com/techjarves/uncensored-local-ai-multiplatform", "owner_repo": "techjarves/Uncensored-Local-AI-Multiplatform", "first_seen_date": "2026-09-08", "report_file": "outputs/github-trending/2026-09-08.md", "repository_id": 1214814133 }
   ]
 }
