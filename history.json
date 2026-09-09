@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-08T08:18:00+08:00",
+  "updated_at": "2026-09-09T08:21:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -397,6 +397,15 @@
     { "canonical_url": "https://github.com/fb208/openbidkit_yibiao", "owner_repo": "FB208/OpenBidKit_Yibiao", "first_seen_date": "2026-09-08", "report_file": "outputs/github-trending/2026-09-08.md", "repository_id": 1031589336 },
     { "canonical_url": "https://github.com/devtoys-app/devtoys", "owner_repo": "DevToys-app/DevToys", "first_seen_date": "2026-09-08", "report_file": "outputs/github-trending/2026-09-08.md", "repository_id": 411493648 },
     { "canonical_url": "https://github.com/koodo-reader/koodo-reader", "owner_repo": "koodo-reader/koodo-reader", "first_seen_date": "2026-09-08", "report_file": "outputs/github-trending/2026-09-08.md", "repository_id": 245049028 },
-    { "canonical_url": "https://github.com/techjarves/uncensored-local-ai-multiplatform", "owner_repo": "techjarves/Uncensored-Local-AI-Multiplatform", "first_seen_date": "2026-09-08", "report_file": "outputs/github-trending/2026-09-08.md", "repository_id": 1214814133 }
+    { "canonical_url": "https://github.com/techjarves/uncensored-local-ai-multiplatform", "owner_repo": "techjarves/Uncensored-Local-AI-Multiplatform", "first_seen_date": "2026-09-08", "report_file": "outputs/github-trending/2026-09-08.md", "repository_id": 1214814133 },
+    { "canonical_url": "https://github.com/tencent/teamai-cli", "owner_repo": "Tencent/teamai-cli", "first_seen_date": "2026-09-09", "report_file": "outputs/github-trending/2026-09-09.md", "repository_id": 1222364235 },
+    { "canonical_url": "https://github.com/jo-inc/camofox-browser", "owner_repo": "jo-inc/camofox-browser", "first_seen_date": "2026-09-09", "report_file": "outputs/github-trending/2026-09-09.md", "repository_id": 1142274728 },
+    { "canonical_url": "https://github.com/anil-matcha/open-generative-ai", "owner_repo": "Anil-matcha/Open-Generative-AI", "first_seen_date": "2026-09-09", "report_file": "outputs/github-trending/2026-09-09.md", "repository_id": 638513786 },
+    { "canonical_url": "https://github.com/nowork-studio/notfair-plugin", "owner_repo": "nowork-studio/notfair-plugin", "first_seen_date": "2026-09-09", "report_file": "outputs/github-trending/2026-09-09.md", "repository_id": 1193374549 },
+    { "canonical_url": "https://github.com/neka-nat/freecad-mcp", "owner_repo": "neka-nat/freecad-mcp", "first_seen_date": "2026-09-09", "report_file": "outputs/github-trending/2026-09-09.md", "repository_id": 723307046 },
+    { "canonical_url": "https://github.com/quantconnect/lean", "owner_repo": "QuantConnect/Lean", "first_seen_date": "2026-09-09", "report_file": "outputs/github-trending/2026-09-09.md", "repository_id": 27251463 },
+    { "canonical_url": "https://github.com/stranslate/stranslate", "owner_repo": "STranslate/STranslate", "first_seen_date": "2026-09-09", "report_file": "outputs/github-trending/2026-09-09.md", "repository_id": 579375422 },
+    { "canonical_url": "https://github.com/1sdv/tripstar", "owner_repo": "1sdv/TripStar", "first_seen_date": "2026-09-09", "report_file": "outputs/github-trending/2026-09-09.md", "repository_id": 1175233515 },
+    { "canonical_url": "https://github.com/sjjian/openhare", "owner_repo": "sjjian/openhare", "first_seen_date": "2026-09-09", "report_file": "outputs/github-trending/2026-09-09.md", "repository_id": 723348175 }
   ]
 }
