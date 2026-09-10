@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-09T08:21:00+08:00",
+  "updated_at": "2026-09-10T15:00:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -406,6 +406,11 @@
     { "canonical_url": "https://github.com/quantconnect/lean", "owner_repo": "QuantConnect/Lean", "first_seen_date": "2026-09-09", "report_file": "outputs/github-trending/2026-09-09.md", "repository_id": 27251463 },
     { "canonical_url": "https://github.com/stranslate/stranslate", "owner_repo": "STranslate/STranslate", "first_seen_date": "2026-09-09", "report_file": "outputs/github-trending/2026-09-09.md", "repository_id": 579375422 },
     { "canonical_url": "https://github.com/1sdv/tripstar", "owner_repo": "1sdv/TripStar", "first_seen_date": "2026-09-09", "report_file": "outputs/github-trending/2026-09-09.md", "repository_id": 1175233515 },
-    { "canonical_url": "https://github.com/sjjian/openhare", "owner_repo": "sjjian/openhare", "first_seen_date": "2026-09-09", "report_file": "outputs/github-trending/2026-09-09.md", "repository_id": 723348175 }
+    { "canonical_url": "https://github.com/sjjian/openhare", "owner_repo": "sjjian/openhare", "first_seen_date": "2026-09-09", "report_file": "outputs/github-trending/2026-09-09.md", "repository_id": 723348175 },
+    { "canonical_url": "https://github.com/ayghri/i-have-adhd", "owner_repo": "ayghri/i-have-adhd", "first_seen_date": "2026-09-10", "report_file": "outputs/github-trending/2026-09-10.md", "repository_id": 1238120057 },
+    { "canonical_url": "https://github.com/vastsa/pi-desktop", "owner_repo": "vastsa/PI-Desktop", "first_seen_date": "2026-09-10", "report_file": "outputs/github-trending/2026-09-10.md", "repository_id": 617502359 },
+    { "canonical_url": "https://github.com/rankftw/rhi", "owner_repo": "RankFTW/RHI", "first_seen_date": "2026-09-10", "report_file": "outputs/github-trending/2026-09-10.md", "repository_id": 1184180055 },
+    { "canonical_url": "https://github.com/opendcai/gamefactory-3a", "owner_repo": "OpenDCAI/GameFactory-3A", "first_seen_date": "2026-09-10", "report_file": "outputs/github-trending/2026-09-10.md", "repository_id": 1290774731 },
+    { "canonical_url": "https://github.com/leancodepl/marionette_mcp", "owner_repo": "leancodepl/marionette_mcp", "first_seen_date": "2026-09-10", "report_file": "outputs/github-trending/2026-09-10.md", "repository_id": 1130967478 }
   ]
 }
