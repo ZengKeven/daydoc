@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-10T15:00:00+08:00",
+  "updated_at": "2026-09-11T08:04:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -411,6 +411,14 @@
     { "canonical_url": "https://github.com/vastsa/pi-desktop", "owner_repo": "vastsa/PI-Desktop", "first_seen_date": "2026-09-10", "report_file": "outputs/github-trending/2026-09-10.md", "repository_id": 617502359 },
     { "canonical_url": "https://github.com/rankftw/rhi", "owner_repo": "RankFTW/RHI", "first_seen_date": "2026-09-10", "report_file": "outputs/github-trending/2026-09-10.md", "repository_id": 1184180055 },
     { "canonical_url": "https://github.com/opendcai/gamefactory-3a", "owner_repo": "OpenDCAI/GameFactory-3A", "first_seen_date": "2026-09-10", "report_file": "outputs/github-trending/2026-09-10.md", "repository_id": 1290774731 },
-    { "canonical_url": "https://github.com/leancodepl/marionette_mcp", "owner_repo": "leancodepl/marionette_mcp", "first_seen_date": "2026-09-10", "report_file": "outputs/github-trending/2026-09-10.md", "repository_id": 1130967478 }
+    { "canonical_url": "https://github.com/leancodepl/marionette_mcp", "owner_repo": "leancodepl/marionette_mcp", "first_seen_date": "2026-09-10", "report_file": "outputs/github-trending/2026-09-10.md", "repository_id": 1130967478 },
+    { "canonical_url": "https://github.com/letta-ai/letta-code", "owner_repo": "letta-ai/letta-code", "first_seen_date": "2026-09-11", "report_file": "outputs/github-trending/2026-09-11.md", "repository_id": 1082960574 },
+    { "canonical_url": "https://github.com/yilewang/llm-for-zotero", "owner_repo": "yilewang/llm-for-zotero", "first_seen_date": "2026-09-11", "report_file": "outputs/github-trending/2026-09-11.md", "repository_id": 1144694071 },
+    { "canonical_url": "https://github.com/gpustack/gpustack", "owner_repo": "gpustack/gpustack", "first_seen_date": "2026-09-11", "report_file": "outputs/github-trending/2026-09-11.md", "repository_id": 799049436 },
+    { "canonical_url": "https://github.com/google-deepmind/alphagenome", "owner_repo": "google-deepmind/alphagenome", "first_seen_date": "2026-09-11", "report_file": "outputs/github-trending/2026-09-11.md", "repository_id": 873507399 },
+    { "canonical_url": "https://github.com/microsoft/winappcli", "owner_repo": "microsoft/winappCli", "first_seen_date": "2026-09-11", "report_file": "outputs/github-trending/2026-09-11.md", "repository_id": 1029302123 },
+    { "canonical_url": "https://github.com/ahmadrosid/nakama", "owner_repo": "ahmadrosid/nakama", "first_seen_date": "2026-09-11", "report_file": "outputs/github-trending/2026-09-11.md", "repository_id": 1247294715 },
+    { "canonical_url": "https://github.com/eigenwise/eigenwise-toolshed", "owner_repo": "Eigenwise/eigenwise-toolshed", "first_seen_date": "2026-09-11", "report_file": "outputs/github-trending/2026-09-11.md", "repository_id": 1268202618 },
+    { "canonical_url": "https://github.com/axel10/vynody", "owner_repo": "axel10/vynody", "first_seen_date": "2026-09-11", "report_file": "outputs/github-trending/2026-09-11.md", "repository_id": 1176761329 }
   ]
 }
