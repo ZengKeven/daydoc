@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-11T08:04:00+08:00",
+  "updated_at": "2026-09-13T08:00:17+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -419,6 +419,11 @@
     { "canonical_url": "https://github.com/microsoft/winappcli", "owner_repo": "microsoft/winappCli", "first_seen_date": "2026-09-11", "report_file": "outputs/github-trending/2026-09-11.md", "repository_id": 1029302123 },
     { "canonical_url": "https://github.com/ahmadrosid/nakama", "owner_repo": "ahmadrosid/nakama", "first_seen_date": "2026-09-11", "report_file": "outputs/github-trending/2026-09-11.md", "repository_id": 1247294715 },
     { "canonical_url": "https://github.com/eigenwise/eigenwise-toolshed", "owner_repo": "Eigenwise/eigenwise-toolshed", "first_seen_date": "2026-09-11", "report_file": "outputs/github-trending/2026-09-11.md", "repository_id": 1268202618 },
-    { "canonical_url": "https://github.com/axel10/vynody", "owner_repo": "axel10/vynody", "first_seen_date": "2026-09-11", "report_file": "outputs/github-trending/2026-09-11.md", "repository_id": 1176761329 }
+    { "canonical_url": "https://github.com/axel10/vynody", "owner_repo": "axel10/vynody", "first_seen_date": "2026-09-11", "report_file": "outputs/github-trending/2026-09-11.md", "repository_id": 1176761329 },
+    { "canonical_url": "https://github.com/melgarafael/deskcommcrm", "owner_repo": "melgarafael/DeskcommCRM", "first_seen_date": "2026-09-13", "report_file": "outputs/github-trending/2026-09-13.md", "repository_id": 1223939135 },
+    { "canonical_url": "https://github.com/alsk1992/cloddsbot", "owner_repo": "alsk1992/CloddsBot", "first_seen_date": "2026-09-13", "report_file": "outputs/github-trending/2026-09-13.md", "repository_id": 1142556666 },
+    { "canonical_url": "https://github.com/jordan-gibbs/hyperresearch", "owner_repo": "jordan-gibbs/hyperresearch", "first_seen_date": "2026-09-13", "report_file": "outputs/github-trending/2026-09-13.md", "repository_id": 1206357666 },
+    { "canonical_url": "https://github.com/prowlengine/prowl", "owner_repo": "ProwlEngine/Prowl", "first_seen_date": "2026-09-13", "report_file": "outputs/github-trending/2026-09-13.md", "repository_id": 718014444 },
+    { "canonical_url": "https://github.com/sonarr/sonarr", "owner_repo": "Sonarr/Sonarr", "first_seen_date": "2026-09-13", "report_file": "outputs/github-trending/2026-09-13.md", "repository_id": 2465723 }
   ]
 }
