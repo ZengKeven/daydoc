@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-13T08:00:17+08:00",
+  "updated_at": "2026-09-16T15:28:29+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -424,6 +424,15 @@
     { "canonical_url": "https://github.com/alsk1992/cloddsbot", "owner_repo": "alsk1992/CloddsBot", "first_seen_date": "2026-09-13", "report_file": "outputs/github-trending/2026-09-13.md", "repository_id": 1142556666 },
     { "canonical_url": "https://github.com/jordan-gibbs/hyperresearch", "owner_repo": "jordan-gibbs/hyperresearch", "first_seen_date": "2026-09-13", "report_file": "outputs/github-trending/2026-09-13.md", "repository_id": 1206357666 },
     { "canonical_url": "https://github.com/prowlengine/prowl", "owner_repo": "ProwlEngine/Prowl", "first_seen_date": "2026-09-13", "report_file": "outputs/github-trending/2026-09-13.md", "repository_id": 718014444 },
-    { "canonical_url": "https://github.com/sonarr/sonarr", "owner_repo": "Sonarr/Sonarr", "first_seen_date": "2026-09-13", "report_file": "outputs/github-trending/2026-09-13.md", "repository_id": 2465723 }
+    { "canonical_url": "https://github.com/sonarr/sonarr", "owner_repo": "Sonarr/Sonarr", "first_seen_date": "2026-09-13", "report_file": "outputs/github-trending/2026-09-13.md", "repository_id": 2465723 },
+    { "canonical_url": "https://github.com/justvugg/colibri", "owner_repo": "JustVugg/colibri", "first_seen_date": "2026-09-16", "report_file": "outputs/github-trending/2026-09-16.md", "repository_id": 1286080397 },
+    { "canonical_url": "https://github.com/alphaxiv/openresearch", "owner_repo": "alphaXiv/OpenResearch", "first_seen_date": "2026-09-16", "report_file": "outputs/github-trending/2026-09-16.md", "repository_id": 1261663145 },
+    { "canonical_url": "https://github.com/thesysdev/openui", "owner_repo": "thesysdev/openui", "first_seen_date": "2026-09-16", "report_file": "outputs/github-trending/2026-09-16.md", "repository_id": 897268988 },
+    { "canonical_url": "https://github.com/danny-avila/librechat", "owner_repo": "danny-avila/LibreChat", "first_seen_date": "2026-09-16", "report_file": "outputs/github-trending/2026-09-16.md", "repository_id": 600596928 },
+    { "canonical_url": "https://github.com/multimodal-art-projection/yue", "owner_repo": "multimodal-art-projection/YuE", "first_seen_date": "2026-09-16", "report_file": "outputs/github-trending/2026-09-16.md", "repository_id": 920995232 },
+    { "canonical_url": "https://github.com/roboflow/supervision", "owner_repo": "roboflow/supervision", "first_seen_date": "2026-09-16", "report_file": "outputs/github-trending/2026-09-16.md", "repository_id": 571613891 },
+    { "canonical_url": "https://github.com/dgtlmoon/changedetection.io", "owner_repo": "dgtlmoon/changedetection.io", "first_seen_date": "2026-09-16", "report_file": "outputs/github-trending/2026-09-16.md", "repository_id": 333483116 },
+    { "canonical_url": "https://github.com/ever-co/ever-gauzy", "owner_repo": "ever-co/ever-gauzy", "first_seen_date": "2026-09-16", "report_file": "outputs/github-trending/2026-09-16.md", "repository_id": 189829392 },
+    { "canonical_url": "https://github.com/beeradmoore/dlss-swapper", "owner_repo": "beeradmoore/dlss-swapper", "first_seen_date": "2026-09-16", "report_file": "outputs/github-trending/2026-09-16.md", "repository_id": 393538656 }
   ]
 }
