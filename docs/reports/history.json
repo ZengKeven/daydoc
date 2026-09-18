@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-16T15:28:29+08:00",
+  "updated_at": "2026-09-18T08:06:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -433,6 +433,11 @@
     { "canonical_url": "https://github.com/roboflow/supervision", "owner_repo": "roboflow/supervision", "first_seen_date": "2026-09-16", "report_file": "outputs/github-trending/2026-09-16.md", "repository_id": 571613891 },
     { "canonical_url": "https://github.com/dgtlmoon/changedetection.io", "owner_repo": "dgtlmoon/changedetection.io", "first_seen_date": "2026-09-16", "report_file": "outputs/github-trending/2026-09-16.md", "repository_id": 333483116 },
     { "canonical_url": "https://github.com/ever-co/ever-gauzy", "owner_repo": "ever-co/ever-gauzy", "first_seen_date": "2026-09-16", "report_file": "outputs/github-trending/2026-09-16.md", "repository_id": 189829392 },
-    { "canonical_url": "https://github.com/beeradmoore/dlss-swapper", "owner_repo": "beeradmoore/dlss-swapper", "first_seen_date": "2026-09-16", "report_file": "outputs/github-trending/2026-09-16.md", "repository_id": 393538656 }
+    { "canonical_url": "https://github.com/beeradmoore/dlss-swapper", "owner_repo": "beeradmoore/dlss-swapper", "first_seen_date": "2026-09-16", "report_file": "outputs/github-trending/2026-09-16.md", "repository_id": 393538656 },
+    { "canonical_url": "https://github.com/tencent/weknora", "owner_repo": "Tencent/WeKnora", "first_seen_date": "2026-09-18", "report_file": "outputs/github-trending/2026-09-18.md", "repository_id": 1024118326 },
+    { "canonical_url": "https://github.com/tencentcloud/octop", "owner_repo": "TencentCloud/Octop", "first_seen_date": "2026-09-18", "report_file": "outputs/github-trending/2026-09-18.md", "repository_id": 1293600453 },
+    { "canonical_url": "https://github.com/cline/cline", "owner_repo": "cline/cline", "first_seen_date": "2026-09-18", "report_file": "outputs/github-trending/2026-09-18.md", "repository_id": 824874689 },
+    { "canonical_url": "https://github.com/rayrensx/iphonemirror", "owner_repo": "RayrenSX/iPhoneMirror", "first_seen_date": "2026-09-18", "report_file": "outputs/github-trending/2026-09-18.md", "repository_id": 1297141131 },
+    { "canonical_url": "https://github.com/josefnemec/playnite", "owner_repo": "JosefNemec/Playnite", "first_seen_date": "2026-09-18", "report_file": "outputs/github-trending/2026-09-18.md", "repository_id": 86182490 }
   ]
 }
