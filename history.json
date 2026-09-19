@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-18T08:06:00+08:00",
+  "updated_at": "2026-09-19T08:08:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -438,6 +438,13 @@
     { "canonical_url": "https://github.com/tencentcloud/octop", "owner_repo": "TencentCloud/Octop", "first_seen_date": "2026-09-18", "report_file": "outputs/github-trending/2026-09-18.md", "repository_id": 1293600453 },
     { "canonical_url": "https://github.com/cline/cline", "owner_repo": "cline/cline", "first_seen_date": "2026-09-18", "report_file": "outputs/github-trending/2026-09-18.md", "repository_id": 824874689 },
     { "canonical_url": "https://github.com/rayrensx/iphonemirror", "owner_repo": "RayrenSX/iPhoneMirror", "first_seen_date": "2026-09-18", "report_file": "outputs/github-trending/2026-09-18.md", "repository_id": 1297141131 },
-    { "canonical_url": "https://github.com/josefnemec/playnite", "owner_repo": "JosefNemec/Playnite", "first_seen_date": "2026-09-18", "report_file": "outputs/github-trending/2026-09-18.md", "repository_id": 86182490 }
+    { "canonical_url": "https://github.com/josefnemec/playnite", "owner_repo": "JosefNemec/Playnite", "first_seen_date": "2026-09-18", "report_file": "outputs/github-trending/2026-09-18.md", "repository_id": 86182490 },
+    { "canonical_url": "https://github.com/supermemoryai/supermemory", "owner_repo": "supermemoryai/supermemory", "first_seen_date": "2026-09-19", "report_file": "outputs/github-trending/2026-09-19.md", "repository_id": 764287615 },
+    { "canonical_url": "https://github.com/tianyu199509/deskbox", "owner_repo": "Tianyu199509/DeskBox", "first_seen_date": "2026-09-19", "report_file": "outputs/github-trending/2026-09-19.md", "repository_id": 1266135511 },
+    { "canonical_url": "https://github.com/microsoft/agent-lightning", "owner_repo": "microsoft/agent-lightning", "first_seen_date": "2026-09-19", "report_file": "outputs/github-trending/2026-09-19.md", "repository_id": 1004147641 },
+    { "canonical_url": "https://github.com/ahmedkhaleel2004/gitdiagram", "owner_repo": "ahmedkhaleel2004/gitdiagram", "first_seen_date": "2026-09-19", "report_file": "outputs/github-trending/2026-09-19.md", "repository_id": 903700733 },
+    { "canonical_url": "https://github.com/rowboatlabs/rowboat", "owner_repo": "rowboatlabs/rowboat", "first_seen_date": "2026-09-19", "report_file": "outputs/github-trending/2026-09-19.md", "repository_id": 916009087 },
+    { "canonical_url": "https://github.com/fastino-ai/gliner2", "owner_repo": "fastino-ai/GLiNER2", "first_seen_date": "2026-09-19", "report_file": "outputs/github-trending/2026-09-19.md", "repository_id": 1015508367 },
+    { "canonical_url": "https://github.com/supabase/supabase", "owner_repo": "supabase/supabase", "first_seen_date": "2026-09-19", "report_file": "outputs/github-trending/2026-09-19.md", "repository_id": 214587193 }
   ]
 }
