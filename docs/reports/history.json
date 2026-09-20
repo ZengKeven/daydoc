@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-19T08:08:00+08:00",
+  "updated_at": "2026-09-20T08:04:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -445,6 +445,12 @@
     { "canonical_url": "https://github.com/ahmedkhaleel2004/gitdiagram", "owner_repo": "ahmedkhaleel2004/gitdiagram", "first_seen_date": "2026-09-19", "report_file": "outputs/github-trending/2026-09-19.md", "repository_id": 903700733 },
     { "canonical_url": "https://github.com/rowboatlabs/rowboat", "owner_repo": "rowboatlabs/rowboat", "first_seen_date": "2026-09-19", "report_file": "outputs/github-trending/2026-09-19.md", "repository_id": 916009087 },
     { "canonical_url": "https://github.com/fastino-ai/gliner2", "owner_repo": "fastino-ai/GLiNER2", "first_seen_date": "2026-09-19", "report_file": "outputs/github-trending/2026-09-19.md", "repository_id": 1015508367 },
-    { "canonical_url": "https://github.com/supabase/supabase", "owner_repo": "supabase/supabase", "first_seen_date": "2026-09-19", "report_file": "outputs/github-trending/2026-09-19.md", "repository_id": 214587193 }
+    { "canonical_url": "https://github.com/supabase/supabase", "owner_repo": "supabase/supabase", "first_seen_date": "2026-09-19", "report_file": "outputs/github-trending/2026-09-19.md", "repository_id": 214587193 },
+    { "canonical_url": "https://github.com/vercel-labs/json-render", "owner_repo": "vercel-labs/json-render", "first_seen_date": "2026-09-20", "report_file": "outputs/github-trending/2026-09-20.md", "repository_id": 1134411737 },
+    { "canonical_url": "https://github.com/coder/coder", "owner_repo": "coder/coder", "first_seen_date": "2026-09-20", "report_file": "outputs/github-trending/2026-09-20.md", "repository_id": 440752086 },
+    { "canonical_url": "https://github.com/open-dev-society/openstock", "owner_repo": "Open-Dev-Society/OpenStock", "first_seen_date": "2026-09-20", "report_file": "outputs/github-trending/2026-09-20.md", "repository_id": 1065936302 },
+    { "canonical_url": "https://github.com/mem0ai/mem0", "owner_repo": "mem0ai/mem0", "first_seen_date": "2026-09-20", "report_file": "outputs/github-trending/2026-09-20.md", "repository_id": 656099147 },
+    { "canonical_url": "https://github.com/vectifyai/pageindex", "owner_repo": "VectifyAI/PageIndex", "first_seen_date": "2026-09-20", "report_file": "outputs/github-trending/2026-09-20.md", "repository_id": 958531089 },
+    { "canonical_url": "https://github.com/moekoemusic/moekoemusic", "owner_repo": "MoeKoeMusic/MoeKoeMusic", "first_seen_date": "2026-09-20", "report_file": "outputs/github-trending/2026-09-20.md", "repository_id": 882197782 }
   ]
 }
