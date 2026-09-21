@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-20T08:04:00+08:00",
+  "updated_at": "2026-09-21T08:06:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -451,6 +451,11 @@
     { "canonical_url": "https://github.com/open-dev-society/openstock", "owner_repo": "Open-Dev-Society/OpenStock", "first_seen_date": "2026-09-20", "report_file": "outputs/github-trending/2026-09-20.md", "repository_id": 1065936302 },
     { "canonical_url": "https://github.com/mem0ai/mem0", "owner_repo": "mem0ai/mem0", "first_seen_date": "2026-09-20", "report_file": "outputs/github-trending/2026-09-20.md", "repository_id": 656099147 },
     { "canonical_url": "https://github.com/vectifyai/pageindex", "owner_repo": "VectifyAI/PageIndex", "first_seen_date": "2026-09-20", "report_file": "outputs/github-trending/2026-09-20.md", "repository_id": 958531089 },
-    { "canonical_url": "https://github.com/moekoemusic/moekoemusic", "owner_repo": "MoeKoeMusic/MoeKoeMusic", "first_seen_date": "2026-09-20", "report_file": "outputs/github-trending/2026-09-20.md", "repository_id": 882197782 }
+    { "canonical_url": "https://github.com/moekoemusic/moekoemusic", "owner_repo": "MoeKoeMusic/MoeKoeMusic", "first_seen_date": "2026-09-20", "report_file": "outputs/github-trending/2026-09-20.md", "repository_id": 882197782 },
+    { "canonical_url": "https://github.com/zhouxiaoka/autoclip", "owner_repo": "zhouxiaoka/autoclip", "first_seen_date": "2026-09-21", "report_file": "outputs/github-trending/2026-09-21.md", "repository_id": 1015815983 },
+    { "canonical_url": "https://github.com/diffusionstudio/editor", "owner_repo": "diffusionstudio/editor", "first_seen_date": "2026-09-21", "report_file": "outputs/github-trending/2026-09-21.md", "repository_id": 1291928218 },
+    { "canonical_url": "https://github.com/ql-win/quicklook", "owner_repo": "QL-Win/QuickLook", "first_seen_date": "2026-09-21", "report_file": "outputs/github-trending/2026-09-21.md", "repository_id": 88064357 },
+    { "canonical_url": "https://github.com/paperless-ngx/paperless-ngx", "owner_repo": "paperless-ngx/paperless-ngx", "first_seen_date": "2026-09-21", "report_file": "outputs/github-trending/2026-09-21.md", "repository_id": 458648791 },
+    { "canonical_url": "https://github.com/openstrap/edge", "owner_repo": "OpenStrap/edge", "first_seen_date": "2026-09-21", "report_file": "outputs/github-trending/2026-09-21.md", "repository_id": 1196502414 }
   ]
 }
