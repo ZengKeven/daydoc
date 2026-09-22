@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-21T08:06:00+08:00",
+  "updated_at": "2026-09-22T08:05:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -456,6 +456,12 @@
     { "canonical_url": "https://github.com/diffusionstudio/editor", "owner_repo": "diffusionstudio/editor", "first_seen_date": "2026-09-21", "report_file": "outputs/github-trending/2026-09-21.md", "repository_id": 1291928218 },
     { "canonical_url": "https://github.com/ql-win/quicklook", "owner_repo": "QL-Win/QuickLook", "first_seen_date": "2026-09-21", "report_file": "outputs/github-trending/2026-09-21.md", "repository_id": 88064357 },
     { "canonical_url": "https://github.com/paperless-ngx/paperless-ngx", "owner_repo": "paperless-ngx/paperless-ngx", "first_seen_date": "2026-09-21", "report_file": "outputs/github-trending/2026-09-21.md", "repository_id": 458648791 },
-    { "canonical_url": "https://github.com/openstrap/edge", "owner_repo": "OpenStrap/edge", "first_seen_date": "2026-09-21", "report_file": "outputs/github-trending/2026-09-21.md", "repository_id": 1196502414 }
+    { "canonical_url": "https://github.com/openstrap/edge", "owner_repo": "OpenStrap/edge", "first_seen_date": "2026-09-21", "report_file": "outputs/github-trending/2026-09-21.md", "repository_id": 1196502414 },
+    { "canonical_url": "https://github.com/crosstalk-solutions/project-nomad", "owner_repo": "Crosstalk-Solutions/project-nomad", "first_seen_date": "2026-09-22", "report_file": "outputs/github-trending/2026-09-22.md", "repository_id": 1007827531 },
+    { "canonical_url": "https://github.com/bendlang/bend", "owner_repo": "bendlang/bend", "first_seen_date": "2026-09-22", "report_file": "outputs/github-trending/2026-09-22.md", "repository_id": 684776900 },
+    { "canonical_url": "https://github.com/getlantern/lantern", "owner_repo": "getlantern/lantern", "first_seen_date": "2026-09-22", "report_file": "outputs/github-trending/2026-09-22.md", "repository_id": 1380117 },
+    { "canonical_url": "https://github.com/jakubantalik/thinking-orbs", "owner_repo": "Jakubantalik/thinking-orbs", "first_seen_date": "2026-09-22", "report_file": "outputs/github-trending/2026-09-22.md", "repository_id": 1307383231 },
+    { "canonical_url": "https://github.com/yikart/aitoearn", "owner_repo": "yikart/AiToEarn", "first_seen_date": "2026-09-22", "report_file": "outputs/github-trending/2026-09-22.md", "repository_id": 937970237 },
+    { "canonical_url": "https://github.com/tnt-likely/panwatch", "owner_repo": "TNT-Likely/PanWatch", "first_seen_date": "2026-09-22", "report_file": "outputs/github-trending/2026-09-22.md", "repository_id": 1140582982 }
   ]
 }
