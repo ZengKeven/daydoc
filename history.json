@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-22T08:05:00+08:00",
+  "updated_at": "2026-09-23T08:04:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -462,6 +462,13 @@
     { "canonical_url": "https://github.com/getlantern/lantern", "owner_repo": "getlantern/lantern", "first_seen_date": "2026-09-22", "report_file": "outputs/github-trending/2026-09-22.md", "repository_id": 1380117 },
     { "canonical_url": "https://github.com/jakubantalik/thinking-orbs", "owner_repo": "Jakubantalik/thinking-orbs", "first_seen_date": "2026-09-22", "report_file": "outputs/github-trending/2026-09-22.md", "repository_id": 1307383231 },
     { "canonical_url": "https://github.com/yikart/aitoearn", "owner_repo": "yikart/AiToEarn", "first_seen_date": "2026-09-22", "report_file": "outputs/github-trending/2026-09-22.md", "repository_id": 937970237 },
-    { "canonical_url": "https://github.com/tnt-likely/panwatch", "owner_repo": "TNT-Likely/PanWatch", "first_seen_date": "2026-09-22", "report_file": "outputs/github-trending/2026-09-22.md", "repository_id": 1140582982 }
+    { "canonical_url": "https://github.com/tnt-likely/panwatch", "owner_repo": "TNT-Likely/PanWatch", "first_seen_date": "2026-09-22", "report_file": "outputs/github-trending/2026-09-22.md", "repository_id": 1140582982 },
+    { "canonical_url": "https://github.com/google/ax", "owner_repo": "google/ax", "first_seen_date": "2026-09-23", "report_file": "outputs/github-trending/2026-09-23.md", "repository_id": 1196447493 },
+    { "canonical_url": "https://github.com/dream-num/univer", "owner_repo": "dream-num/univer", "first_seen_date": "2026-09-23", "report_file": "outputs/github-trending/2026-09-23.md", "repository_id": 543101941 },
+    { "canonical_url": "https://github.com/builtbybel/flyoobe", "owner_repo": "builtbybel/Flyoobe", "first_seen_date": "2026-09-23", "report_file": "outputs/github-trending/2026-09-23.md", "repository_id": 875403491 },
+    { "canonical_url": "https://github.com/code-yeongyu/lazycodex", "owner_repo": "code-yeongyu/lazycodex", "first_seen_date": "2026-09-23", "report_file": "outputs/github-trending/2026-09-23.md", "repository_id": 1248955957 },
+    { "canonical_url": "https://github.com/umlx5h/llplayer", "owner_repo": "umlx5h/LLPlayer", "first_seen_date": "2026-09-23", "report_file": "outputs/github-trending/2026-09-23.md", "repository_id": 925147332 },
+    { "canonical_url": "https://github.com/flow-launcher/flow.launcher", "owner_repo": "Flow-Launcher/Flow.Launcher", "first_seen_date": "2026-09-23", "report_file": "outputs/github-trending/2026-09-23.md", "repository_id": 257526212 },
+    { "canonical_url": "https://github.com/duartesantos8/opengym", "owner_repo": "DuarteSantos8/openGym", "first_seen_date": "2026-09-23", "report_file": "outputs/github-trending/2026-09-23.md", "repository_id": 1305213943 }
   ]
 }
