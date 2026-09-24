@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-23T08:04:00+08:00",
+  "updated_at": "2026-09-24T10:39:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -469,6 +469,15 @@
     { "canonical_url": "https://github.com/code-yeongyu/lazycodex", "owner_repo": "code-yeongyu/lazycodex", "first_seen_date": "2026-09-23", "report_file": "outputs/github-trending/2026-09-23.md", "repository_id": 1248955957 },
     { "canonical_url": "https://github.com/umlx5h/llplayer", "owner_repo": "umlx5h/LLPlayer", "first_seen_date": "2026-09-23", "report_file": "outputs/github-trending/2026-09-23.md", "repository_id": 925147332 },
     { "canonical_url": "https://github.com/flow-launcher/flow.launcher", "owner_repo": "Flow-Launcher/Flow.Launcher", "first_seen_date": "2026-09-23", "report_file": "outputs/github-trending/2026-09-23.md", "repository_id": 257526212 },
-    { "canonical_url": "https://github.com/duartesantos8/opengym", "owner_repo": "DuarteSantos8/openGym", "first_seen_date": "2026-09-23", "report_file": "outputs/github-trending/2026-09-23.md", "repository_id": 1305213943 }
+    { "canonical_url": "https://github.com/duartesantos8/opengym", "owner_repo": "DuarteSantos8/openGym", "first_seen_date": "2026-09-23", "report_file": "outputs/github-trending/2026-09-23.md", "repository_id": 1305213943 },
+    { "canonical_url": "https://github.com/anthropics/financial-services", "owner_repo": "anthropics/financial-services", "first_seen_date": "2026-09-24", "report_file": "outputs/github-trending/2026-09-24.md", "repository_id": 1165056385 },
+    { "canonical_url": "https://github.com/mvt-project/mvt", "owner_repo": "mvt-project/mvt", "first_seen_date": "2026-09-24", "report_file": "outputs/github-trending/2026-09-24.md", "repository_id": 386524895 },
+    { "canonical_url": "https://github.com/deusdata/codebase-memory-mcp", "owner_repo": "DeusData/codebase-memory-mcp", "first_seen_date": "2026-09-24", "report_file": "outputs/github-trending/2026-09-24.md", "repository_id": 1166102148 },
+    { "canonical_url": "https://github.com/strands-agents/harness-sdk", "owner_repo": "strands-agents/harness-sdk", "first_seen_date": "2026-09-24", "report_file": "outputs/github-trending/2026-09-24.md", "repository_id": 983715534 },
+    { "canonical_url": "https://github.com/xiaomimimo/mimo-code", "owner_repo": "XiaomiMiMo/MiMo-Code", "first_seen_date": "2026-09-24", "report_file": "outputs/github-trending/2026-09-24.md", "repository_id": 1265025028 },
+    { "canonical_url": "https://github.com/dmnote-app/dmnote", "owner_repo": "DmNote-App/DmNote", "first_seen_date": "2026-09-24", "report_file": "outputs/github-trending/2026-09-24.md", "repository_id": 911480271 },
+    { "canonical_url": "https://github.com/westpoint-io/mimik", "owner_repo": "westpoint-io/mimik", "first_seen_date": "2026-09-24", "report_file": "outputs/github-trending/2026-09-24.md", "repository_id": 1187304686 },
+    { "canonical_url": "https://github.com/opengeos/geolibre", "owner_repo": "opengeos/GeoLibre", "first_seen_date": "2026-09-24", "report_file": "outputs/github-trending/2026-09-24.md", "repository_id": 1251648409 },
+    { "canonical_url": "https://github.com/opentabletdriver/opentabletdriver", "owner_repo": "OpenTabletDriver/OpenTabletDriver", "first_seen_date": "2026-09-24", "report_file": "outputs/github-trending/2026-09-24.md", "repository_id": 211763756 }
   ]
 }
