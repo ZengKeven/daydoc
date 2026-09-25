@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-24T10:39:00+08:00",
+  "updated_at": "2026-09-25T08:05:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -478,6 +478,12 @@
     { "canonical_url": "https://github.com/dmnote-app/dmnote", "owner_repo": "DmNote-App/DmNote", "first_seen_date": "2026-09-24", "report_file": "outputs/github-trending/2026-09-24.md", "repository_id": 911480271 },
     { "canonical_url": "https://github.com/westpoint-io/mimik", "owner_repo": "westpoint-io/mimik", "first_seen_date": "2026-09-24", "report_file": "outputs/github-trending/2026-09-24.md", "repository_id": 1187304686 },
     { "canonical_url": "https://github.com/opengeos/geolibre", "owner_repo": "opengeos/GeoLibre", "first_seen_date": "2026-09-24", "report_file": "outputs/github-trending/2026-09-24.md", "repository_id": 1251648409 },
-    { "canonical_url": "https://github.com/opentabletdriver/opentabletdriver", "owner_repo": "OpenTabletDriver/OpenTabletDriver", "first_seen_date": "2026-09-24", "report_file": "outputs/github-trending/2026-09-24.md", "repository_id": 211763756 }
+    { "canonical_url": "https://github.com/opentabletdriver/opentabletdriver", "owner_repo": "OpenTabletDriver/OpenTabletDriver", "first_seen_date": "2026-09-24", "report_file": "outputs/github-trending/2026-09-24.md", "repository_id": 211763756 },
+    { "canonical_url": "https://github.com/nvidia/model-optimizer", "owner_repo": "NVIDIA/Model-Optimizer", "first_seen_date": "2026-09-25", "report_file": "outputs/github-trending/2026-09-25.md", "repository_id": 790916393 },
+    { "canonical_url": "https://github.com/fxembed/fxembed", "owner_repo": "FxEmbed/FxEmbed", "first_seen_date": "2026-09-25", "report_file": "outputs/github-trending/2026-09-25.md", "repository_id": 513704529 },
+    { "canonical_url": "https://github.com/davila7/claude-code-templates", "owner_repo": "davila7/claude-code-templates", "first_seen_date": "2026-09-25", "report_file": "outputs/github-trending/2026-09-25.md", "repository_id": 1013480284 },
+    { "canonical_url": "https://github.com/aayushch/laya", "owner_repo": "aayushch/laya", "first_seen_date": "2026-09-25", "report_file": "outputs/github-trending/2026-09-25.md", "repository_id": 1234452803 },
+    { "canonical_url": "https://github.com/androoagi/starnet", "owner_repo": "androoAGI/starnet", "first_seen_date": "2026-09-25", "report_file": "outputs/github-trending/2026-09-25.md", "repository_id": 1269603321 },
+    { "canonical_url": "https://github.com/stepfun-ai/step-code", "owner_repo": "stepfun-ai/Step-Code", "first_seen_date": "2026-09-25", "report_file": "outputs/github-trending/2026-09-25.md", "repository_id": 1255734079 }
   ]
 }
