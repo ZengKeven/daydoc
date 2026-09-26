@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-25T08:05:00+08:00",
+  "updated_at": "2026-09-26T08:09:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -484,6 +484,14 @@
     { "canonical_url": "https://github.com/davila7/claude-code-templates", "owner_repo": "davila7/claude-code-templates", "first_seen_date": "2026-09-25", "report_file": "outputs/github-trending/2026-09-25.md", "repository_id": 1013480284 },
     { "canonical_url": "https://github.com/aayushch/laya", "owner_repo": "aayushch/laya", "first_seen_date": "2026-09-25", "report_file": "outputs/github-trending/2026-09-25.md", "repository_id": 1234452803 },
     { "canonical_url": "https://github.com/androoagi/starnet", "owner_repo": "androoAGI/starnet", "first_seen_date": "2026-09-25", "report_file": "outputs/github-trending/2026-09-25.md", "repository_id": 1269603321 },
-    { "canonical_url": "https://github.com/stepfun-ai/step-code", "owner_repo": "stepfun-ai/Step-Code", "first_seen_date": "2026-09-25", "report_file": "outputs/github-trending/2026-09-25.md", "repository_id": 1255734079 }
+    { "canonical_url": "https://github.com/stepfun-ai/step-code", "owner_repo": "stepfun-ai/Step-Code", "first_seen_date": "2026-09-25", "report_file": "outputs/github-trending/2026-09-25.md", "repository_id": 1255734079 },
+    { "canonical_url": "https://github.com/krillinai/opencreator", "owner_repo": "krillinai/OpenCreator", "first_seen_date": "2026-09-26", "report_file": "outputs/github-trending/2026-09-26.md", "repository_id": 904490600 },
+    { "canonical_url": "https://github.com/cyrilpeng/venera-next", "owner_repo": "CyrilPeng/Venera-Next", "first_seen_date": "2026-09-26", "report_file": "outputs/github-trending/2026-09-26.md", "repository_id": 1255817820 },
+    { "canonical_url": "https://github.com/mvschwarz/openrig", "owner_repo": "mvschwarz/openrig", "first_seen_date": "2026-09-26", "report_file": "outputs/github-trending/2026-09-26.md", "repository_id": 1198124295 },
+    { "canonical_url": "https://github.com/google/langextract", "owner_repo": "google/langextract", "first_seen_date": "2026-09-26", "report_file": "outputs/github-trending/2026-09-26.md", "repository_id": 1016323751 },
+    { "canonical_url": "https://github.com/wonderwhy-er/desktopcommandermcp", "owner_repo": "wonderwhy-er/DesktopCommanderMCP", "first_seen_date": "2026-09-26", "report_file": "outputs/github-trending/2026-09-26.md", "repository_id": 898345892 },
+    { "canonical_url": "https://github.com/shy3130/tick-stock-panel", "owner_repo": "shy3130/tick-stock-panel", "first_seen_date": "2026-09-26", "report_file": "outputs/github-trending/2026-09-26.md", "repository_id": 1273015953 },
+    { "canonical_url": "https://github.com/tonyantony300/dashbeam", "owner_repo": "tonyantony300/dashbeam", "first_seen_date": "2026-09-26", "report_file": "outputs/github-trending/2026-09-26.md", "repository_id": 1078137951 },
+    { "canonical_url": "https://github.com/assetripper/assetripper", "owner_repo": "AssetRipper/AssetRipper", "first_seen_date": "2026-09-26", "report_file": "outputs/github-trending/2026-09-26.md", "repository_id": 385118073 }
   ]
 }
