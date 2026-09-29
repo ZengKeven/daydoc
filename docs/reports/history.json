@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-28T08:11:00+08:00",
+  "updated_at": "2026-09-29T08:18:47+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -504,6 +504,11 @@
     { "canonical_url": "https://github.com/iebb/nekokolpa2", "owner_repo": "iebb/NekokoLPA2", "first_seen_date": "2026-09-28", "report_file": "outputs/github-trending/2026-09-28.md", "repository_id": 1134131758 },
     { "canonical_url": "https://github.com/sinaxhpm/submarine", "owner_repo": "SinaXhpm/Submarine", "first_seen_date": "2026-09-28", "report_file": "outputs/github-trending/2026-09-28.md", "repository_id": 1251728543 },
     { "canonical_url": "https://github.com/fareedkhan-dev/train-llm-from-scratch", "owner_repo": "FareedKhan-dev/train-llm-from-scratch", "first_seen_date": "2026-09-28", "report_file": "outputs/github-trending/2026-09-28.md", "repository_id": 915520679 },
-    { "canonical_url": "https://github.com/yuhonas/free-exercise-db", "owner_repo": "yuhonas/free-exercise-db", "first_seen_date": "2026-09-28", "report_file": "outputs/github-trending/2026-09-28.md", "repository_id": 621570166 }
+    { "canonical_url": "https://github.com/yuhonas/free-exercise-db", "owner_repo": "yuhonas/free-exercise-db", "first_seen_date": "2026-09-28", "report_file": "outputs/github-trending/2026-09-28.md", "repository_id": 621570166 },
+    {"canonical_url":"https://github.com/ashhart/tensorfold","owner_repo":"ashhart/TensorFold","first_seen_date":"2026-09-29","report_file":"outputs/github-trending/2026-09-29.md","repository_id":1274723381},
+    {"canonical_url":"https://github.com/anthropics/claude-code-action","owner_repo":"anthropics/claude-code-action","first_seen_date":"2026-09-29","report_file":"outputs/github-trending/2026-09-29.md","repository_id":986421638},
+    {"canonical_url":"https://github.com/satnaing/shadcn-admin","owner_repo":"satnaing/shadcn-admin","first_seen_date":"2026-09-29","report_file":"outputs/github-trending/2026-09-29.md","repository_id":748464657},
+    {"canonical_url":"https://github.com/huilang-me/cf-server-monitor","owner_repo":"huilang-me/CF-Server-Monitor","first_seen_date":"2026-09-29","report_file":"outputs/github-trending/2026-09-29.md","repository_id":1249712804},
+    {"canonical_url":"https://github.com/rizzo-ai-academy/rizzo-pii","owner_repo":"Rizzo-AI-Academy/rizzo-pii","first_seen_date":"2026-09-29","report_file":"outputs/github-trending/2026-09-29.md","repository_id":1283007956}
   ]
 }
