@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-30T08:21:59+08:00",
+  "updated_at": "2026-10-01T08:15:47+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -516,6 +516,16 @@
     {"canonical_url":"https://github.com/t8y2/dbx","owner_repo":"t8y2/dbx","first_seen_date":"2026-09-30","report_file":"outputs/github-trending/2026-09-30.md","repository_id":1224172037},
     {"canonical_url":"https://github.com/cloudflare/vinext","owner_repo":"cloudflare/vinext","first_seen_date":"2026-09-30","report_file":"outputs/github-trending/2026-09-30.md","repository_id":1165371200},
     {"canonical_url":"https://github.com/qwenaudio/qwen-audio-agent","owner_repo":"QwenAudio/qwen-audio-agent","first_seen_date":"2026-09-30","report_file":"outputs/github-trending/2026-09-30.md","repository_id":1313435339},
-    {"canonical_url":"https://github.com/kabanya/pomodoist","owner_repo":"Kabanya/Pomodoist","first_seen_date":"2026-09-30","report_file":"outputs/github-trending/2026-09-30.md","repository_id":1328784466}
+    {"canonical_url":"https://github.com/kabanya/pomodoist","owner_repo":"Kabanya/Pomodoist","first_seen_date":"2026-09-30","report_file":"outputs/github-trending/2026-09-30.md","repository_id":1328784466},
+    {"canonical_url":"https://github.com/ifixai-ai/ifixai","owner_repo":"ifixai-ai/iFixAi","first_seen_date":"2026-10-01","report_file":"outputs/github-trending/2026-10-01.md","repository_id":1222527844},
+    {"canonical_url":"https://github.com/kkkkhazix/aihot","owner_repo":"KKKKhazix/AIHOT","first_seen_date":"2026-10-01","report_file":"outputs/github-trending/2026-10-01.md","repository_id":1393965829},
+    {"canonical_url":"https://github.com/contrastive-lm/clm","owner_repo":"Contrastive-LM/CLM","first_seen_date":"2026-10-01","report_file":"outputs/github-trending/2026-10-01.md","repository_id":1384094559},
+    {"canonical_url":"https://github.com/dzhng/jevgrep","owner_repo":"dzhng/jevgrep","first_seen_date":"2026-10-01","report_file":"outputs/github-trending/2026-10-01.md","repository_id":1388482474},
+    {"canonical_url":"https://github.com/cloudflare/forge","owner_repo":"cloudflare/forge","first_seen_date":"2026-10-01","report_file":"outputs/github-trending/2026-10-01.md","repository_id":1380003866},
+    {"canonical_url":"https://github.com/supermemoryai/company-brain","owner_repo":"supermemoryai/company-brain","first_seen_date":"2026-10-01","report_file":"outputs/github-trending/2026-10-01.md","repository_id":1388261262},
+    {"canonical_url":"https://github.com/colbymchenry/codegraph","owner_repo":"colbymchenry/codegraph","first_seen_date":"2026-10-01","report_file":"outputs/github-trending/2026-10-01.md","repository_id":1137078255},
+    {"canonical_url":"https://github.com/sdcb/simdpaddleocr","owner_repo":"sdcb/SimdPaddleOCR","first_seen_date":"2026-10-01","report_file":"outputs/github-trending/2026-10-01.md","repository_id":1357905477},
+    {"canonical_url":"https://github.com/springhgui/daro","owner_repo":"SpringHgui/daro","first_seen_date":"2026-10-01","report_file":"outputs/github-trending/2026-10-01.md","repository_id":1362500179},
+    {"canonical_url":"https://github.com/open-gsd/gsd-core","owner_repo":"open-gsd/gsd-core","first_seen_date":"2026-10-01","report_file":"outputs/github-trending/2026-10-01.md","repository_id":1246625636}
   ]
 }
