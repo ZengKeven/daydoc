@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-01T08:15:47+08:00",
+  "updated_at": "2026-10-02T08:11:13+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -526,6 +526,16 @@
     {"canonical_url":"https://github.com/colbymchenry/codegraph","owner_repo":"colbymchenry/codegraph","first_seen_date":"2026-10-01","report_file":"outputs/github-trending/2026-10-01.md","repository_id":1137078255},
     {"canonical_url":"https://github.com/sdcb/simdpaddleocr","owner_repo":"sdcb/SimdPaddleOCR","first_seen_date":"2026-10-01","report_file":"outputs/github-trending/2026-10-01.md","repository_id":1357905477},
     {"canonical_url":"https://github.com/springhgui/daro","owner_repo":"SpringHgui/daro","first_seen_date":"2026-10-01","report_file":"outputs/github-trending/2026-10-01.md","repository_id":1362500179},
-    {"canonical_url":"https://github.com/open-gsd/gsd-core","owner_repo":"open-gsd/gsd-core","first_seen_date":"2026-10-01","report_file":"outputs/github-trending/2026-10-01.md","repository_id":1246625636}
+    {"canonical_url":"https://github.com/open-gsd/gsd-core","owner_repo":"open-gsd/gsd-core","first_seen_date":"2026-10-01","report_file":"outputs/github-trending/2026-10-01.md","repository_id":1246625636},
+    {"canonical_url":"https://github.com/nandhakishorm/laya","owner_repo":"NandhaKishorM/laya","first_seen_date":"2026-10-02","report_file":"outputs/github-trending/2026-10-02.md","repository_id":1375382253},
+    {"canonical_url":"https://github.com/zai-org/zcode","owner_repo":"zai-org/ZCode","first_seen_date":"2026-10-02","report_file":"outputs/github-trending/2026-10-02.md","repository_id":1378288598},
+    {"canonical_url":"https://github.com/shadcn-ui/lint","owner_repo":"shadcn-ui/lint","first_seen_date":"2026-10-02","report_file":"outputs/github-trending/2026-10-02.md","repository_id":1354701193},
+    {"canonical_url":"https://github.com/copilotkit/openmuse","owner_repo":"CopilotKit/openmuse","first_seen_date":"2026-10-02","report_file":"outputs/github-trending/2026-10-02.md","repository_id":1371757322},
+    {"canonical_url":"https://github.com/jaredpalmer/kev","owner_repo":"jaredpalmer/kev","first_seen_date":"2026-10-02","report_file":"outputs/github-trending/2026-10-02.md","repository_id":1375069862},
+    {"canonical_url":"https://github.com/openai/mcp-extensions","owner_repo":"openai/mcp-extensions","first_seen_date":"2026-10-02","report_file":"outputs/github-trending/2026-10-02.md","repository_id":1394011672},
+    {"canonical_url":"https://github.com/inikolax/remiqora","owner_repo":"inikolax/remiqora","first_seen_date":"2026-10-02","report_file":"outputs/github-trending/2026-10-02.md","repository_id":1374457005},
+    {"canonical_url":"https://github.com/friedrich-m/unimate","owner_repo":"Friedrich-M/UniMate","first_seen_date":"2026-10-02","report_file":"outputs/github-trending/2026-10-02.md","repository_id":1309249926},
+    {"canonical_url":"https://github.com/ag-ui-protocol/ag-ui","owner_repo":"ag-ui-protocol/ag-ui","first_seen_date":"2026-10-02","report_file":"outputs/github-trending/2026-10-02.md","repository_id":979392131},
+    {"canonical_url":"https://github.com/cloudflare/cf","owner_repo":"cloudflare/cf","first_seen_date":"2026-10-02","report_file":"outputs/github-trending/2026-10-02.md","repository_id":1380002148}
   ]
 }
