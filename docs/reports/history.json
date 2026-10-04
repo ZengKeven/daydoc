@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-03T08:10:51+08:00",
+  "updated_at": "2026-10-04T08:18:34+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -544,6 +544,14 @@
     {"canonical_url":"https://github.com/unjs/upm","owner_repo":"unjs/upm","first_seen_date":"2026-10-03","report_file":"outputs/github-trending/2026-10-03.md","repository_id":1384000169},
     {"canonical_url":"https://github.com/z7786/wenxi","owner_repo":"z7786/wenxi","first_seen_date":"2026-10-03","report_file":"outputs/github-trending/2026-10-03.md","repository_id":1376787191},
     {"canonical_url":"https://github.com/op7418/guizang-product-video-skill","owner_repo":"op7418/guizang-product-video-skill","first_seen_date":"2026-10-03","report_file":"outputs/github-trending/2026-10-03.md","repository_id":1375362154},
-    {"canonical_url":"https://github.com/posthog/jeeves","owner_repo":"PostHog/jeeves","first_seen_date":"2026-10-03","report_file":"outputs/github-trending/2026-10-03.md","repository_id":1394871993}
+    {"canonical_url":"https://github.com/posthog/jeeves","owner_repo":"PostHog/jeeves","first_seen_date":"2026-10-03","report_file":"outputs/github-trending/2026-10-03.md","repository_id":1394871993},
+    {"canonical_url":"https://github.com/daimiaopeng/coolapk-desktop","owner_repo":"daimiaopeng/coolapk-desktop","first_seen_date":"2026-10-04","report_file":"outputs/github-trending/2026-10-04.md","repository_id":1321793621},
+    {"canonical_url":"https://github.com/effect-ts/effect","owner_repo":"Effect-TS/effect","first_seen_date":"2026-10-04","report_file":"outputs/github-trending/2026-10-04.md","repository_id":221458136},
+    {"canonical_url":"https://github.com/nanaism/yomiyasu","owner_repo":"nanaism/yomiyasu","first_seen_date":"2026-10-04","report_file":"outputs/github-trending/2026-10-04.md","repository_id":1397771878},
+    {"canonical_url":"https://github.com/firelex/jeff","owner_repo":"firelex/jeff","first_seen_date":"2026-10-04","report_file":"outputs/github-trending/2026-10-04.md","repository_id":1393229560},
+    {"canonical_url":"https://github.com/ng-native/ng-native","owner_repo":"ng-native/ng-native","first_seen_date":"2026-10-04","report_file":"outputs/github-trending/2026-10-04.md","repository_id":1391318647},
+    {"canonical_url":"https://github.com/openjiuwen-ai/icode","owner_repo":"openJiuwen-ai/iCode","first_seen_date":"2026-10-04","report_file":"outputs/github-trending/2026-10-04.md","repository_id":1391717301},
+    {"canonical_url":"https://github.com/whirlchat/whirl","owner_repo":"whirlchat/whirl","first_seen_date":"2026-10-04","report_file":"outputs/github-trending/2026-10-04.md","repository_id":1401821001},
+    {"canonical_url":"https://github.com/elgentidwell/chisel","owner_repo":"ElgenTidwell/Chisel","first_seen_date":"2026-10-04","report_file":"outputs/github-trending/2026-10-04.md","repository_id":1388379794}
   ]
 }
