@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-04T08:18:34+08:00",
+  "updated_at": "2026-10-06T08:16:35+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -552,6 +552,16 @@
     {"canonical_url":"https://github.com/ng-native/ng-native","owner_repo":"ng-native/ng-native","first_seen_date":"2026-10-04","report_file":"outputs/github-trending/2026-10-04.md","repository_id":1391318647},
     {"canonical_url":"https://github.com/openjiuwen-ai/icode","owner_repo":"openJiuwen-ai/iCode","first_seen_date":"2026-10-04","report_file":"outputs/github-trending/2026-10-04.md","repository_id":1391717301},
     {"canonical_url":"https://github.com/whirlchat/whirl","owner_repo":"whirlchat/whirl","first_seen_date":"2026-10-04","report_file":"outputs/github-trending/2026-10-04.md","repository_id":1401821001},
-    {"canonical_url":"https://github.com/elgentidwell/chisel","owner_repo":"ElgenTidwell/Chisel","first_seen_date":"2026-10-04","report_file":"outputs/github-trending/2026-10-04.md","repository_id":1388379794}
+    {"canonical_url":"https://github.com/elgentidwell/chisel","owner_repo":"ElgenTidwell/Chisel","first_seen_date":"2026-10-04","report_file":"outputs/github-trending/2026-10-04.md","repository_id":1388379794},
+    {"canonical_url":"https://github.com/tester-army/e2e","owner_repo":"tester-army/e2e","first_seen_date":"2026-10-06","report_file":"outputs/github-trending/2026-10-06.md","repository_id":1308631234},
+    {"canonical_url":"https://github.com/chthollyphile/folia-major","owner_repo":"chthollyphile/folia-major","first_seen_date":"2026-10-06","report_file":"outputs/github-trending/2026-10-06.md","repository_id":1105953775},
+    {"canonical_url":"https://github.com/stremio/stremio-web","owner_repo":"Stremio/stremio-web","first_seen_date":"2026-10-06","report_file":"outputs/github-trending/2026-10-06.md","repository_id":136023747},
+    {"canonical_url":"https://github.com/rehan-remade/universal-modder","owner_repo":"rehan-remade/universal-modder","first_seen_date":"2026-10-06","report_file":"outputs/github-trending/2026-10-06.md","repository_id":1397016507},
+    {"canonical_url":"https://github.com/is-hp-is-mad/flutify","owner_repo":"is-hp-is-mad/Flutify","first_seen_date":"2026-10-06","report_file":"outputs/github-trending/2026-10-06.md","repository_id":1401702462},
+    {"canonical_url":"https://github.com/remocn/remocn-studio","owner_repo":"Remocn/remocn-studio","first_seen_date":"2026-10-06","report_file":"outputs/github-trending/2026-10-06.md","repository_id":1400245320},
+    {"canonical_url":"https://github.com/gatewai-dev/framefields","owner_repo":"gatewai-dev/framefields","first_seen_date":"2026-10-06","report_file":"outputs/github-trending/2026-10-06.md","repository_id":1402345198},
+    {"canonical_url":"https://github.com/oil-oil/oil-ui","owner_repo":"oil-oil/oil-ui","first_seen_date":"2026-10-06","report_file":"outputs/github-trending/2026-10-06.md","repository_id":1396939768},
+    {"canonical_url":"https://github.com/knifelemon/filee","owner_repo":"KnifeLemon/Filee","first_seen_date":"2026-10-06","report_file":"outputs/github-trending/2026-10-06.md","repository_id":1396526702},
+    {"canonical_url":"https://github.com/nykooi1/vibe-wise","owner_repo":"nykooi1/vibe-wise","first_seen_date":"2026-10-06","report_file":"outputs/github-trending/2026-10-06.md","repository_id":1394045721}
   ]
 }
