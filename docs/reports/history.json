@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-06T08:16:35+08:00",
+  "updated_at": "2026-10-07T08:10:04+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -562,6 +562,13 @@
     {"canonical_url":"https://github.com/gatewai-dev/framefields","owner_repo":"gatewai-dev/framefields","first_seen_date":"2026-10-06","report_file":"outputs/github-trending/2026-10-06.md","repository_id":1402345198},
     {"canonical_url":"https://github.com/oil-oil/oil-ui","owner_repo":"oil-oil/oil-ui","first_seen_date":"2026-10-06","report_file":"outputs/github-trending/2026-10-06.md","repository_id":1396939768},
     {"canonical_url":"https://github.com/knifelemon/filee","owner_repo":"KnifeLemon/Filee","first_seen_date":"2026-10-06","report_file":"outputs/github-trending/2026-10-06.md","repository_id":1396526702},
-    {"canonical_url":"https://github.com/nykooi1/vibe-wise","owner_repo":"nykooi1/vibe-wise","first_seen_date":"2026-10-06","report_file":"outputs/github-trending/2026-10-06.md","repository_id":1394045721}
+    {"canonical_url":"https://github.com/nykooi1/vibe-wise","owner_repo":"nykooi1/vibe-wise","first_seen_date":"2026-10-06","report_file":"outputs/github-trending/2026-10-06.md","repository_id":1394045721},
+    {"canonical_url":"https://github.com/morluto/rea","owner_repo":"morluto/rea","first_seen_date":"2026-10-07","report_file":"outputs/github-trending/2026-10-07.md","repository_id":1209966933},
+    {"canonical_url":"https://github.com/luxalgo/vela","owner_repo":"LuxAlgo/Vela","first_seen_date":"2026-10-07","report_file":"outputs/github-trending/2026-10-07.md","repository_id":1299496901},
+    {"canonical_url":"https://github.com/ranxianglei/billion-context","owner_repo":"ranxianglei/billion-context","first_seen_date":"2026-10-07","report_file":"outputs/github-trending/2026-10-07.md","repository_id":1324949198},
+    {"canonical_url":"https://github.com/eolix/photosuite","owner_repo":"eolix/photosuite","first_seen_date":"2026-10-07","report_file":"outputs/github-trending/2026-10-07.md","repository_id":1220301930},
+    {"canonical_url":"https://github.com/autonomous-ai/openharness","owner_repo":"autonomous-ai/openharness","first_seen_date":"2026-10-07","report_file":"outputs/github-trending/2026-10-07.md","repository_id":1322671404},
+    {"canonical_url":"https://github.com/timeshiftsauce/cerumusic","owner_repo":"timeshiftsauce/CeruMusic","first_seen_date":"2026-10-07","report_file":"outputs/github-trending/2026-10-07.md","repository_id":1037127722},
+    {"canonical_url":"https://github.com/raullenchai/rapid-mlx","owner_repo":"raullenchai/Rapid-MLX","first_seen_date":"2026-10-07","report_file":"outputs/github-trending/2026-10-07.md","repository_id":1166182351}
   ]
 }
