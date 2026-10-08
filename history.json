@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-07T08:10:04+08:00",
+  "updated_at": "2026-10-08T08:05:29+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -569,6 +569,14 @@
     {"canonical_url":"https://github.com/eolix/photosuite","owner_repo":"eolix/photosuite","first_seen_date":"2026-10-07","report_file":"outputs/github-trending/2026-10-07.md","repository_id":1220301930},
     {"canonical_url":"https://github.com/autonomous-ai/openharness","owner_repo":"autonomous-ai/openharness","first_seen_date":"2026-10-07","report_file":"outputs/github-trending/2026-10-07.md","repository_id":1322671404},
     {"canonical_url":"https://github.com/timeshiftsauce/cerumusic","owner_repo":"timeshiftsauce/CeruMusic","first_seen_date":"2026-10-07","report_file":"outputs/github-trending/2026-10-07.md","repository_id":1037127722},
-    {"canonical_url":"https://github.com/raullenchai/rapid-mlx","owner_repo":"raullenchai/Rapid-MLX","first_seen_date":"2026-10-07","report_file":"outputs/github-trending/2026-10-07.md","repository_id":1166182351}
+    {"canonical_url":"https://github.com/raullenchai/rapid-mlx","owner_repo":"raullenchai/Rapid-MLX","first_seen_date":"2026-10-07","report_file":"outputs/github-trending/2026-10-07.md","repository_id":1166182351},
+    {"canonical_url":"https://github.com/anthropics/knowledge-work-plugins","owner_repo":"anthropics/knowledge-work-plugins","first_seen_date":"2026-10-08","report_file":"outputs/github-trending/2026-10-08.md","repository_id":1140828898},
+    {"canonical_url":"https://github.com/hieunc229/mailflare","owner_repo":"hieunc229/mailflare","first_seen_date":"2026-10-08","report_file":"outputs/github-trending/2026-10-08.md","repository_id":1249703818},
+    {"canonical_url":"https://github.com/atomicbot-ai/atomic-agent","owner_repo":"AtomicBot-ai/atomic-agent","first_seen_date":"2026-10-08","report_file":"outputs/github-trending/2026-10-08.md","repository_id":1217416768},
+    {"canonical_url":"https://github.com/tile-ai/tilelang","owner_repo":"tile-ai/tilelang","first_seen_date":"2026-10-08","report_file":"outputs/github-trending/2026-10-08.md","repository_id":867004514},
+    {"canonical_url":"https://github.com/reconurge/flowsint","owner_repo":"reconurge/flowsint","first_seen_date":"2026-10-08","report_file":"outputs/github-trending/2026-10-08.md","repository_id":925273833},
+    {"canonical_url":"https://github.com/breferrari/obsidian-mind","owner_repo":"breferrari/obsidian-mind","first_seen_date":"2026-10-08","report_file":"outputs/github-trending/2026-10-08.md","repository_id":1169560166},
+    {"canonical_url":"https://github.com/docmirror/dev-sidecar","owner_repo":"docmirror/dev-sidecar","first_seen_date":"2026-10-08","report_file":"outputs/github-trending/2026-10-08.md","repository_id":299584778},
+    {"canonical_url":"https://github.com/samboycoding/cpp2il","owner_repo":"SamboyCoding/Cpp2IL","first_seen_date":"2026-10-08","report_file":"outputs/github-trending/2026-10-08.md","repository_id":192676329}
   ]
 }
