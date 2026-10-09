@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-08T08:05:29+08:00",
+  "updated_at": "2026-10-09T08:07:13+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -577,6 +577,12 @@
     {"canonical_url":"https://github.com/reconurge/flowsint","owner_repo":"reconurge/flowsint","first_seen_date":"2026-10-08","report_file":"outputs/github-trending/2026-10-08.md","repository_id":925273833},
     {"canonical_url":"https://github.com/breferrari/obsidian-mind","owner_repo":"breferrari/obsidian-mind","first_seen_date":"2026-10-08","report_file":"outputs/github-trending/2026-10-08.md","repository_id":1169560166},
     {"canonical_url":"https://github.com/docmirror/dev-sidecar","owner_repo":"docmirror/dev-sidecar","first_seen_date":"2026-10-08","report_file":"outputs/github-trending/2026-10-08.md","repository_id":299584778},
-    {"canonical_url":"https://github.com/samboycoding/cpp2il","owner_repo":"SamboyCoding/Cpp2IL","first_seen_date":"2026-10-08","report_file":"outputs/github-trending/2026-10-08.md","repository_id":192676329}
+    {"canonical_url":"https://github.com/samboycoding/cpp2il","owner_repo":"SamboyCoding/Cpp2IL","first_seen_date":"2026-10-08","report_file":"outputs/github-trending/2026-10-08.md","repository_id":192676329},
+    {"canonical_url":"https://github.com/cursortouch/windows-mcp","owner_repo":"CursorTouch/Windows-MCP","first_seen_date":"2026-10-09","report_file":"outputs/github-trending/2026-10-09.md","repository_id":982517950},
+    {"canonical_url":"https://github.com/vincentwei1021/video-shotcraft","owner_repo":"Vincentwei1021/video-shotcraft","first_seen_date":"2026-10-09","report_file":"outputs/github-trending/2026-10-09.md","repository_id":1305663861},
+    {"canonical_url":"https://github.com/openai/codex-security","owner_repo":"openai/codex-security","first_seen_date":"2026-10-09","report_file":"outputs/github-trending/2026-10-09.md","repository_id":1299769220},
+    {"canonical_url":"https://github.com/nanobrowser/nanobrowser","owner_repo":"nanobrowser/nanobrowser","first_seen_date":"2026-10-09","report_file":"outputs/github-trending/2026-10-09.md","repository_id":910418754},
+    {"canonical_url":"https://github.com/dyad-sh/dyad","owner_repo":"dyad-sh/dyad","first_seen_date":"2026-10-09","report_file":"outputs/github-trending/2026-10-09.md","repository_id":964395174},
+    {"canonical_url":"https://github.com/davidmonterocrespo24/velxio","owner_repo":"davidmonterocrespo24/velxio","first_seen_date":"2026-10-09","report_file":"outputs/github-trending/2026-10-09.md","repository_id":1172073959}
   ]
 }
