@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-09T08:07:13+08:00",
+  "updated_at": "2026-10-10T08:06:05+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -583,6 +583,13 @@
     {"canonical_url":"https://github.com/openai/codex-security","owner_repo":"openai/codex-security","first_seen_date":"2026-10-09","report_file":"outputs/github-trending/2026-10-09.md","repository_id":1299769220},
     {"canonical_url":"https://github.com/nanobrowser/nanobrowser","owner_repo":"nanobrowser/nanobrowser","first_seen_date":"2026-10-09","report_file":"outputs/github-trending/2026-10-09.md","repository_id":910418754},
     {"canonical_url":"https://github.com/dyad-sh/dyad","owner_repo":"dyad-sh/dyad","first_seen_date":"2026-10-09","report_file":"outputs/github-trending/2026-10-09.md","repository_id":964395174},
-    {"canonical_url":"https://github.com/davidmonterocrespo24/velxio","owner_repo":"davidmonterocrespo24/velxio","first_seen_date":"2026-10-09","report_file":"outputs/github-trending/2026-10-09.md","repository_id":1172073959}
+    {"canonical_url":"https://github.com/davidmonterocrespo24/velxio","owner_repo":"davidmonterocrespo24/velxio","first_seen_date":"2026-10-09","report_file":"outputs/github-trending/2026-10-09.md","repository_id":1172073959},
+    {"canonical_url":"https://github.com/robbyant/lingbot-map","owner_repo":"Robbyant/lingbot-map","first_seen_date":"2026-10-10","report_file":"outputs/github-trending/2026-10-10.md","repository_id":1211752857},
+    {"canonical_url":"https://github.com/purpledoubled/locally-uncensored","owner_repo":"PurpleDoubleD/locally-uncensored","first_seen_date":"2026-10-10","report_file":"outputs/github-trending/2026-10-10.md","repository_id":1191052193},
+    {"canonical_url":"https://github.com/headroomlabs-ai/headroom","owner_repo":"headroomlabs-ai/headroom","first_seen_date":"2026-10-10","report_file":"outputs/github-trending/2026-10-10.md","repository_id":1129940957},
+    {"canonical_url":"https://github.com/berriai/litellm","owner_repo":"BerriAI/litellm","first_seen_date":"2026-10-10","report_file":"outputs/github-trending/2026-10-10.md","repository_id":671269505},
+    {"canonical_url":"https://github.com/makecindy/cindy","owner_repo":"makecindy/cindy","first_seen_date":"2026-10-10","report_file":"outputs/github-trending/2026-10-10.md","repository_id":1309102418},
+    {"canonical_url":"https://github.com/unovue/inspira-ui","owner_repo":"unovue/inspira-ui","first_seen_date":"2026-10-10","report_file":"outputs/github-trending/2026-10-10.md","repository_id":849777657},
+    {"canonical_url":"https://github.com/vert-sh/vert","owner_repo":"VERT-sh/VERT","first_seen_date":"2026-10-10","report_file":"outputs/github-trending/2026-10-10.md","repository_id":886745826}
   ]
 }
