@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-11T08:16:33+08:00",
+  "updated_at": "2026-10-12T08:10:00+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -598,6 +598,15 @@
     {"canonical_url":"https://github.com/openqodex/openqodex","owner_repo":"openqodex/openqodex","first_seen_date":"2026-10-11","report_file":"outputs/github-trending/2026-10-11.md","repository_id":1401219750},
     {"canonical_url":"https://github.com/bittersecurity/decepticon","owner_repo":"BitterSecurity/Decepticon","first_seen_date":"2026-10-11","report_file":"outputs/github-trending/2026-10-11.md","repository_id":997390194},
     {"canonical_url":"https://github.com/yksr-melt/meltype","owner_repo":"yksr-melt/Meltype","first_seen_date":"2026-10-11","report_file":"outputs/github-trending/2026-10-11.md","repository_id":1395172468},
-    {"canonical_url":"https://github.com/baocode-dev/baocode","owner_repo":"baocode-dev/baocode","first_seen_date":"2026-10-11","report_file":"outputs/github-trending/2026-10-11.md","repository_id":1383677612}
+    {"canonical_url":"https://github.com/baocode-dev/baocode","owner_repo":"baocode-dev/baocode","first_seen_date":"2026-10-11","report_file":"outputs/github-trending/2026-10-11.md","repository_id":1383677612},
+    {"canonical_url":"https://github.com/wheresryan22/anatomy","owner_repo":"wheresryan22/anatomy","first_seen_date":"2026-10-12","report_file":"outputs/github-trending/2026-10-12.md","repository_id":1410124849},
+    {"canonical_url":"https://github.com/qingyuna/answer-me-with-html","owner_repo":"QingYunA/answer-me-with-html","first_seen_date":"2026-10-12","report_file":"outputs/github-trending/2026-10-12.md","repository_id":1401476500},
+    {"canonical_url":"https://github.com/copilotkit/openintelligentui","owner_repo":"CopilotKit/OpenIntelligentUI","first_seen_date":"2026-10-12","report_file":"outputs/github-trending/2026-10-12.md","repository_id":1180226026},
+    {"canonical_url":"https://github.com/repowise-dev/repowise","owner_repo":"repowise-dev/repowise","first_seen_date":"2026-10-12","report_file":"outputs/github-trending/2026-10-12.md","repository_id":1189384516},
+    {"canonical_url":"https://github.com/rociiu/talorys","owner_repo":"rociiu/talorys","first_seen_date":"2026-10-12","report_file":"outputs/github-trending/2026-10-12.md","repository_id":1413021530},
+    {"canonical_url":"https://github.com/miaai-lab/sparkdash","owner_repo":"MiaAI-Lab/sparkDash","first_seen_date":"2026-10-12","report_file":"outputs/github-trending/2026-10-12.md","repository_id":1305945075},
+    {"canonical_url":"https://github.com/glass-hq/liquid-glass","owner_repo":"Glass-HQ/liquid-glass","first_seen_date":"2026-10-12","report_file":"outputs/github-trending/2026-10-12.md","repository_id":1406514405},
+    {"canonical_url":"https://github.com/tcchen2026/vibeoffice","owner_repo":"tcchen2026/VibeOffice","first_seen_date":"2026-10-12","report_file":"outputs/github-trending/2026-10-12.md","repository_id":1409806011},
+    {"canonical_url":"https://github.com/abing1111/bilidesk","owner_repo":"ABING1111/BiliDesk","first_seen_date":"2026-10-12","report_file":"outputs/github-trending/2026-10-12.md","repository_id":1399616169}
   ]
 }
