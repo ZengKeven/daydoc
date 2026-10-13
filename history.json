@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-12T08:10:00+08:00",
+  "updated_at": "2026-10-13T08:01:02+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -607,6 +607,15 @@
     {"canonical_url":"https://github.com/miaai-lab/sparkdash","owner_repo":"MiaAI-Lab/sparkDash","first_seen_date":"2026-10-12","report_file":"outputs/github-trending/2026-10-12.md","repository_id":1305945075},
     {"canonical_url":"https://github.com/glass-hq/liquid-glass","owner_repo":"Glass-HQ/liquid-glass","first_seen_date":"2026-10-12","report_file":"outputs/github-trending/2026-10-12.md","repository_id":1406514405},
     {"canonical_url":"https://github.com/tcchen2026/vibeoffice","owner_repo":"tcchen2026/VibeOffice","first_seen_date":"2026-10-12","report_file":"outputs/github-trending/2026-10-12.md","repository_id":1409806011},
-    {"canonical_url":"https://github.com/abing1111/bilidesk","owner_repo":"ABING1111/BiliDesk","first_seen_date":"2026-10-12","report_file":"outputs/github-trending/2026-10-12.md","repository_id":1399616169}
+    {"canonical_url":"https://github.com/abing1111/bilidesk","owner_repo":"ABING1111/BiliDesk","first_seen_date":"2026-10-12","report_file":"outputs/github-trending/2026-10-12.md","repository_id":1399616169},
+    {"canonical_url":"https://github.com/storytold/artcraft","owner_repo":"storytold/artcraft","first_seen_date":"2026-10-13","report_file":"outputs/github-trending/2026-10-13.md","repository_id":476507964},
+    {"canonical_url":"https://github.com/lyogavin/airllm","owner_repo":"lyogavin/airllm","first_seen_date":"2026-10-13","report_file":"outputs/github-trending/2026-10-13.md","repository_id":652712035},
+    {"canonical_url":"https://github.com/openbmb/voxcpm","owner_repo":"OpenBMB/VoxCPM","first_seen_date":"2026-10-13","report_file":"outputs/github-trending/2026-10-13.md","repository_id":1057664813},
+    {"canonical_url":"https://github.com/fei2411/deepseek-bot","owner_repo":"Fei2411/DeepSeek-Bot","first_seen_date":"2026-10-13","report_file":"outputs/github-trending/2026-10-13.md","repository_id":1409013846},
+    {"canonical_url":"https://github.com/bas3line/ascii","owner_repo":"bas3line/ascii","first_seen_date":"2026-10-13","report_file":"outputs/github-trending/2026-10-13.md","repository_id":1408371739},
+    {"canonical_url":"https://github.com/thariqs/ai-newtab","owner_repo":"ThariqS/ai-newtab","first_seen_date":"2026-10-13","report_file":"outputs/github-trending/2026-10-13.md","repository_id":1410743393},
+    {"canonical_url":"https://github.com/onehumanbeing/esp32-iphone-agent","owner_repo":"onehumanbeing/esp32-iphone-agent","first_seen_date":"2026-10-13","report_file":"outputs/github-trending/2026-10-13.md","repository_id":1414685342},
+    {"canonical_url":"https://github.com/gholtzap/lintapple","owner_repo":"gholtzap/lintapple","first_seen_date":"2026-10-13","report_file":"outputs/github-trending/2026-10-13.md","repository_id":1408955892},
+    {"canonical_url":"https://github.com/nousresearch/hermes-official-plugins","owner_repo":"NousResearch/hermes-official-plugins","first_seen_date":"2026-10-13","report_file":"outputs/github-trending/2026-10-13.md","repository_id":1413653643}
   ]
 }
