@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13T08:01:02+08:00",
+  "updated_at": "2026-10-14T08:07:39+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -616,6 +616,16 @@
     {"canonical_url":"https://github.com/thariqs/ai-newtab","owner_repo":"ThariqS/ai-newtab","first_seen_date":"2026-10-13","report_file":"outputs/github-trending/2026-10-13.md","repository_id":1410743393},
     {"canonical_url":"https://github.com/onehumanbeing/esp32-iphone-agent","owner_repo":"onehumanbeing/esp32-iphone-agent","first_seen_date":"2026-10-13","report_file":"outputs/github-trending/2026-10-13.md","repository_id":1414685342},
     {"canonical_url":"https://github.com/gholtzap/lintapple","owner_repo":"gholtzap/lintapple","first_seen_date":"2026-10-13","report_file":"outputs/github-trending/2026-10-13.md","repository_id":1408955892},
-    {"canonical_url":"https://github.com/nousresearch/hermes-official-plugins","owner_repo":"NousResearch/hermes-official-plugins","first_seen_date":"2026-10-13","report_file":"outputs/github-trending/2026-10-13.md","repository_id":1413653643}
+    {"canonical_url":"https://github.com/nousresearch/hermes-official-plugins","owner_repo":"NousResearch/hermes-official-plugins","first_seen_date":"2026-10-13","report_file":"outputs/github-trending/2026-10-13.md","repository_id":1413653643},
+    {"canonical_url":"https://github.com/baidu/unlimited-ocr","owner_repo":"baidu/Unlimited-OCR","first_seen_date":"2026-10-14","report_file":"outputs/github-trending/2026-10-14.md","repository_id":1273138090},
+    {"canonical_url":"https://github.com/academa-labs/manimgx","owner_repo":"academa-labs/manimgx","first_seen_date":"2026-10-14","report_file":"outputs/github-trending/2026-10-14.md","repository_id":1406372374},
+    {"canonical_url":"https://github.com/zhuyansen/new-term-radar","owner_repo":"zhuyansen/new-term-radar","first_seen_date":"2026-10-14","report_file":"outputs/github-trending/2026-10-14.md","repository_id":1415214046},
+    {"canonical_url":"https://github.com/vercel-labs/skills","owner_repo":"vercel-labs/skills","first_seen_date":"2026-10-14","report_file":"outputs/github-trending/2026-10-14.md","repository_id":1134543109},
+    {"canonical_url":"https://github.com/sgl-project/sglang-omni","owner_repo":"sgl-project/sglang-omni","first_seen_date":"2026-10-14","report_file":"outputs/github-trending/2026-10-14.md","repository_id":1129492787},
+    {"canonical_url":"https://github.com/losalossantos/aurelio-finance","owner_repo":"LosaLosSantos/aurelio-finance","first_seen_date":"2026-10-14","report_file":"outputs/github-trending/2026-10-14.md","repository_id":1407873347},
+    {"canonical_url":"https://github.com/openfilm/openfilm","owner_repo":"openfilm/openfilm","first_seen_date":"2026-10-14","report_file":"outputs/github-trending/2026-10-14.md","repository_id":1404197626},
+    {"canonical_url":"https://github.com/cosscom/shipyard","owner_repo":"cosscom/shipyard","first_seen_date":"2026-10-14","report_file":"outputs/github-trending/2026-10-14.md","repository_id":1402287681},
+    {"canonical_url":"https://github.com/chuanjianghe1024-cmd/fluentcontrol","owner_repo":"chuanjianghe1024-cmd/FluentControl","first_seen_date":"2026-10-14","report_file":"outputs/github-trending/2026-10-14.md","repository_id":1409583651},
+    {"canonical_url":"https://github.com/supabase/agent-skills","owner_repo":"supabase/agent-skills","first_seen_date":"2026-10-14","report_file":"outputs/github-trending/2026-10-14.md","repository_id":1135501937}
   ]
 }
