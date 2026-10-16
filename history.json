@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-14T08:07:39+08:00",
+  "updated_at": "2026-10-16T08:02:57+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -626,6 +626,16 @@
     {"canonical_url":"https://github.com/openfilm/openfilm","owner_repo":"openfilm/openfilm","first_seen_date":"2026-10-14","report_file":"outputs/github-trending/2026-10-14.md","repository_id":1404197626},
     {"canonical_url":"https://github.com/cosscom/shipyard","owner_repo":"cosscom/shipyard","first_seen_date":"2026-10-14","report_file":"outputs/github-trending/2026-10-14.md","repository_id":1402287681},
     {"canonical_url":"https://github.com/chuanjianghe1024-cmd/fluentcontrol","owner_repo":"chuanjianghe1024-cmd/FluentControl","first_seen_date":"2026-10-14","report_file":"outputs/github-trending/2026-10-14.md","repository_id":1409583651},
-    {"canonical_url":"https://github.com/supabase/agent-skills","owner_repo":"supabase/agent-skills","first_seen_date":"2026-10-14","report_file":"outputs/github-trending/2026-10-14.md","repository_id":1135501937}
+    {"canonical_url":"https://github.com/supabase/agent-skills","owner_repo":"supabase/agent-skills","first_seen_date":"2026-10-14","report_file":"outputs/github-trending/2026-10-14.md","repository_id":1135501937},
+    {"canonical_url":"https://github.com/xerj-org/xerj","owner_repo":"xerj-org/xerj","first_seen_date":"2026-10-16","report_file":"outputs/github-trending/2026-10-16.md","repository_id":1284653133},
+    {"canonical_url":"https://github.com/chenglou/handwired","owner_repo":"chenglou/handwired","first_seen_date":"2026-10-16","report_file":"outputs/github-trending/2026-10-16.md","repository_id":1420063501},
+    {"canonical_url":"https://github.com/zfinix/eleven","owner_repo":"Zfinix/eleven","first_seen_date":"2026-10-16","report_file":"outputs/github-trending/2026-10-16.md","repository_id":1417155242},
+    {"canonical_url":"https://github.com/anthropics/claude-plugins-official","owner_repo":"anthropics/claude-plugins-official","first_seen_date":"2026-10-16","report_file":"outputs/github-trending/2026-10-16.md","repository_id":1100776768},
+    {"canonical_url":"https://github.com/juliusbrussee/caveman","owner_repo":"JuliusBrussee/caveman","first_seen_date":"2026-10-16","report_file":"outputs/github-trending/2026-10-16.md","repository_id":1201173969},
+    {"canonical_url":"https://github.com/shawnpana/phone-harness","owner_repo":"ShawnPana/phone-harness","first_seen_date":"2026-10-16","report_file":"outputs/github-trending/2026-10-16.md","repository_id":1327214801},
+    {"canonical_url":"https://github.com/ahujasid/mcp-for-blender","owner_repo":"ahujasid/mcp-for-blender","first_seen_date":"2026-10-16","report_file":"outputs/github-trending/2026-10-16.md","repository_id":944414751},
+    {"canonical_url":"https://github.com/outcrawlai/scout","owner_repo":"outcrawlai/scout","first_seen_date":"2026-10-16","report_file":"outputs/github-trending/2026-10-16.md","repository_id":1416766144},
+    {"canonical_url":"https://github.com/entelligence-ai/agentplay","owner_repo":"Entelligence-AI/agentplay","first_seen_date":"2026-10-16","report_file":"outputs/github-trending/2026-10-16.md","repository_id":1418643214},
+    {"canonical_url":"https://github.com/oguzhnatly/flutter_carplay","owner_repo":"oguzhnatly/flutter_carplay","first_seen_date":"2026-10-16","report_file":"outputs/github-trending/2026-10-16.md","repository_id":400755319}
   ]
 }
