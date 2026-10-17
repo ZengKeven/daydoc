@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T08:02:57+08:00",
+  "updated_at": "2026-10-17T08:03:43+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -636,6 +636,16 @@
     {"canonical_url":"https://github.com/ahujasid/mcp-for-blender","owner_repo":"ahujasid/mcp-for-blender","first_seen_date":"2026-10-16","report_file":"outputs/github-trending/2026-10-16.md","repository_id":944414751},
     {"canonical_url":"https://github.com/outcrawlai/scout","owner_repo":"outcrawlai/scout","first_seen_date":"2026-10-16","report_file":"outputs/github-trending/2026-10-16.md","repository_id":1416766144},
     {"canonical_url":"https://github.com/entelligence-ai/agentplay","owner_repo":"Entelligence-AI/agentplay","first_seen_date":"2026-10-16","report_file":"outputs/github-trending/2026-10-16.md","repository_id":1418643214},
-    {"canonical_url":"https://github.com/oguzhnatly/flutter_carplay","owner_repo":"oguzhnatly/flutter_carplay","first_seen_date":"2026-10-16","report_file":"outputs/github-trending/2026-10-16.md","repository_id":400755319}
+    {"canonical_url":"https://github.com/oguzhnatly/flutter_carplay","owner_repo":"oguzhnatly/flutter_carplay","first_seen_date":"2026-10-16","report_file":"outputs/github-trending/2026-10-16.md","repository_id":400755319},
+    {"canonical_url":"https://github.com/lightseekorg/tokenspeed","owner_repo":"lightseekorg/tokenspeed","first_seen_date":"2026-10-17","report_file":"outputs/github-trending/2026-10-17.md","repository_id":1230933500},
+    {"canonical_url":"https://github.com/google/artemis","owner_repo":"google/artemis","first_seen_date":"2026-10-17","report_file":"outputs/github-trending/2026-10-17.md","repository_id":1333399642},
+    {"canonical_url":"https://github.com/michael-denyer/pstack-claude","owner_repo":"michael-denyer/pstack-claude","first_seen_date":"2026-10-17","report_file":"outputs/github-trending/2026-10-17.md","repository_id":1250276806},
+    {"canonical_url":"https://github.com/tencent-hunyuan/hy-memory","owner_repo":"Tencent-Hunyuan/Hy-Memory","first_seen_date":"2026-10-17","report_file":"outputs/github-trending/2026-10-17.md","repository_id":1420743720},
+    {"canonical_url":"https://github.com/leonxlnx/earshot","owner_repo":"Leonxlnx/earshot","first_seen_date":"2026-10-17","report_file":"outputs/github-trending/2026-10-17.md","repository_id":1420305104},
+    {"canonical_url":"https://github.com/openmoss/moss-image","owner_repo":"OpenMOSS/MOSS-Image","first_seen_date":"2026-10-17","report_file":"outputs/github-trending/2026-10-17.md","repository_id":1421497958},
+    {"canonical_url":"https://github.com/qwenlm/blenderworld","owner_repo":"QwenLM/BlenderWorld","first_seen_date":"2026-10-17","report_file":"outputs/github-trending/2026-10-17.md","repository_id":1418833323},
+    {"canonical_url":"https://github.com/pro-vi/cc-stretch","owner_repo":"pro-vi/cc-stretch","first_seen_date":"2026-10-17","report_file":"outputs/github-trending/2026-10-17.md","repository_id":1419896415},
+    {"canonical_url":"https://github.com/tg-twilight/c001apk","owner_repo":"TG-Twilight/c001apk","first_seen_date":"2026-10-17","report_file":"outputs/github-trending/2026-10-17.md","repository_id":1418517344},
+    {"canonical_url":"https://github.com/assafkip/claudemy","owner_repo":"assafkip/claudemy","first_seen_date":"2026-10-17","report_file":"outputs/github-trending/2026-10-17.md","repository_id":1418226869}
   ]
 }
