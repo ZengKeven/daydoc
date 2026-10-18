@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T08:03:43+08:00",
+  "updated_at": "2026-10-18T08:02:40+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -646,6 +646,13 @@
     {"canonical_url":"https://github.com/qwenlm/blenderworld","owner_repo":"QwenLM/BlenderWorld","first_seen_date":"2026-10-17","report_file":"outputs/github-trending/2026-10-17.md","repository_id":1418833323},
     {"canonical_url":"https://github.com/pro-vi/cc-stretch","owner_repo":"pro-vi/cc-stretch","first_seen_date":"2026-10-17","report_file":"outputs/github-trending/2026-10-17.md","repository_id":1419896415},
     {"canonical_url":"https://github.com/tg-twilight/c001apk","owner_repo":"TG-Twilight/c001apk","first_seen_date":"2026-10-17","report_file":"outputs/github-trending/2026-10-17.md","repository_id":1418517344},
-    {"canonical_url":"https://github.com/assafkip/claudemy","owner_repo":"assafkip/claudemy","first_seen_date":"2026-10-17","report_file":"outputs/github-trending/2026-10-17.md","repository_id":1418226869}
+    {"canonical_url":"https://github.com/assafkip/claudemy","owner_repo":"assafkip/claudemy","first_seen_date":"2026-10-17","report_file":"outputs/github-trending/2026-10-17.md","repository_id":1418226869},
+    {"canonical_url":"https://github.com/android/skills","owner_repo":"android/skills","first_seen_date":"2026-10-18","report_file":"outputs/github-trending/2026-10-18.md","repository_id":1183263320},
+    {"canonical_url":"https://github.com/elie222/rakazo","owner_repo":"elie222/rakazo","first_seen_date":"2026-10-18","report_file":"outputs/github-trending/2026-10-18.md","repository_id":1332781509},
+    {"canonical_url":"https://github.com/openbmb/pilotdeck","owner_repo":"OpenBMB/PilotDeck","first_seen_date":"2026-10-18","report_file":"outputs/github-trending/2026-10-18.md","repository_id":1246399437},
+    {"canonical_url":"https://github.com/aicodeking/leanrea","owner_repo":"aicodeking/leanrea","first_seen_date":"2026-10-18","report_file":"outputs/github-trending/2026-10-18.md","repository_id":1422883896},
+    {"canonical_url":"https://github.com/cranebeaker/coop-anything","owner_repo":"cranebeaker/coop-anything","first_seen_date":"2026-10-18","report_file":"outputs/github-trending/2026-10-18.md","repository_id":1422053844},
+    {"canonical_url":"https://github.com/christos-antono/npctalk","owner_repo":"christos-antono/NPCTalk","first_seen_date":"2026-10-18","report_file":"outputs/github-trending/2026-10-18.md","repository_id":1421433459},
+    {"canonical_url":"https://github.com/vantacode420/smarthdrmanager","owner_repo":"VantaCode420/SmartHdrManager","first_seen_date":"2026-10-18","report_file":"outputs/github-trending/2026-10-18.md","repository_id":1421034943}
   ]
 }
