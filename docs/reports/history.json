@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T08:05:13+08:00",
+  "updated_at": "2026-10-20T09:20:39+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -659,6 +659,14 @@
     {"canonical_url":"https://github.com/alchaincyf/huashu-motion","owner_repo":"alchaincyf/huashu-motion","first_seen_date":"2026-10-19","report_file":"outputs/github-trending/2026-10-19.md","repository_id":1424340323},
     {"canonical_url":"https://github.com/kruk2/jasna","owner_repo":"Kruk2/jasna","first_seen_date":"2026-10-19","report_file":"outputs/github-trending/2026-10-19.md","repository_id":1137066830},
     {"canonical_url":"https://github.com/metamorfolog/file_action","owner_repo":"Metamorfolog/file_action","first_seen_date":"2026-10-19","report_file":"outputs/github-trending/2026-10-19.md","repository_id":1423683598},
-    {"canonical_url":"https://github.com/evren-oct/vigil-watt","owner_repo":"evren-oct/vigil-watt","first_seen_date":"2026-10-19","report_file":"outputs/github-trending/2026-10-19.md","repository_id":1422877027}
+    {"canonical_url":"https://github.com/evren-oct/vigil-watt","owner_repo":"evren-oct/vigil-watt","first_seen_date":"2026-10-19","report_file":"outputs/github-trending/2026-10-19.md","repository_id":1422877027},
+    {"canonical_url":"https://github.com/victortaelin/uniichat","owner_repo":"VictorTaelin/uniichat","first_seen_date":"2026-10-20","report_file":"outputs/github-trending/2026-10-20.md","repository_id":1425816765},
+    {"canonical_url":"https://github.com/interplains/zero-breach","owner_repo":"interplains/zero-breach","first_seen_date":"2026-10-20","report_file":"outputs/github-trending/2026-10-20.md","repository_id":1424399708},
+    {"canonical_url":"https://github.com/kanaworksai-hue/audio-studio-mcp","owner_repo":"kanaworksai-hue/audio-studio-mcp","first_seen_date":"2026-10-20","report_file":"outputs/github-trending/2026-10-20.md","repository_id":1424285974},
+    {"canonical_url":"https://github.com/finereli/whatsapp-mcp","owner_repo":"finereli/whatsapp-mcp","first_seen_date":"2026-10-20","report_file":"outputs/github-trending/2026-10-20.md","repository_id":1424819112},
+    {"canonical_url":"https://github.com/soumatheusgomes/editonny","owner_repo":"soumatheusgomes/editonny","first_seen_date":"2026-10-20","report_file":"outputs/github-trending/2026-10-20.md","repository_id":1424968343},
+    {"canonical_url":"https://github.com/llamaboi55/dragshift","owner_repo":"llamaboi55/DragShift","first_seen_date":"2026-10-20","report_file":"outputs/github-trending/2026-10-20.md","repository_id":1424453274},
+    {"canonical_url":"https://github.com/vercel-labs/fx0","owner_repo":"vercel-labs/fx0","first_seen_date":"2026-10-20","report_file":"outputs/github-trending/2026-10-20.md","repository_id":1425952796},
+    {"canonical_url":"https://github.com/allanlinallan/ai-track-splitter","owner_repo":"allanlinallan/AI-Track-Splitter","first_seen_date":"2026-10-20","report_file":"outputs/github-trending/2026-10-20.md","repository_id":1425261788}
   ]
 }
