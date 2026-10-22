@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-21T09:59:16+08:00",
+  "updated_at": "2026-10-22T08:08:45+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -674,6 +674,13 @@
     {"canonical_url":"https://github.com/nthnclrk/cleanframe","owner_repo":"nthnclrk/CleanFrame","first_seen_date":"2026-10-21","report_file":"outputs/github-trending/2026-10-21.md","repository_id":1426502712},
     {"canonical_url":"https://github.com/blendi-remade/prompt2rig","owner_repo":"blendi-remade/prompt2rig","first_seen_date":"2026-10-21","report_file":"outputs/github-trending/2026-10-21.md","repository_id":1425388226},
     {"canonical_url":"https://github.com/slide-ng/slide.ng","owner_repo":"slide-ng/slide.ng","first_seen_date":"2026-10-21","report_file":"outputs/github-trending/2026-10-21.md","repository_id":1422637634},
-    {"canonical_url":"https://github.com/awakenchan/lanternengine","owner_repo":"Awakenchan/LanternEngine","first_seen_date":"2026-10-21","report_file":"outputs/github-trending/2026-10-21.md","repository_id":1414718338}
+    {"canonical_url":"https://github.com/awakenchan/lanternengine","owner_repo":"Awakenchan/LanternEngine","first_seen_date":"2026-10-21","report_file":"outputs/github-trending/2026-10-21.md","repository_id":1414718338},
+    {"canonical_url":"https://github.com/deepseek-ai/deepinfer","owner_repo":"deepseek-ai/DeepInfer","first_seen_date":"2026-10-22","report_file":"outputs/github-trending/2026-10-22.md","repository_id":1421825221},
+    {"canonical_url":"https://github.com/vllm-project/vllm","owner_repo":"vllm-project/vllm","first_seen_date":"2026-10-22","report_file":"outputs/github-trending/2026-10-22.md","repository_id":599547518},
+    {"canonical_url":"https://github.com/llm-d/llm-d","owner_repo":"llm-d/llm-d","first_seen_date":"2026-10-22","report_file":"outputs/github-trending/2026-10-22.md","repository_id":975070903},
+    {"canonical_url":"https://github.com/openai/php2shell-checker","owner_repo":"openai/php2shell-checker","first_seen_date":"2026-10-22","report_file":"outputs/github-trending/2026-10-22.md","repository_id":1427704805},
+    {"canonical_url":"https://github.com/jnh12/agent-microvm","owner_repo":"jnh12/agent-microvm","first_seen_date":"2026-10-22","report_file":"outputs/github-trending/2026-10-22.md","repository_id":1428308730},
+    {"canonical_url":"https://github.com/xingjian-bai/opal","owner_repo":"xingjian-bai/opal","first_seen_date":"2026-10-22","report_file":"outputs/github-trending/2026-10-22.md","repository_id":1428486097},
+    {"canonical_url":"https://github.com/recursive-oss/rec","owner_repo":"recursive-oss/rec","first_seen_date":"2026-10-22","report_file":"outputs/github-trending/2026-10-22.md","repository_id":1428583237}
   ]
 }
