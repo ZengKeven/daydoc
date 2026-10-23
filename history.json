@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-22T08:08:45+08:00",
+  "updated_at": "2026-10-23T08:08:43+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -681,6 +681,13 @@
     {"canonical_url":"https://github.com/openai/php2shell-checker","owner_repo":"openai/php2shell-checker","first_seen_date":"2026-10-22","report_file":"outputs/github-trending/2026-10-22.md","repository_id":1427704805},
     {"canonical_url":"https://github.com/jnh12/agent-microvm","owner_repo":"jnh12/agent-microvm","first_seen_date":"2026-10-22","report_file":"outputs/github-trending/2026-10-22.md","repository_id":1428308730},
     {"canonical_url":"https://github.com/xingjian-bai/opal","owner_repo":"xingjian-bai/opal","first_seen_date":"2026-10-22","report_file":"outputs/github-trending/2026-10-22.md","repository_id":1428486097},
-    {"canonical_url":"https://github.com/recursive-oss/rec","owner_repo":"recursive-oss/rec","first_seen_date":"2026-10-22","report_file":"outputs/github-trending/2026-10-22.md","repository_id":1428583237}
+    {"canonical_url":"https://github.com/recursive-oss/rec","owner_repo":"recursive-oss/rec","first_seen_date":"2026-10-22","report_file":"outputs/github-trending/2026-10-22.md","repository_id":1428583237},
+    {"canonical_url":"https://github.com/genspark-ai/genoffice","owner_repo":"genspark-ai/genoffice","first_seen_date":"2026-10-23","report_file":"outputs/github-trending/2026-10-23.md","repository_id":1318187016},
+    {"canonical_url":"https://github.com/bowenliang123/dsh-context","owner_repo":"bowenliang123/dsh-context","first_seen_date":"2026-10-23","report_file":"outputs/github-trending/2026-10-23.md","repository_id":1333961389},
+    {"canonical_url":"https://github.com/copilotkit/openbot","owner_repo":"CopilotKit/OpenBot","first_seen_date":"2026-10-23","report_file":"outputs/github-trending/2026-10-23.md","repository_id":1336502227},
+    {"canonical_url":"https://github.com/ggml-org/llama-windows","owner_repo":"ggml-org/Llama-Windows","first_seen_date":"2026-10-23","report_file":"outputs/github-trending/2026-10-23.md","repository_id":1284148484},
+    {"canonical_url":"https://github.com/onyx-dot-app/onyx","owner_repo":"onyx-dot-app/onyx","first_seen_date":"2026-10-23","report_file":"outputs/github-trending/2026-10-23.md","repository_id":633262635},
+    {"canonical_url":"https://github.com/fastapi/fastapi","owner_repo":"fastapi/fastapi","first_seen_date":"2026-10-23","report_file":"outputs/github-trending/2026-10-23.md","repository_id":160919119},
+    {"canonical_url":"https://github.com/slskd/slskd","owner_repo":"slskd/slskd","first_seen_date":"2026-10-23","report_file":"outputs/github-trending/2026-10-23.md","repository_id":325619780}
   ]
 }
