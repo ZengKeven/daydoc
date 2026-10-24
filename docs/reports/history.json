@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-23T08:08:43+08:00",
+  "updated_at": "2026-10-24T08:16:45+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -688,6 +688,13 @@
     {"canonical_url":"https://github.com/ggml-org/llama-windows","owner_repo":"ggml-org/Llama-Windows","first_seen_date":"2026-10-23","report_file":"outputs/github-trending/2026-10-23.md","repository_id":1284148484},
     {"canonical_url":"https://github.com/onyx-dot-app/onyx","owner_repo":"onyx-dot-app/onyx","first_seen_date":"2026-10-23","report_file":"outputs/github-trending/2026-10-23.md","repository_id":633262635},
     {"canonical_url":"https://github.com/fastapi/fastapi","owner_repo":"fastapi/fastapi","first_seen_date":"2026-10-23","report_file":"outputs/github-trending/2026-10-23.md","repository_id":160919119},
-    {"canonical_url":"https://github.com/slskd/slskd","owner_repo":"slskd/slskd","first_seen_date":"2026-10-23","report_file":"outputs/github-trending/2026-10-23.md","repository_id":325619780}
+    {"canonical_url":"https://github.com/slskd/slskd","owner_repo":"slskd/slskd","first_seen_date":"2026-10-23","report_file":"outputs/github-trending/2026-10-23.md","repository_id":325619780},
+    {"canonical_url":"https://github.com/pc2005-cloud/dsh-pet","owner_repo":"PC2005-cloud/dsh-pet","first_seen_date":"2026-10-24","report_file":"outputs/github-trending/2026-10-24.md","repository_id":1333652151},
+    {"canonical_url":"https://github.com/renhuai123/ziwei-doushu","owner_repo":"Renhuai123/ziwei-doushu","first_seen_date":"2026-10-24","report_file":"outputs/github-trending/2026-10-24.md","repository_id":1226205410},
+    {"canonical_url":"https://github.com/anil-matcha/open-duet","owner_repo":"Anil-matcha/open-duet","first_seen_date":"2026-10-24","report_file":"outputs/github-trending/2026-10-24.md","repository_id":645381450},
+    {"canonical_url":"https://github.com/sehajveersingh2005/bloom","owner_repo":"SehajveerSingh2005/bloom","first_seen_date":"2026-10-24","report_file":"outputs/github-trending/2026-10-24.md","repository_id":1186595268},
+    {"canonical_url":"https://github.com/vercel-labs/durable-harness","owner_repo":"vercel-labs/durable-harness","first_seen_date":"2026-10-24","report_file":"outputs/github-trending/2026-10-24.md","repository_id":1421663093},
+    {"canonical_url":"https://github.com/nichochar/ari","owner_repo":"nichochar/ari","first_seen_date":"2026-10-24","report_file":"outputs/github-trending/2026-10-24.md","repository_id":1424539377},
+    {"canonical_url":"https://github.com/zilvestro/grammai","owner_repo":"zilvestro/grammai","first_seen_date":"2026-10-24","report_file":"outputs/github-trending/2026-10-24.md","repository_id":1424734428}
   ]
 }
