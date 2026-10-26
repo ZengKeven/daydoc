@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-24T08:16:45+08:00",
+  "updated_at": "2026-10-26T08:17:11+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -695,6 +695,12 @@
     {"canonical_url":"https://github.com/sehajveersingh2005/bloom","owner_repo":"SehajveerSingh2005/bloom","first_seen_date":"2026-10-24","report_file":"outputs/github-trending/2026-10-24.md","repository_id":1186595268},
     {"canonical_url":"https://github.com/vercel-labs/durable-harness","owner_repo":"vercel-labs/durable-harness","first_seen_date":"2026-10-24","report_file":"outputs/github-trending/2026-10-24.md","repository_id":1421663093},
     {"canonical_url":"https://github.com/nichochar/ari","owner_repo":"nichochar/ari","first_seen_date":"2026-10-24","report_file":"outputs/github-trending/2026-10-24.md","repository_id":1424539377},
-    {"canonical_url":"https://github.com/zilvestro/grammai","owner_repo":"zilvestro/grammai","first_seen_date":"2026-10-24","report_file":"outputs/github-trending/2026-10-24.md","repository_id":1424734428}
+    {"canonical_url":"https://github.com/zilvestro/grammai","owner_repo":"zilvestro/grammai","first_seen_date":"2026-10-24","report_file":"outputs/github-trending/2026-10-24.md","repository_id":1424734428},
+    {"canonical_url":"https://github.com/aws/agent-toolkit-for-aws","owner_repo":"aws/agent-toolkit-for-aws","first_seen_date":"2026-10-26","report_file":"outputs/github-trending/2026-10-26.md","repository_id":1219009070},
+    {"canonical_url":"https://github.com/anthropics/sandbox-runtime","owner_repo":"anthropics/sandbox-runtime","first_seen_date":"2026-10-26","report_file":"outputs/github-trending/2026-10-26.md","repository_id":1079560616},
+    {"canonical_url":"https://github.com/jetbrains/thinkrail","owner_repo":"JetBrains/thinkrail","first_seen_date":"2026-10-26","report_file":"outputs/github-trending/2026-10-26.md","repository_id":1293238217},
+    {"canonical_url":"https://github.com/agricidaniel/claude-seo","owner_repo":"AgriciDaniel/claude-seo","first_seen_date":"2026-10-26","report_file":"outputs/github-trending/2026-10-26.md","repository_id":1152014594},
+    {"canonical_url":"https://github.com/ulsklyc/yuvomi","owner_repo":"ulsklyc/yuvomi","first_seen_date":"2026-10-26","report_file":"outputs/github-trending/2026-10-26.md","repository_id":1190598050},
+    {"canonical_url":"https://github.com/mantrakp04/ardia","owner_repo":"mantrakp04/ardia","first_seen_date":"2026-10-26","report_file":"outputs/github-trending/2026-10-26.md","repository_id":1274703665}
   ]
 }
