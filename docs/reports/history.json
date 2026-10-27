@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T08:17:11+08:00",
+  "updated_at": "2026-10-27T08:02:42+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -701,6 +701,12 @@
     {"canonical_url":"https://github.com/jetbrains/thinkrail","owner_repo":"JetBrains/thinkrail","first_seen_date":"2026-10-26","report_file":"outputs/github-trending/2026-10-26.md","repository_id":1293238217},
     {"canonical_url":"https://github.com/agricidaniel/claude-seo","owner_repo":"AgriciDaniel/claude-seo","first_seen_date":"2026-10-26","report_file":"outputs/github-trending/2026-10-26.md","repository_id":1152014594},
     {"canonical_url":"https://github.com/ulsklyc/yuvomi","owner_repo":"ulsklyc/yuvomi","first_seen_date":"2026-10-26","report_file":"outputs/github-trending/2026-10-26.md","repository_id":1190598050},
-    {"canonical_url":"https://github.com/mantrakp04/ardia","owner_repo":"mantrakp04/ardia","first_seen_date":"2026-10-26","report_file":"outputs/github-trending/2026-10-26.md","repository_id":1274703665}
+    {"canonical_url":"https://github.com/mantrakp04/ardia","owner_repo":"mantrakp04/ardia","first_seen_date":"2026-10-26","report_file":"outputs/github-trending/2026-10-26.md","repository_id":1274703665},
+    {"canonical_url":"https://github.com/microsoft/skill-recorder","owner_repo":"microsoft/skill-recorder","first_seen_date":"2026-10-27","report_file":"outputs/github-trending/2026-10-27.md","repository_id":1316443307},
+    {"canonical_url":"https://github.com/harnessrouter/harnessrouter","owner_repo":"HarnessRouter/harnessrouter","first_seen_date":"2026-10-27","report_file":"outputs/github-trending/2026-10-27.md","repository_id":1329163060},
+    {"canonical_url":"https://github.com/refactoringhq/tolaria","owner_repo":"refactoringhq/tolaria","first_seen_date":"2026-10-27","report_file":"outputs/github-trending/2026-10-27.md","repository_id":1158096951},
+    {"canonical_url":"https://github.com/narcooo/inkos","owner_repo":"Narcooo/inkos","first_seen_date":"2026-10-27","report_file":"outputs/github-trending/2026-10-27.md","repository_id":1179413000},
+    {"canonical_url":"https://github.com/xmanrui/dsh-im","owner_repo":"xmanrui/dsh-im","first_seen_date":"2026-10-27","report_file":"outputs/github-trending/2026-10-27.md","repository_id":1334561781},
+    {"canonical_url":"https://github.com/homeassistant-ai/ha-mcp","owner_repo":"homeassistant-ai/ha-mcp","first_seen_date":"2026-10-27","report_file":"outputs/github-trending/2026-10-27.md","repository_id":1056618941}
   ]
 }
