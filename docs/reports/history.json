@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-27T08:02:42+08:00",
+  "updated_at": "2026-10-28T08:03:29+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -707,6 +707,13 @@
     {"canonical_url":"https://github.com/refactoringhq/tolaria","owner_repo":"refactoringhq/tolaria","first_seen_date":"2026-10-27","report_file":"outputs/github-trending/2026-10-27.md","repository_id":1158096951},
     {"canonical_url":"https://github.com/narcooo/inkos","owner_repo":"Narcooo/inkos","first_seen_date":"2026-10-27","report_file":"outputs/github-trending/2026-10-27.md","repository_id":1179413000},
     {"canonical_url":"https://github.com/xmanrui/dsh-im","owner_repo":"xmanrui/dsh-im","first_seen_date":"2026-10-27","report_file":"outputs/github-trending/2026-10-27.md","repository_id":1334561781},
-    {"canonical_url":"https://github.com/homeassistant-ai/ha-mcp","owner_repo":"homeassistant-ai/ha-mcp","first_seen_date":"2026-10-27","report_file":"outputs/github-trending/2026-10-27.md","repository_id":1056618941}
+    {"canonical_url":"https://github.com/homeassistant-ai/ha-mcp","owner_repo":"homeassistant-ai/ha-mcp","first_seen_date":"2026-10-27","report_file":"outputs/github-trending/2026-10-27.md","repository_id":1056618941},
+    {"canonical_url":"https://github.com/qcytsn/dsh-dafeiyu","owner_repo":"QCYTSN/dsh-dafeiyu","first_seen_date":"2026-10-28","report_file":"outputs/github-trending/2026-10-28.md","repository_id":1333755311},
+    {"canonical_url":"https://github.com/hkuds/autoswarm","owner_repo":"HKUDS/AutoSwarm","first_seen_date":"2026-10-28","report_file":"outputs/github-trending/2026-10-28.md","repository_id":1285974683},
+    {"canonical_url":"https://github.com/nvidia/auto-ontology","owner_repo":"NVIDIA/auto-ontology","first_seen_date":"2026-10-28","report_file":"outputs/github-trending/2026-10-28.md","repository_id":1222953295},
+    {"canonical_url":"https://github.com/galaxy-s10/billd-desk","owner_repo":"galaxy-s10/billd-desk","first_seen_date":"2026-10-28","report_file":"outputs/github-trending/2026-10-28.md","repository_id":764024387},
+    {"canonical_url":"https://github.com/copilotkit/openduet","owner_repo":"CopilotKit/OpenDuet","first_seen_date":"2026-10-28","report_file":"outputs/github-trending/2026-10-28.md","repository_id":1428854046},
+    {"canonical_url":"https://github.com/aidotnet/tkcode.arc","owner_repo":"AIDotNet/TKCode.Arc","first_seen_date":"2026-10-28","report_file":"outputs/github-trending/2026-10-28.md","repository_id":1426652370},
+    {"canonical_url":"https://github.com/looplj/reveric","owner_repo":"looplj/reveric","first_seen_date":"2026-10-28","report_file":"outputs/github-trending/2026-10-28.md","repository_id":1429989301}
   ]
 }
