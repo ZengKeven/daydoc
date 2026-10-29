@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T08:03:29+08:00",
+  "updated_at": "2026-10-29T08:09:40+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -714,6 +714,16 @@
     {"canonical_url":"https://github.com/galaxy-s10/billd-desk","owner_repo":"galaxy-s10/billd-desk","first_seen_date":"2026-10-28","report_file":"outputs/github-trending/2026-10-28.md","repository_id":764024387},
     {"canonical_url":"https://github.com/copilotkit/openduet","owner_repo":"CopilotKit/OpenDuet","first_seen_date":"2026-10-28","report_file":"outputs/github-trending/2026-10-28.md","repository_id":1428854046},
     {"canonical_url":"https://github.com/aidotnet/tkcode.arc","owner_repo":"AIDotNet/TKCode.Arc","first_seen_date":"2026-10-28","report_file":"outputs/github-trending/2026-10-28.md","repository_id":1426652370},
-    {"canonical_url":"https://github.com/looplj/reveric","owner_repo":"looplj/reveric","first_seen_date":"2026-10-28","report_file":"outputs/github-trending/2026-10-28.md","repository_id":1429989301}
+    {"canonical_url":"https://github.com/looplj/reveric","owner_repo":"looplj/reveric","first_seen_date":"2026-10-28","report_file":"outputs/github-trending/2026-10-28.md","repository_id":1429989301},
+    {"canonical_url":"https://github.com/shitagaki-lab/see-through","owner_repo":"shitagaki-lab/see-through","first_seen_date":"2026-10-29","report_file":"outputs/github-trending/2026-10-29.md","repository_id":1196897920},
+    {"canonical_url":"https://github.com/lyramakesmusic/neuron-explorer","owner_repo":"lyramakesmusic/neuron-explorer","first_seen_date":"2026-10-29","report_file":"outputs/github-trending/2026-10-29.md","repository_id":1427861485},
+    {"canonical_url":"https://github.com/inclusionai/ming-3.0-tts","owner_repo":"inclusionAI/Ming-3.0-tts","first_seen_date":"2026-10-29","report_file":"outputs/github-trending/2026-10-29.md","repository_id":1425239877},
+    {"canonical_url":"https://github.com/lwh0630/tokenbar","owner_repo":"lwh0630/TokenBar","first_seen_date":"2026-10-29","report_file":"outputs/github-trending/2026-10-29.md","repository_id":1431932080},
+    {"canonical_url":"https://github.com/l0ng-ai/openidea","owner_repo":"l0ng-ai/openidea","first_seen_date":"2026-10-29","report_file":"outputs/github-trending/2026-10-29.md","repository_id":1428347546},
+    {"canonical_url":"https://github.com/nutlope/bygga","owner_repo":"Nutlope/bygga","first_seen_date":"2026-10-29","report_file":"outputs/github-trending/2026-10-29.md","repository_id":1428570516},
+    {"canonical_url":"https://github.com/mrcen3204097569-spec/lean-electron-vue","owner_repo":"mrcen3204097569-spec/lean-electron-vue","first_seen_date":"2026-10-29","report_file":"outputs/github-trending/2026-10-29.md","repository_id":1429375453},
+    {"canonical_url":"https://github.com/ivarvong/lantern","owner_repo":"ivarvong/lantern","first_seen_date":"2026-10-29","report_file":"outputs/github-trending/2026-10-29.md","repository_id":1431597980},
+    {"canonical_url":"https://github.com/haydenschmitty/floorplan","owner_repo":"haydenschmitty/floorplan","first_seen_date":"2026-10-29","report_file":"outputs/github-trending/2026-10-29.md","repository_id":1435672472},
+    {"canonical_url":"https://github.com/zoefix/agent-speed","owner_repo":"zoefix/agent-speed","first_seen_date":"2026-10-29","report_file":"outputs/github-trending/2026-10-29.md","repository_id":1427803507}
   ]
 }
