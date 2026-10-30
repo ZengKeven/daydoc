@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-29T08:09:40+08:00",
+  "updated_at": "2026-10-30T08:06:11+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -724,6 +724,15 @@
     {"canonical_url":"https://github.com/mrcen3204097569-spec/lean-electron-vue","owner_repo":"mrcen3204097569-spec/lean-electron-vue","first_seen_date":"2026-10-29","report_file":"outputs/github-trending/2026-10-29.md","repository_id":1429375453},
     {"canonical_url":"https://github.com/ivarvong/lantern","owner_repo":"ivarvong/lantern","first_seen_date":"2026-10-29","report_file":"outputs/github-trending/2026-10-29.md","repository_id":1431597980},
     {"canonical_url":"https://github.com/haydenschmitty/floorplan","owner_repo":"haydenschmitty/floorplan","first_seen_date":"2026-10-29","report_file":"outputs/github-trending/2026-10-29.md","repository_id":1435672472},
-    {"canonical_url":"https://github.com/zoefix/agent-speed","owner_repo":"zoefix/agent-speed","first_seen_date":"2026-10-29","report_file":"outputs/github-trending/2026-10-29.md","repository_id":1427803507}
+    {"canonical_url":"https://github.com/zoefix/agent-speed","owner_repo":"zoefix/agent-speed","first_seen_date":"2026-10-29","report_file":"outputs/github-trending/2026-10-29.md","repository_id":1427803507},
+    {"canonical_url":"https://github.com/milind-soni/openmausbot","owner_repo":"milind-soni/OpenMausBot","first_seen_date":"2026-10-30","report_file":"outputs/github-trending/2026-10-30.md","repository_id":1331261687},
+    {"canonical_url":"https://github.com/beenuar/aisoc","owner_repo":"beenuar/AiSOC","first_seen_date":"2026-10-30","report_file":"outputs/github-trending/2026-10-30.md","repository_id":1226971975},
+    {"canonical_url":"https://github.com/rlaope/oh-my-hermes","owner_repo":"rlaope/oh-my-hermes","first_seen_date":"2026-10-30","report_file":"outputs/github-trending/2026-10-30.md","repository_id":1258301311},
+    {"canonical_url":"https://github.com/patch-gg/anymove","owner_repo":"patch-gg/anymove","first_seen_date":"2026-10-30","report_file":"outputs/github-trending/2026-10-30.md","repository_id":1435425970},
+    {"canonical_url":"https://github.com/jms1717/ming-voice","owner_repo":"JMS1717/ming-voice","first_seen_date":"2026-10-30","report_file":"outputs/github-trending/2026-10-30.md","repository_id":1427730644},
+    {"canonical_url":"https://github.com/yaojingang/geoinflow","owner_repo":"yaojingang/GEOInflow","first_seen_date":"2026-10-30","report_file":"outputs/github-trending/2026-10-30.md","repository_id":1433846971},
+    {"canonical_url":"https://github.com/rudderlabs/devbox","owner_repo":"rudderlabs/devbox","first_seen_date":"2026-10-30","report_file":"outputs/github-trending/2026-10-30.md","repository_id":1435329777},
+    {"canonical_url":"https://github.com/lorisyounger/vpet","owner_repo":"LorisYounger/VPet","first_seen_date":"2026-10-30","report_file":"outputs/github-trending/2026-10-30.md","repository_id":577623124},
+    {"canonical_url":"https://github.com/charonyuu/whatsmyagentdoing","owner_repo":"Charonyuu/whatsmyagentdoing","first_seen_date":"2026-10-30","report_file":"outputs/github-trending/2026-10-30.md","repository_id":1431137168}
   ]
 }
