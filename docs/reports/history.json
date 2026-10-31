@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-30T08:06:11+08:00",
+  "updated_at": "2026-10-31T08:03:55+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -733,6 +733,12 @@
     {"canonical_url":"https://github.com/yaojingang/geoinflow","owner_repo":"yaojingang/GEOInflow","first_seen_date":"2026-10-30","report_file":"outputs/github-trending/2026-10-30.md","repository_id":1433846971},
     {"canonical_url":"https://github.com/rudderlabs/devbox","owner_repo":"rudderlabs/devbox","first_seen_date":"2026-10-30","report_file":"outputs/github-trending/2026-10-30.md","repository_id":1435329777},
     {"canonical_url":"https://github.com/lorisyounger/vpet","owner_repo":"LorisYounger/VPet","first_seen_date":"2026-10-30","report_file":"outputs/github-trending/2026-10-30.md","repository_id":577623124},
-    {"canonical_url":"https://github.com/charonyuu/whatsmyagentdoing","owner_repo":"Charonyuu/whatsmyagentdoing","first_seen_date":"2026-10-30","report_file":"outputs/github-trending/2026-10-30.md","repository_id":1431137168}
+    {"canonical_url":"https://github.com/charonyuu/whatsmyagentdoing","owner_repo":"Charonyuu/whatsmyagentdoing","first_seen_date":"2026-10-30","report_file":"outputs/github-trending/2026-10-30.md","repository_id":1431137168},
+    {"canonical_url":"https://github.com/orkas-ai/orkas","owner_repo":"Orkas-AI/Orkas","first_seen_date":"2026-10-31","report_file":"outputs/github-trending/2026-10-31.md","repository_id":1224575142},
+    {"canonical_url":"https://github.com/lightpanda-io/browser","owner_repo":"lightpanda-io/browser","first_seen_date":"2026-10-31","report_file":"outputs/github-trending/2026-10-31.md","repository_id":598667202},
+    {"canonical_url":"https://github.com/babalae/better-genshin-impact","owner_repo":"babalae/better-genshin-impact","first_seen_date":"2026-10-31","report_file":"outputs/github-trending/2026-10-31.md","repository_id":683560668},
+    {"canonical_url":"https://github.com/hmjz100/linkswift","owner_repo":"hmjz100/LinkSwift","first_seen_date":"2026-10-31","report_file":"outputs/github-trending/2026-10-31.md","repository_id":523325759},
+    {"canonical_url":"https://github.com/mempalace/mempalace","owner_repo":"MemPalace/mempalace","first_seen_date":"2026-10-31","report_file":"outputs/github-trending/2026-10-31.md","repository_id":1201656210},
+    {"canonical_url":"https://github.com/ethanplusai/harvey","owner_repo":"ethanplusai/harvey","first_seen_date":"2026-10-31","report_file":"outputs/github-trending/2026-10-31.md","repository_id":1179388779}
   ]
 }
