@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T08:03:55+08:00",
+  "updated_at": "2026-11-03T08:01:12+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -739,6 +739,14 @@
     {"canonical_url":"https://github.com/babalae/better-genshin-impact","owner_repo":"babalae/better-genshin-impact","first_seen_date":"2026-10-31","report_file":"outputs/github-trending/2026-10-31.md","repository_id":683560668},
     {"canonical_url":"https://github.com/hmjz100/linkswift","owner_repo":"hmjz100/LinkSwift","first_seen_date":"2026-10-31","report_file":"outputs/github-trending/2026-10-31.md","repository_id":523325759},
     {"canonical_url":"https://github.com/mempalace/mempalace","owner_repo":"MemPalace/mempalace","first_seen_date":"2026-10-31","report_file":"outputs/github-trending/2026-10-31.md","repository_id":1201656210},
-    {"canonical_url":"https://github.com/ethanplusai/harvey","owner_repo":"ethanplusai/harvey","first_seen_date":"2026-10-31","report_file":"outputs/github-trending/2026-10-31.md","repository_id":1179388779}
+    {"canonical_url":"https://github.com/ethanplusai/harvey","owner_repo":"ethanplusai/harvey","first_seen_date":"2026-10-31","report_file":"outputs/github-trending/2026-10-31.md","repository_id":1179388779},
+    {"canonical_url":"https://github.com/vercel-labs/agent-desktop","owner_repo":"vercel-labs/agent-desktop","first_seen_date":"2026-11-02","report_file":"outputs/github-trending/2026-11-02.md","repository_id":1161958643},
+    {"canonical_url":"https://github.com/flashml-org/freetoken","owner_repo":"FlashML-org/FreeToken","first_seen_date":"2026-11-02","report_file":"outputs/github-trending/2026-11-02.md","repository_id":1307001698},
+    {"canonical_url":"https://github.com/kornia/kornia","owner_repo":"kornia/kornia","first_seen_date":"2026-11-02","report_file":"outputs/github-trending/2026-11-02.md","repository_id":145693916},
+    {"canonical_url":"https://github.com/cheaper-inference/omniroute","owner_repo":"cheaper-inference/OmniRoute","first_seen_date":"2026-11-02","report_file":"outputs/github-trending/2026-11-02.md","repository_id":1157102282},
+    {"canonical_url":"https://github.com/kgoedecke/doop","owner_repo":"kgoedecke/doop","first_seen_date":"2026-11-02","report_file":"outputs/github-trending/2026-11-02.md","repository_id":1342943152},
+    {"canonical_url":"https://github.com/cnckitchen/scanruler","owner_repo":"CNCKitchen/ScanRuler","first_seen_date":"2026-11-02","report_file":"outputs/github-trending/2026-11-02.md","repository_id":1333252617},
+    {"canonical_url":"https://github.com/deanchensj/jiangshan-map","owner_repo":"DeanChensj/jiangshan-map","first_seen_date":"2026-11-02","report_file":"outputs/github-trending/2026-11-02.md","repository_id":1310427454},
+    {"canonical_url":"https://github.com/techjarves/portable-local-studio","owner_repo":"techjarves/Portable-Local-Studio","first_seen_date":"2026-11-02","report_file":"outputs/github-trending/2026-11-02.md","repository_id":1258932513}
   ]
 }
