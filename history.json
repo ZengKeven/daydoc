@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-03T08:09:26+08:00",
+  "updated_at": "2026-11-04T08:10:56+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -751,6 +751,14 @@
     {"canonical_url":"https://github.com/donchitos/claude-code-game-studios","owner_repo":"Donchitos/Claude-Code-Game-Studios","first_seen_date":"2026-11-03","report_file":"outputs/github-trending/2026-11-03.md","repository_id":1155965274},
     {"canonical_url":"https://github.com/karpathy/nanochat","owner_repo":"karpathy/nanochat","first_seen_date":"2026-11-03","report_file":"outputs/github-trending/2026-11-03.md","repository_id":1075431749},
     {"canonical_url":"https://github.com/max-sixty/worktrunk","owner_repo":"max-sixty/worktrunk","first_seen_date":"2026-11-03","report_file":"outputs/github-trending/2026-11-03.md","repository_id":1078528927},
-    {"canonical_url":"https://github.com/riyasy/flyphotos","owner_repo":"riyasy/FlyPhotos","first_seen_date":"2026-11-03","report_file":"outputs/github-trending/2026-11-03.md","repository_id":703984109}
+    {"canonical_url":"https://github.com/riyasy/flyphotos","owner_repo":"riyasy/FlyPhotos","first_seen_date":"2026-11-03","report_file":"outputs/github-trending/2026-11-03.md","repository_id":703984109},
+    {"canonical_url":"https://github.com/anomalyco/hex","owner_repo":"anomalyco/hex","first_seen_date":"2026-11-04","report_file":"outputs/github-trending/2026-11-04.md","repository_id":1304469751},
+    {"canonical_url":"https://github.com/mattpocock/sandcastle","owner_repo":"mattpocock/sandcastle","first_seen_date":"2026-11-04","report_file":"outputs/github-trending/2026-11-04.md","repository_id":1184397362},
+    {"canonical_url":"https://github.com/liguobao/ds-harness-remote","owner_repo":"liguobao/ds-harness-remote","first_seen_date":"2026-11-04","report_file":"outputs/github-trending/2026-11-04.md","repository_id":1334325657},
+    {"canonical_url":"https://github.com/usagi-org/ai-goofish-monitor","owner_repo":"Usagi-org/ai-goofish-monitor","first_seen_date":"2026-11-04","report_file":"outputs/github-trending/2026-11-04.md","repository_id":1020672081},
+    {"canonical_url":"https://github.com/spotify/portal-ai-plugins","owner_repo":"spotify/portal-ai-plugins","first_seen_date":"2026-11-04","report_file":"outputs/github-trending/2026-11-04.md","repository_id":1310374568},
+    {"canonical_url":"https://github.com/aminblg/simpleenglish","owner_repo":"AminBlg/SimpleEnglish","first_seen_date":"2026-11-04","report_file":"outputs/github-trending/2026-11-04.md","repository_id":1307568662},
+    {"canonical_url":"https://github.com/agent0ai/agent-zero","owner_repo":"agent0ai/agent-zero","first_seen_date":"2026-11-04","report_file":"outputs/github-trending/2026-11-04.md","repository_id":812975380},
+    {"canonical_url":"https://github.com/csyangwen/dsh-memory-evolve","owner_repo":"csyangwen/dsh-memory-evolve","first_seen_date":"2026-11-04","report_file":"outputs/github-trending/2026-11-04.md","repository_id":1323731026}
   ]
 }
