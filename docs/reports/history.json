@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-04T08:10:56+08:00",
+  "updated_at": "2026-11-05T08:12:38+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -759,6 +759,11 @@
     {"canonical_url":"https://github.com/spotify/portal-ai-plugins","owner_repo":"spotify/portal-ai-plugins","first_seen_date":"2026-11-04","report_file":"outputs/github-trending/2026-11-04.md","repository_id":1310374568},
     {"canonical_url":"https://github.com/aminblg/simpleenglish","owner_repo":"AminBlg/SimpleEnglish","first_seen_date":"2026-11-04","report_file":"outputs/github-trending/2026-11-04.md","repository_id":1307568662},
     {"canonical_url":"https://github.com/agent0ai/agent-zero","owner_repo":"agent0ai/agent-zero","first_seen_date":"2026-11-04","report_file":"outputs/github-trending/2026-11-04.md","repository_id":812975380},
-    {"canonical_url":"https://github.com/csyangwen/dsh-memory-evolve","owner_repo":"csyangwen/dsh-memory-evolve","first_seen_date":"2026-11-04","report_file":"outputs/github-trending/2026-11-04.md","repository_id":1323731026}
+    {"canonical_url":"https://github.com/csyangwen/dsh-memory-evolve","owner_repo":"csyangwen/dsh-memory-evolve","first_seen_date":"2026-11-04","report_file":"outputs/github-trending/2026-11-04.md","repository_id":1323731026},
+    {"canonical_url":"https://github.com/jiafeimiao-k-cat/discimagestudio","owner_repo":"JiaFeiMiao-K-Cat/DiscImageStudio","first_seen_date":"2026-11-05","report_file":"outputs/github-trending/2026-11-05.md","repository_id":1343344945},
+    {"canonical_url":"https://github.com/the-pr-agent/pr-agent","owner_repo":"The-PR-Agent/pr-agent","first_seen_date":"2026-11-05","report_file":"outputs/github-trending/2026-11-05.md","repository_id":662766482},
+    {"canonical_url":"https://github.com/thysrael/horizon","owner_repo":"Thysrael/Horizon","first_seen_date":"2026-11-05","report_file":"outputs/github-trending/2026-11-05.md","repository_id":1162410458},
+    {"canonical_url":"https://github.com/scenario-labs/skills","owner_repo":"scenario-labs/skills","first_seen_date":"2026-11-05","report_file":"outputs/github-trending/2026-11-05.md","repository_id":1331882604},
+    {"canonical_url":"https://github.com/conardli/garden-skills","owner_repo":"ConardLi/garden-skills","first_seen_date":"2026-11-05","report_file":"outputs/github-trending/2026-11-05.md","repository_id":1216954187}
   ]
 }
