@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-06T08:07:18+08:00",
+  "updated_at": "2026-11-07T08:11:31+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -769,6 +769,11 @@
     {"repository_id":1355682712,"report_file":"outputs/github-trending/2026-11-06.md","canonical_url":"https://github.com/mofeng2223/brimdeck","owner_repo":"MoFeng2223/BrimDeck","first_seen_date":"2026-11-06"},
     {"repository_id":1132001614,"report_file":"outputs/github-trending/2026-11-06.md","canonical_url":"https://github.com/vercel-labs/agent-browser","owner_repo":"vercel-labs/agent-browser","first_seen_date":"2026-11-06"},
     {"repository_id":542284380,"report_file":"outputs/github-trending/2026-11-06.md","canonical_url":"https://github.com/usebruno/bruno","owner_repo":"usebruno/bruno","first_seen_date":"2026-11-06"},
-    {"repository_id":1172206206,"report_file":"outputs/github-trending/2026-11-06.md","canonical_url":"https://github.com/kenkaiii/gg-framework","owner_repo":"KenKaiii/gg-framework","first_seen_date":"2026-11-06"}
+    {"repository_id":1172206206,"report_file":"outputs/github-trending/2026-11-06.md","canonical_url":"https://github.com/kenkaiii/gg-framework","owner_repo":"KenKaiii/gg-framework","first_seen_date":"2026-11-06"},
+    {"canonical_url":"https://github.com/sherlock-project/sherlock","owner_repo":"sherlock-project/sherlock","first_seen_date":"2026-11-07","report_file":"outputs/github-trending/2026-11-07.md","repository_id":162998479},
+    {"canonical_url":"https://github.com/inlitx/gymmane","owner_repo":"InlitX/GymMane","first_seen_date":"2026-11-07","report_file":"outputs/github-trending/2026-11-07.md","repository_id":1323999388},
+    {"canonical_url":"https://github.com/paradevai/paradev","owner_repo":"ParadevAI/Paradev","first_seen_date":"2026-11-07","report_file":"outputs/github-trending/2026-11-07.md","repository_id":1080370450},
+    {"canonical_url":"https://github.com/astral-sh/ruff","owner_repo":"astral-sh/ruff","first_seen_date":"2026-11-07","report_file":"outputs/github-trending/2026-11-07.md","repository_id":523043277},
+    {"canonical_url":"https://github.com/had0yun/cozyclay","owner_repo":"HaD0Yun/CozyClay","first_seen_date":"2026-11-07","report_file":"outputs/github-trending/2026-11-07.md","repository_id":1315384578}
   ]
 }
