@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-07T08:11:31+08:00",
+  "updated_at": "2026-11-11T08:15:22+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -774,6 +774,13 @@
     {"canonical_url":"https://github.com/inlitx/gymmane","owner_repo":"InlitX/GymMane","first_seen_date":"2026-11-07","report_file":"outputs/github-trending/2026-11-07.md","repository_id":1323999388},
     {"canonical_url":"https://github.com/paradevai/paradev","owner_repo":"ParadevAI/Paradev","first_seen_date":"2026-11-07","report_file":"outputs/github-trending/2026-11-07.md","repository_id":1080370450},
     {"canonical_url":"https://github.com/astral-sh/ruff","owner_repo":"astral-sh/ruff","first_seen_date":"2026-11-07","report_file":"outputs/github-trending/2026-11-07.md","repository_id":523043277},
-    {"canonical_url":"https://github.com/had0yun/cozyclay","owner_repo":"HaD0Yun/CozyClay","first_seen_date":"2026-11-07","report_file":"outputs/github-trending/2026-11-07.md","repository_id":1315384578}
+    {"canonical_url":"https://github.com/had0yun/cozyclay","owner_repo":"HaD0Yun/CozyClay","first_seen_date":"2026-11-07","report_file":"outputs/github-trending/2026-11-07.md","repository_id":1315384578},
+    {"canonical_url":"https://github.com/opensandbox-group/opensandbox","owner_repo":"opensandbox-group/OpenSandbox","first_seen_date":"2026-11-11","report_file":"outputs/github-trending/2026-11-11.md","repository_id":1118085970},
+    {"canonical_url":"https://github.com/google-deepmind/mujoco","owner_repo":"google-deepmind/mujoco","first_seen_date":"2026-11-11","report_file":"outputs/github-trending/2026-11-11.md","repository_id":400501136},
+    {"canonical_url":"https://github.com/garrytan/gbrain","owner_repo":"garrytan/gbrain","first_seen_date":"2026-11-11","report_file":"outputs/github-trending/2026-11-11.md","repository_id":1202057891},
+    {"canonical_url":"https://github.com/zhulinsen/daily_stock_analysis","owner_repo":"ZhuLinsen/daily_stock_analysis","first_seen_date":"2026-11-11","report_file":"outputs/github-trending/2026-11-11.md","repository_id":1131513930},
+    {"canonical_url":"https://github.com/whitetowerai/ohmygame","owner_repo":"WhiteTowerAI/ohmygame","first_seen_date":"2026-11-11","report_file":"outputs/github-trending/2026-11-11.md","repository_id":1330417082},
+    {"canonical_url":"https://github.com/anthropics/claude-quickstarts","owner_repo":"anthropics/claude-quickstarts","first_seen_date":"2026-11-11","report_file":"outputs/github-trending/2026-11-11.md","repository_id":849553306},
+    {"canonical_url":"https://github.com/a-ghorbani/pocketpal-ai","owner_repo":"a-ghorbani/pocketpal-ai","first_seen_date":"2026-11-11","report_file":"outputs/github-trending/2026-11-11.md","repository_id":847231566}
   ]
 }
