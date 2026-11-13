@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:15:22+08:00",
+  "updated_at": "2026-11-14T01:18:30+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -781,6 +781,12 @@
     {"canonical_url":"https://github.com/zhulinsen/daily_stock_analysis","owner_repo":"ZhuLinsen/daily_stock_analysis","first_seen_date":"2026-11-11","report_file":"outputs/github-trending/2026-11-11.md","repository_id":1131513930},
     {"canonical_url":"https://github.com/whitetowerai/ohmygame","owner_repo":"WhiteTowerAI/ohmygame","first_seen_date":"2026-11-11","report_file":"outputs/github-trending/2026-11-11.md","repository_id":1330417082},
     {"canonical_url":"https://github.com/anthropics/claude-quickstarts","owner_repo":"anthropics/claude-quickstarts","first_seen_date":"2026-11-11","report_file":"outputs/github-trending/2026-11-11.md","repository_id":849553306},
-    {"canonical_url":"https://github.com/a-ghorbani/pocketpal-ai","owner_repo":"a-ghorbani/pocketpal-ai","first_seen_date":"2026-11-11","report_file":"outputs/github-trending/2026-11-11.md","repository_id":847231566}
+    {"canonical_url":"https://github.com/a-ghorbani/pocketpal-ai","owner_repo":"a-ghorbani/pocketpal-ai","first_seen_date":"2026-11-11","report_file":"outputs/github-trending/2026-11-11.md","repository_id":847231566},
+    {"canonical_url":"https://github.com/google/elephant-goldfish-model","owner_repo":"google/elephant-goldfish-model","first_seen_date":"2026-11-14","report_file":"outputs/github-trending/2026-11-14.md","repository_id":1368596582},
+    {"canonical_url":"https://github.com/googlechrome/modern-web-guidance-src","owner_repo":"GoogleChrome/modern-web-guidance-src","first_seen_date":"2026-11-14","report_file":"outputs/github-trending/2026-11-14.md","repository_id":1143633223},
+    {"canonical_url":"https://github.com/a2ui-project/a2ui","owner_repo":"a2ui-project/a2ui","first_seen_date":"2026-11-14","report_file":"outputs/github-trending/2026-11-14.md","repository_id":1063641074},
+    {"canonical_url":"https://github.com/getpaseo/paseo","owner_repo":"getpaseo/paseo","first_seen_date":"2026-11-14","report_file":"outputs/github-trending/2026-11-14.md","repository_id":1075381375},
+    {"canonical_url":"https://github.com/kajisho5/ffmpeg-skill","owner_repo":"kajisho5/ffmpeg-skill","first_seen_date":"2026-11-14","report_file":"outputs/github-trending/2026-11-14.md","repository_id":1356077516},
+    {"canonical_url":"https://github.com/smart-paocai/violettoolbox","owner_repo":"Smart-Paocai/VioletToolBox","first_seen_date":"2026-11-14","report_file":"outputs/github-trending/2026-11-14.md","repository_id":1365210775}
   ]
 }
