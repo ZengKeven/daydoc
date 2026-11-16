@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-15T08:14:20+08:00",
+  "updated_at": "2026-11-16T08:08:27+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -795,6 +795,12 @@
     {"canonical_url":"https://github.com/fujiwarachoki/supoclip","owner_repo":"FujiwaraChoki/supoclip","first_seen_date":"2026-11-15","report_file":"outputs/github-trending/2026-11-15.md","repository_id":1028035407},
     {"canonical_url":"https://github.com/pnnbao97/vieneu-tts","owner_repo":"pnnbao97/VieNeu-TTS","first_seen_date":"2026-11-15","report_file":"outputs/github-trending/2026-11-15.md","repository_id":1085043404},
     {"canonical_url":"https://github.com/lidge-jun/opencodex","owner_repo":"lidge-jun/opencodex","first_seen_date":"2026-11-15","report_file":"outputs/github-trending/2026-11-15.md","repository_id":1273824907},
-    {"canonical_url":"https://github.com/libretranslate/libretranslate","owner_repo":"LibreTranslate/LibreTranslate","first_seen_date":"2026-11-15","report_file":"outputs/github-trending/2026-11-15.md","repository_id":322921248}
+    {"canonical_url":"https://github.com/libretranslate/libretranslate","owner_repo":"LibreTranslate/LibreTranslate","first_seen_date":"2026-11-15","report_file":"outputs/github-trending/2026-11-15.md","repository_id":322921248},
+    {"canonical_url":"https://github.com/vercel-labs/ui","owner_repo":"vercel-labs/ui","first_seen_date":"2026-11-16","report_file":"outputs/github-trending/2026-11-16.md","repository_id":1434724807},
+    {"canonical_url":"https://github.com/amosblomqvist/learnharness","owner_repo":"amosblomqvist/learnharness","first_seen_date":"2026-11-16","report_file":"outputs/github-trending/2026-11-16.md","repository_id":1422597771},
+    {"canonical_url":"https://github.com/deepseek-ai/dsh-superagent-prototype","owner_repo":"deepseek-ai/dsh-superagent-prototype","first_seen_date":"2026-11-16","report_file":"outputs/github-trending/2026-11-16.md","repository_id":1440705679},
+    {"canonical_url":"https://github.com/maillab/cloud-mail","owner_repo":"maillab/cloud-mail","first_seen_date":"2026-11-16","report_file":"outputs/github-trending/2026-11-16.md","repository_id":971999086},
+    {"canonical_url":"https://github.com/assistant-ui/assistant-ui","owner_repo":"assistant-ui/assistant-ui","first_seen_date":"2026-11-16","report_file":"outputs/github-trending/2026-11-16.md","repository_id":722184017},
+    {"canonical_url":"https://github.com/nolly-studio/cult-ui","owner_repo":"nolly-studio/cult-ui","first_seen_date":"2026-11-16","report_file":"outputs/github-trending/2026-11-16.md","repository_id":806879762}
   ]
 }
