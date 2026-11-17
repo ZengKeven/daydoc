@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-16T08:08:27+08:00",
+  "updated_at": "2026-11-17T08:07:29+08:00",
   "repositories": [
     { "canonical_url": "https://github.com/iofficeai/officecli", "owner_repo": "iOfficeAI/OfficeCLI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
     { "canonical_url": "https://github.com/netease-youdao/lobsterai", "owner_repo": "netease-youdao/LobsterAI", "first_seen_date": "2026-07-16", "report_file": "outputs/github-trending/2026-07-16.md" },
@@ -801,6 +801,11 @@
     {"canonical_url":"https://github.com/deepseek-ai/dsh-superagent-prototype","owner_repo":"deepseek-ai/dsh-superagent-prototype","first_seen_date":"2026-11-16","report_file":"outputs/github-trending/2026-11-16.md","repository_id":1440705679},
     {"canonical_url":"https://github.com/maillab/cloud-mail","owner_repo":"maillab/cloud-mail","first_seen_date":"2026-11-16","report_file":"outputs/github-trending/2026-11-16.md","repository_id":971999086},
     {"canonical_url":"https://github.com/assistant-ui/assistant-ui","owner_repo":"assistant-ui/assistant-ui","first_seen_date":"2026-11-16","report_file":"outputs/github-trending/2026-11-16.md","repository_id":722184017},
-    {"canonical_url":"https://github.com/nolly-studio/cult-ui","owner_repo":"nolly-studio/cult-ui","first_seen_date":"2026-11-16","report_file":"outputs/github-trending/2026-11-16.md","repository_id":806879762}
+    {"canonical_url":"https://github.com/nolly-studio/cult-ui","owner_repo":"nolly-studio/cult-ui","first_seen_date":"2026-11-16","report_file":"outputs/github-trending/2026-11-16.md","repository_id":806879762},
+    {"canonical_url":"https://github.com/google-research/paper-orchestra","owner_repo":"google-research/paper-orchestra","first_seen_date":"2026-11-17","report_file":"outputs/github-trending/2026-11-17.md","repository_id":1226691771},
+    {"canonical_url":"https://github.com/esengine/estella","owner_repo":"esengine/estella","first_seen_date":"2026-11-17","report_file":"outputs/github-trending/2026-11-17.md","repository_id":1141663444},
+    {"canonical_url":"https://github.com/vstorm-co/agenticos","owner_repo":"vstorm-co/agenticos","first_seen_date":"2026-11-17","report_file":"outputs/github-trending/2026-11-17.md","repository_id":1318197751},
+    {"canonical_url":"https://github.com/hanliang97/matrixmedia","owner_repo":"hanliang97/MatrixMedia","first_seen_date":"2026-11-17","report_file":"outputs/github-trending/2026-11-17.md","repository_id":1187686777},
+    {"canonical_url":"https://github.com/getarcaneapp/arcane","owner_repo":"getarcaneapp/arcane","first_seen_date":"2026-11-17","report_file":"outputs/github-trending/2026-11-17.md","repository_id":968905557}
   ]
 }
